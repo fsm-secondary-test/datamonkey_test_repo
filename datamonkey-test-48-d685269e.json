@@ -1,0 +1,22 @@
+{
+  "test_file": "datamonkey_test_48.json",
+  "purpose": "Testing GitHub sync with JSON content",
+  "content": {
+    "title": "Datamonkey Test File 48",
+    "description": "A JSON file for testing GitHub sync functionality",
+    "file_number": 48,
+    "file_type": "json",
+    "random_suffix": "d685269e",
+    "features": [
+      "JSON structure testing",
+      "Content extraction",
+      "Qdrant indexing",
+      "Search verification"
+    ],
+    "metadata": {
+      "created_by": "datamonkey",
+      "test_type": "github_sync",
+      "timestamp": "1755197927"
+    }
+  }
+}
