@@ -1,26 +1,18 @@
-# Datamonkey Test File 1 - UPDATED
+# Datamonkey Test File 1
 
-This is an updated test file created by the datamonkey framework to verify GitHub sync functionality.
+This is test file 1 created by the datamonkey framework to verify GitHub sync functionality.
 
-## Test Content (Updated)
+## Test Content
 - File number: 1
-- Type: md
-- Status: UPDATED
-- Updated at: 1755182007
+- Type: markdown
+- Created by: datamonkey
+- Timestamp: 1755182203
 
 ## Purpose
-This file has been updated to test the update functionality of the datamonkey framework.
+This file will be synced to Airweave and indexed in Qdrant for end-to-end testing.
 
-## Changes Made
-- Updated title and content
-- Added new sections
-- Enhanced test data
-- Added timestamp
-
-## Verification
-This update should be detected by Airweave and synced to Qdrant for verification.
-
-## New Features
-- Update detection testing
-- Content replacement verification
-- Qdrant sync validation
+## Features
+- Content extraction testing
+- Qdrant indexing verification
+- Search relevance scoring
+- Update and deletion testing
