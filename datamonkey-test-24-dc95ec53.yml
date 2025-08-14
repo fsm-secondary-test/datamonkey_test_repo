@@ -1,0 +1,17 @@
+# Datamonkey Test File 24
+test_file: datamonkey_test_24.yml
+purpose: Testing GitHub sync with YAML content
+content:
+  title: Datamonkey Test File 24
+  description: A YAML file for testing GitHub sync functionality
+  file_number: 24
+  file_type: yaml
+  features:
+    - YAML structure testing
+    - Content extraction
+    - Qdrant indexing
+    - Search verification
+  metadata:
+    created_by: datamonkey
+    test_type: github_sync
+    timestamp: 1755197894
