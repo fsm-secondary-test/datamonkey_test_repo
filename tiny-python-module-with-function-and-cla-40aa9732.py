@@ -1,4 +1,4 @@
-"""A minimal Python module containing a greet function and a Counter class. Includes the token in a docstring. | token=40aa9732"""
+"""A tiny module with one function and one class; includes a literal token in docstrings. | token=40aa9732"""
 
 
 
