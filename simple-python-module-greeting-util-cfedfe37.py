@@ -1,4 +1,4 @@
-"""A module with a hello() function and a Greeter class. | token=cfedfe37"""
+"""A tiny Python module with one function and one class for greeting. | token=cfedfe37"""
 
 
 
