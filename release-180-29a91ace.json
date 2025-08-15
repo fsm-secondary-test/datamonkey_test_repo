@@ -1,0 +1,22 @@
+{
+  "title": "Release 1.8.0",
+  "summary": "Changelog: performance improvements, bug fixes, and minor API tweaks.",
+  "attributes": {
+    "version": "1.8.0",
+    "status": "stable",
+    "added": "Batch export; improved retry logic",
+    "changed": "Faster startup; streamlined logs",
+    "fixed": "Race condition in scheduler; memory leak in cache",
+    "deprecated": "None",
+    "notes": "No breaking changes"
+  },
+  "metadata": {
+    "release_channel": "prod",
+    "commit": "f2c9b7e",
+    "build_id": "20250815.1",
+    "token": "29a91ace",
+    "owner": "backend",
+    "pr": "#7421",
+    "created_at": "2025-08-15T00:00:00Z"
+  }
+}
