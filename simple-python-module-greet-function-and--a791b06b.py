@@ -1,4 +1,4 @@
-"""A minimal Python module with one function and one class; includes token in a docstring. | token=a791b06b"""
+"""A small Python module featuring one function and one class. The literal token is present in docstrings and a string constant. | token=a791b06b"""
 
 
 
