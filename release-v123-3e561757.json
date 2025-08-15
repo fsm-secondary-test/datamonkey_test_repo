@@ -1,0 +1,18 @@
+{
+  "title": "Release: v1.2.3",
+  "summary": "Added feature flags, fixed startup crash, improved docs.",
+  "attributes": {
+    "added": "Feature flags for beta modules",
+    "fixed": "Resolved startup crash on Windows",
+    "changed": "Docs refreshed; minor API tweaks",
+    "removed": "Deprecated v1 endpoints removed",
+    "security": "Updated OpenSSL to 3.0.14"
+  },
+  "metadata": {
+    "version": "1.2.3",
+    "commit": "abc1234",
+    "build": "20250815.1",
+    "token": "3e561757",
+    "created_at": "2025-08-15T12:34:56Z"
+  }
+}
