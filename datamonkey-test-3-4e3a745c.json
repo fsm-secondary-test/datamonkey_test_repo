@@ -1,0 +1,22 @@
+{
+  "test_file": "datamonkey_test_3.json",
+  "purpose": "Testing GitHub sync with JSON content",
+  "content": {
+    "title": "Datamonkey Test File 3",
+    "description": "A JSON file for testing GitHub sync functionality",
+    "file_number": 3,
+    "file_type": "json",
+    "random_suffix": "4e3a745c",
+    "features": [
+      "JSON structure testing",
+      "Content extraction",
+      "Qdrant indexing",
+      "Search verification"
+    ],
+    "metadata": {
+      "created_by": "datamonkey",
+      "test_type": "github_sync",
+      "timestamp": "1755258622"
+    }
+  }
+}
