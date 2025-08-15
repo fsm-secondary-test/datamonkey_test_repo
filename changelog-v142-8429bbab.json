@@ -1,0 +1,19 @@
+{
+  "title": "Changelog v1.4.2",
+  "summary": "Bug fixes, small improvements, and docs updates.",
+  "attributes": {
+    "version": "1.4.2",
+    "added": "JSON export support",
+    "changed": "faster parsing",
+    "fixed": "empty-input crash",
+    "deprecated": "legacy_config"
+  },
+  "metadata": {
+    "release_token": "8429bbab",
+    "commit": "abc123def",
+    "author": "release-bot",
+    "channel": "stable",
+    "token": "8429bbab",
+    "created_at": "2025-08-15T10:00:00Z"
+  }
+}
