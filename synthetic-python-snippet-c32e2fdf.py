@@ -1,4 +1,4 @@
-"""Concise synthetic python content. | token=c32e2fdf"""
+"""Concise example with token. | token=c32e2fdf"""
 
 
 
