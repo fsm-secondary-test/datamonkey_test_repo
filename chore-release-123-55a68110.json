@@ -1,0 +1,17 @@
+{
+  "title": "Chore: Release 1.2.3",
+  "summary": "Bug fixes and performance improvements.",
+  "attributes": {
+    "version": "1.2.3",
+    "scope": "core",
+    "changes": "fixed memory leak; improved startup by 20%",
+    "breaking": "no"
+  },
+  "metadata": {
+    "token": "55a68110",
+    "pr": "#4821",
+    "commit": "d3f9a1b",
+    "env": "production",
+    "created_at": "2025-08-16T12:00:00Z"
+  }
+}
