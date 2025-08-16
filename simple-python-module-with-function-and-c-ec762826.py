@@ -1,4 +1,4 @@
-"""Provides a greet function and a Counter class. The literal token ec762826 appears in docstrings. | token=ec762826"""
+"""A tiny module with one function and one class. Includes the token in a docstring and a string constant. | token=ec762826"""
 
 
 
