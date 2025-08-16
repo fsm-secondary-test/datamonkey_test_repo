@@ -1,0 +1,23 @@
+{
+  "title": "v1.4.3 release",
+  "summary": "Minor fixes, performance tweaks, and improved logging.",
+  "attributes": {
+    "version": "1.4.3",
+    "date": "2025-08-16",
+    "added": "LOG_LEVEL flag and API request tracing",
+    "changed": "Faster startup via lazy module loading",
+    "fixed": "Cache invalidation race; CLI help typos",
+    "deprecated": "None",
+    "removed": "None",
+    "security": "No known issues"
+  },
+  "metadata": {
+    "token": "8bc8ae0f",
+    "commit": "a1b2c3d",
+    "branch": "main",
+    "build": "20250816.1",
+    "author": "release-bot",
+    "source": "CI",
+    "created_at": "2025-08-16T00:00:00Z"
+  }
+}
