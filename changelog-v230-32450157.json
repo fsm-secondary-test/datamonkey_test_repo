@@ -1,0 +1,18 @@
+{
+  "title": "Changelog: v2.3.0",
+  "summary": "Added API rate-limit headers, deprecated legacy auth, and fixed webhook retry handling.",
+  "attributes": {
+    "version": "2.3.0",
+    "status": "released",
+    "added": "Rate-limit headers",
+    "deprecated": "Legacy authentication",
+    "fixed": "Webhook retry logic"
+  },
+  "metadata": {
+    "token": "32450157",
+    "commit": "abcdef1234567890",
+    "author": "devops-bot",
+    "environment": "production",
+    "created_at": "2025-08-16T00:00:00Z"
+  }
+}
