@@ -1,18 +1,23 @@
 {
-  "title": "v1.4.0 Release",
-  "summary": "Bug fixes, performance improvements, and minor UI tweaks.",
+  "title": "Changelog: v1.4.0",
+  "summary": "Performance improvements, memory leak fix, and documentation updates.",
   "attributes": {
     "version": "1.4.0",
     "date": "2025-08-16",
-    "impact": "low",
-    "changes": "Fixed cache race condition; optimized query planner; refined dark mode colors; updated docs links"
+    "added": "Accelerated indexing (~20%) and improved caching",
+    "fixed": "Resolved parser memory leak and flaky unit tests",
+    "changed": "Refined logging verbosity; default level is now INFO",
+    "deprecated": "Legacy config keys 'cache_dir' and 'temp_path'",
+    "removed": "None",
+    "security": "Updated dependencies; tightened sandbox execution"
   },
   "metadata": {
-    "release_token": "fa49ecbc",
-    "commit": "c3a7b21",
-    "branch": "main",
-    "author": "release-bot",
     "token": "fa49ecbc",
-    "created_at": "2025-08-16T12:00:00Z"
+    "commit": "abc1234",
+    "branch": "main",
+    "pr": "256",
+    "author": "devops-bot",
+    "scope": "core, docs",
+    "created_at": "2025-08-16T00:00:00Z"
   }
 }
