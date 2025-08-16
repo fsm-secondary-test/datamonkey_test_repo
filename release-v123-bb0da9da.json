@@ -1,0 +1,19 @@
+{
+  "title": "Release v1.2.3",
+  "summary": "Dependency bumps, pagination bugfix, logging improvements.",
+  "attributes": {
+    "version": "1.2.3",
+    "changes": "- bump deps (requests, numpy)\n- fix pagination off-by-one\n- enhance debug logging",
+    "scope": "api, worker",
+    "impact": "low",
+    "status": "released"
+  },
+  "metadata": {
+    "token": "bb0da9da",
+    "pr": "742",
+    "commit": "a1b2c3d",
+    "branch": "release/1.2.3",
+    "author": "devops-bot",
+    "created_at": "2025-08-16T00:00:00Z"
+  }
+}
