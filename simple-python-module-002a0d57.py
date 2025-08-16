@@ -1,4 +1,4 @@
-"""A module with one function and one class; includes a token in a docstring. | token=002a0d57"""
+"""A minimal module containing one function and one class. The token appears in docstrings. | token=002a0d57"""
 
 
 
