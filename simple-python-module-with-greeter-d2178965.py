@@ -1,4 +1,4 @@
-"""A minimal module containing one function and one class, including the token in a string. | token=d2178965"""
+"""A tiny module providing add() and a Greeter class, including token for traceability. | token=d2178965"""
 
 
 
