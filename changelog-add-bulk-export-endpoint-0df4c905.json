@@ -1,0 +1,19 @@
+{
+  "title": "Changelog: Add bulk export endpoint",
+  "summary": "Introduces /exports/bulk API, fixes pagination bug, updates docs.",
+  "attributes": {
+    "version": "v1.8.0",
+    "change_type": "feature",
+    "scope": "backend",
+    "impact": "low",
+    "breaking": "no"
+  },
+  "metadata": {
+    "token": "0df4c905",
+    "pr": "#4821",
+    "commit": "f3b9c7e",
+    "author": "devops-bot",
+    "issue": "GH-2310",
+    "created_at": "2025-08-16T00:00:00Z"
+  }
+}
