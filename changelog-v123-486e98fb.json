@@ -1,0 +1,18 @@
+{
+  "title": "Changelog: v1.2.3",
+  "summary": "Bug fixes and performance improvements.",
+  "attributes": {
+    "version": "1.2.3",
+    "date": "2025-08-16",
+    "scope": "service-core",
+    "impact": "low",
+    "changes": "fix: auth timeout; perf: cache warmup; chore: deps"
+  },
+  "metadata": {
+    "token": "486e98fb",
+    "commit": "abc1234",
+    "pr": "#458",
+    "author": "release-bot",
+    "created_at": "2025-08-16T00:00:00Z"
+  }
+}
