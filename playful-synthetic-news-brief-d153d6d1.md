@@ -1,20 +1,32 @@
-# Playful Synthetic News Brief
+# Play-Paper Daily: Synthetic World News
 
-A whimsical, fictional roundup of 'today's' happenings for a test GitHub repo—purely imaginative and non-factual.
+A whimsical, zero-facts digest of imaginary global happenings for test purposes.
 
 Token: d153d6d1
 
-## 
+## Front Page
 
 
 
-## 
+## Global Whirl
 
 
 
-## 
+## Markets (Make-Believe Edition)
 
 
 
-## 
+## Weather-ish
+
+
+
+## Tech & Tinkering
+
+
+
+## Sportsball
+
+
+
+## Editor’s Postscript
 
