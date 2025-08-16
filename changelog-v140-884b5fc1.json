@@ -1,0 +1,22 @@
+{
+  "title": "Changelog: v1.4.0",
+  "summary": "Performance improvements, bug fixes, and dependency updates.",
+  "attributes": {
+    "version": "1.4.0",
+    "date": "2025-08-16",
+    "change_type": "minor",
+    "highlights": "Improved startup time by 35%, reduced memory usage, and added retry logic.",
+    "breaking_changes": "None",
+    "fixed": "Resolved race condition in worker pool; patched JSON parser error handling.",
+    "added": "Config option 'network.max_retries'; new CLI flag '--dry-run'.",
+    "deprecated": "Legacy 'sync_all' endpoint scheduled for removal in v2.0.",
+    "removed": "None"
+  },
+  "metadata": {
+    "release_id": "v1.4.0",
+    "commit": "9e3f1a7",
+    "build": "20250816.1",
+    "token": "changelog-1.4.0",
+    "created_at": "2025-08-16T12:34:56Z"
+  }
+}
