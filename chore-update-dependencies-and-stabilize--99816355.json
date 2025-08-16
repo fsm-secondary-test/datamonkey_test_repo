@@ -1,20 +1,17 @@
 {
-  "title": "Chore: Update dependencies and stabilize CI",
-  "summary": "Bumped minor versions, removed deprecated flags, and tuned CI timeouts for reliability.",
+  "title": "Release 1.4.2",
+  "summary": "Bug fixes and minor improvements.",
   "attributes": {
-    "version": "1.4.3",
-    "scope": "dependencies, ci",
-    "impact": "low",
-    "breaking_changes": "no",
-    "notes": "Updated axios to 1.7.x; increased Jest timeout; pruned unused scripts."
+    "version": "1.4.2",
+    "date": "2025-08-16",
+    "changes": "fix: resolve race condition in job queue; perf: reduce cold start; docs: update API examples",
+    "impact": "low"
   },
   "metadata": {
-    "token": "99816355",
-    "author": "devops-bot",
-    "pr": "#342",
+    "component": "scheduler",
+    "env": "production",
+    "token": "e7a3b7b3-5b2d-4c0b-b51f-1a8d3d4e0a21",
     "commit": "a1b2c3d",
-    "issue": "none",
-    "release_channel": "patch",
     "created_at": "2025-08-16T00:00:00Z"
   }
 }
