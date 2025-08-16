@@ -1,17 +1,19 @@
 {
-  "title": "Changelog: Performance and Reliability Improvements",
-  "summary": "Optimized batch processing, reduced sync time, and added exponential backoff for retries.",
+  "title": "Chore: Optimize cache and fix pagination edge cases",
+  "summary": "Improved cache eviction, fixed page overflow bug, and added retry metrics.",
   "attributes": {
-    "version": "1.4.0",
-    "change_type": "improvement",
-    "scope": "data-sync",
-    "impact": "lower latency and fewer transient failures"
+    "version": "v1.8.3",
+    "scope": "api,worker",
+    "impact": "medium",
+    "compatibility": "backward-compatible",
+    "deployment_notes": "No migrations; rolling restart recommended"
   },
   "metadata": {
+    "commit": "c4e1b29",
     "token": "842ce0ed",
-    "commit": "abc1234",
-    "pr": "1245",
-    "author": "jdoe",
-    "created_at": "2025-08-16T00:00:00Z"
+    "pr": "#412",
+    "author": "devops-bot",
+    "ref": "refs/tags/v1.8.3",
+    "created_at": "2025-08-16T12:34:56Z"
   }
 }
