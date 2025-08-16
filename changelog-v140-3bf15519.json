@@ -1,0 +1,22 @@
+{
+  "title": "Changelog: v1.4.0",
+  "summary": "Release v1.4.0 with performance tweaks, bug fixes, and small API refinements.",
+  "attributes": {
+    "version": "1.4.0",
+    "date": "2025-08-16",
+    "added": "Export batching; cursor-based pagination",
+    "changed": "Lower cold-start latency; lighter responses",
+    "fixed": "OAuth redirect loop; report timezone drift",
+    "deprecated": "/v1/search legacy endpoint",
+    "notes": "No breaking changes"
+  },
+  "metadata": {
+    "token": "3bf15519",
+    "commit": "a1b2c3d",
+    "pr": "482",
+    "issues": "GH-120, GH-317",
+    "owner": "data-platform",
+    "environment": "production",
+    "created_at": "2025-08-16T12:00:00Z"
+  }
+}
