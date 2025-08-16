@@ -1,18 +1,21 @@
 {
-  "title": "Changelog: v2.3.0",
-  "summary": "Added API rate-limit headers, deprecated legacy auth, and fixed webhook retry handling.",
+  "title": "Changelog: v1.2.3",
+  "summary": "Added feature flags, fixed startup crash, and improved logging.",
   "attributes": {
-    "version": "2.3.0",
-    "status": "released",
-    "added": "Rate-limit headers",
-    "deprecated": "Legacy authentication",
-    "fixed": "Webhook retry logic"
+    "version": "1.2.3",
+    "release_date": "2025-08-16",
+    "added": "Feature flags for beta users",
+    "fixed": "Startup crash on Windows",
+    "improved": "Request logging and diagnostics",
+    "compatibility": "No breaking changes"
   },
   "metadata": {
     "token": "32450157",
-    "commit": "abcdef1234567890",
-    "author": "devops-bot",
-    "environment": "production",
+    "author": "release-bot",
+    "scope": "core-runtime",
+    "issues": "GH-1452, GH-1470",
+    "reviewers": "alice,bob",
+    "deployment": "staged",
     "created_at": "2025-08-16T00:00:00Z"
   }
 }
