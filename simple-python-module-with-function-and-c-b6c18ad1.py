@@ -1,4 +1,4 @@
-"""Provides a greet function and a Greeter class; includes token in a docstring. | token=b6c18ad1"""
+"""A tiny module exposing a greeting function and a Counter class. | token=b6c18ad1"""
 
 
 
