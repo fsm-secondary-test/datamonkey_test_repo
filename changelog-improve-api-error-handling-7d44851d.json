@@ -1,20 +1,23 @@
 {
-  "title": "Changelog: Improve API error handling",
-  "summary": "Added granular HTTP error mapping, improved retry logic, and clarified log messages.",
+  "title": "chore: cache tweaks and scheduler fix",
+  "summary": "Improved cache warm-up and fixed a rare scheduler race; updated defaults and removed a deprecated flag.",
   "attributes": {
-    "version": "v1.4.2",
-    "category": "fix",
-    "scope": "api",
-    "breaking_change": "no",
-    "commit": "abc1234"
+    "version": "1.2.3",
+    "added": "cache warm-up flag --warm-cache",
+    "changed": "retry defaults; docs links",
+    "fixed": "race in scheduler; minor cache leak",
+    "removed": "deprecated --force-sync flag",
+    "scope": "api,cli,docs",
+    "impact": "low",
+    "notes": "no migration required"
   },
   "metadata": {
-    "author": "jdoe",
-    "reviewer": "asmith",
-    "pr": "#482",
-    "issue": "GH-1021",
     "token": "7d44851d",
-    "changelog_id": "chg-2025-08-16-01",
-    "created_at": "2025-08-16T12:00:00Z"
+    "commit": "abc1234",
+    "pr": "482",
+    "build": "20250816.1",
+    "author": "devops-bot",
+    "channel": "stable",
+    "created_at": "2025-08-16T00:00:00Z"
   }
 }
