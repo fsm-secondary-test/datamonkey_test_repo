@@ -1,0 +1,17 @@
+{
+  "title": "Release v2.3.1",
+  "summary": "Compact changelog entry summarizing fixes, performance, and docs updates.",
+  "attributes": {
+    "version": "2.3.1",
+    "category": "maintenance",
+    "changes": "5",
+    "breaking": "false"
+  },
+  "metadata": {
+    "token": "da28315a",
+    "commit": "9f3c1b2",
+    "pr": "421",
+    "branch": "main",
+    "created_at": "2025-08-16T00:00:00Z"
+  }
+}
