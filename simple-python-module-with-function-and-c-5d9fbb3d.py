@@ -1,4 +1,4 @@
-"""Provides a basic add function and a Greeter class; includes the token 5d9fbb3d in code. | token=5d9fbb3d"""
+"""A tiny module with one function and one class. Token present in docstring/string constant. | token=5d9fbb3d"""
 
 
 
