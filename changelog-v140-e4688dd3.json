@@ -1,19 +1,17 @@
 {
-  "title": "Changelog: v1.4.0",
-  "summary": "Performance improvements, stability fixes, and minor enhancements.",
+  "title": "Chore: optimize cache and bump deps",
+  "summary": "Improved build caching, upgraded dependencies, and stabilized flaky tests.",
   "attributes": {
-    "version": "v1.4.0",
-    "added": "Timeout configuration; Request tracing",
-    "changed": "Optimized cache strategy; Reduced memory footprint",
-    "fixed": "Race condition in worker pool; Incorrect retry logic on 429"
+    "version": "v2.4.1",
+    "changes": "- Enhanced cache priming in CI\n- Upgraded requests to 2.32.3\n- Tightened retry logic for flaky network tests",
+    "impact": "No breaking changes",
+    "ticket": "OPS-2413"
   },
   "metadata": {
     "token": "e4688dd3",
-    "commit": "abc1234",
-    "branch": "main",
-    "build": "2025.08.17.1",
-    "author": "ci-bot",
-    "issues_closed": "#42,#57,#60",
-    "created_at": "2025-08-17T12:00:00Z"
+    "component": "ci-pipeline",
+    "scope": "infrastructure",
+    "author": "devops-bot",
+    "created_at": "2025-08-17T00:00:00Z"
   }
 }
