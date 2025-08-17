@@ -1,0 +1,16 @@
+{
+  "title": "Chore: update dependencies and stabilize CI",
+  "summary": "Bump minor versions, improve cache, and mitigate flaky tests.",
+  "attributes": {
+    "version": "1.4.3",
+    "scope": "deps,ci",
+    "changes": "upgrade libs; refine cache; add retries for flaky specs",
+    "impact": "no breaking changes"
+  },
+  "metadata": {
+    "commit": "abc1234",
+    "build": "20250817.1",
+    "token": "426104fb",
+    "created_at": "2025-08-17T00:00:00Z"
+  }
+}
