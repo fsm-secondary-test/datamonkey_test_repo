@@ -1,0 +1,17 @@
+{
+  "title": "Chore: optimize cache warmup",
+  "summary": "Improved cache priming to reduce cold-start latency and added metrics.",
+  "attributes": {
+    "version": "v1.4.3",
+    "scope": "runtime",
+    "impact": "reduced p95 cold-start by ~20%",
+    "ref": "PR#4821"
+  },
+  "metadata": {
+    "author": "devops-bot",
+    "commit": "a1b2c3d4",
+    "token": "3ec44349",
+    "release": "2025.08.17",
+    "created_at": "2025-08-17T12:34:56Z"
+  }
+}
