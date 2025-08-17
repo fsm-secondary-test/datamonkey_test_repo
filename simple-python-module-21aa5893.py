@@ -1,4 +1,4 @@
-"""A tiny module with one function and one class. Includes the literal token in code. | token=21aa5893"""
+"""A minimal module with a greet() function and a Counter class. The token 21aa5893 is included in a docstring and as a string constant. | token=21aa5893"""
 
 
 
