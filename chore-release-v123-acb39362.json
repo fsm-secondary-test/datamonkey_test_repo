@@ -1,0 +1,18 @@
+{
+  "title": "chore: release v1.2.3",
+  "summary": "Adds feature flags, improves startup performance, and fixes crash on logout.",
+  "attributes": {
+    "version": "1.2.3",
+    "status": "released",
+    "scope": "core, api",
+    "changes": "feat: feature flags; perf: faster startup; fix: logout crash",
+    "breaking": "no"
+  },
+  "metadata": {
+    "token": "acb39362",
+    "commit": "9f2e3b1",
+    "branch": "main",
+    "author": "release-bot",
+    "created_at": "2025-08-17T00:00:00Z"
+  }
+}
