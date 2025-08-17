@@ -1,0 +1,19 @@
+{
+  "title": "Changelog: v1.4.3",
+  "summary": "Bug fixes, performance improvements, and documentation updates.",
+  "attributes": {
+    "breaking_changes": "none",
+    "added": "API response caching; new CLI flags",
+    "changed": "faster startup; improved logging",
+    "fixed": "race condition in worker; flaky tests",
+    "removed": "deprecated --legacy flag"
+  },
+  "metadata": {
+    "version": "1.4.3",
+    "commit": "a1b2c3d",
+    "build": "20250817.1",
+    "token": "release-v1.4.3",
+    "scope": "server, cli",
+    "created_at": "2025-08-17T00:00:00Z"
+  }
+}
