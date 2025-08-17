@@ -1,0 +1,17 @@
+{
+  "title": "Release 1.4.2",
+  "summary": "Bugfix release improving retry jitter and startup latency.",
+  "attributes": {
+    "version": "1.4.2",
+    "date": "2025-08-17",
+    "scope": "runtime, networking",
+    "changes": "Adjusted retry backoff; optimized cold start; updated dependencies."
+  },
+  "metadata": {
+    "token": "ddc98b90",
+    "commit": "a1b2c3d",
+    "pr": "482",
+    "owner": "platform-team",
+    "created_at": "2025-08-17T12:34:56Z"
+  }
+}
