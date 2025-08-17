@@ -1,0 +1,21 @@
+{
+  "title": "API performance improvements and bug fixes",
+  "summary": "Optimized caching, reduced latency, fixed parser null-edge case, and refined error messages.",
+  "attributes": {
+    "version": "1.2.3",
+    "scope": "api",
+    "impact": "minor",
+    "breaking_changes": "none",
+    "highlights": "Cache tuning; vectorized parsing; safer null handling",
+    "issues_closed": "#124, #131",
+    "commit_range": "a1b2c3d..d4e5f6g"
+  },
+  "metadata": {
+    "token": "release-20250817.1",
+    "commit": "d4e5f6g",
+    "pr": "42",
+    "build": "20250817.1",
+    "environment": "production",
+    "created_at": "2025-08-17T12:34:56Z"
+  }
+}
