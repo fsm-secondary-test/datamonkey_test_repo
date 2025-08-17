@@ -1,29 +1,37 @@
-# Playful World News — Synthetic Edition
+# Playful Synthetic World News — Todayish
 
-A whimsical, entirely make-believe roundup of today-ish happenings—no facts, just vibes and confetti.
+A whimsical, make-believe roundup of global happenings with zero factual claims.
 
 Token: 51eedd95
 
-## Whimsy Weather Of The World
+## Top Lines
 
-Around the globe, headlines pirouette like confetti: clouds trade jobs with kites, calendars swap weekdays just to keep things jazzy, and comment sections agree to disagree with a bow. This is a make-believe briefing, stitched from daydreams, not events.
+In the grand theater of make-believe, imaginary headlines pirouette across the page. Nothing reported here happened anywhere, but it all winks like confetti in a snow globe.
 
-## Markets Of Make‑Believe
+## Around the Whirl(d)
 
-The Index of Imaginary Indices ticked up a giggle and a half, powered by snack-based currencies and naps-as-a-service. Bulls, bears, and rubber ducks held a polite tea party. Token checkpoint: 51eedd95.
+Clouds negotiate with kites, keyboards hum lullabies, and time zones high-five in slow motion. Maps stretch like rubber bands and snap back with a boing. Token checkpoint: 51eedd95.
 
-## Planetary Playlist
+## Markets of Pure Pretend
 
-Cities hum in C major, oceans experiment with lo-fi beats, and satellites curate a cosmic mixtape of whooshes and wows. Everyone is invited to the encore, including Tuesday.
+The Index of Cheerful Nonsense bobbed like a rubber duck; the Exchange of Hypotheticals traded giggles for doodles. Trend lines doodled spirals for no reason at all.
 
-## Sports, Sorta
+## Weather of What-ifs
 
-Teams of paper airplanes compete for style points; referees award bonus sparkles for creative folds. The trophy is a golden paperclip that refuses to rust because it’s imaginary.
+Forecast calls for scattered metaphors, with a chance of jubilant parentheses. Umbrellas recommended for showers of puns; sunglasses advised for bright ideas.
 
-## Tiny Tech Tidbits
+## Sports of Sorts
 
-Gadgets now come with a curiosity dial from 0 to ‘tell me a story.’ Battery life measured in chapters, not hours. Patch notes: added extra whimsy; removed grumps.
+Teams of possibility competed in a friendly match of Maybe vs. Perhaps. The crowd cheered for both sides because the scoreboard displayed only exclamation points.
 
-## Closing Credits
+## Techno-Tales
 
-This faux newscast is a sandbox for smiles. If it reminds you of anything real, that’s a coincidence doing cartwheels.
+Gadgets learned to nap responsibly; apps practiced mindful buffering. A chorus of notifications harmonized with a gentle do-not-disturb.
+
+## Culture & Curios
+
+Artists painted echoes, poets rhymed oranges with oranges (twice), and a museum opened an exhibit of unopened exhibits.
+
+## Closing Bell of Imagination
+
+As the curtain falls on this pretend edition, remember: these lines are playful pixels, not reports. See you in the next whimsical scroll.
