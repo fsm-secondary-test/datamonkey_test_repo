@@ -1,4 +1,4 @@
-"""A minimal module with one function and one class, embedding a token string. | token=74f3911f"""
+"""A tiny module with one simple function and one simple class. | token=74f3911f"""
 
 
 
