@@ -1,0 +1,18 @@
+{
+  "title": "v2.3.1 - Performance and Bugfixes",
+  "summary": "Optimized cache paths and fixed race in job runner; improved logs.",
+  "attributes": {
+    "version": "2.3.1",
+    "date": "2025-08-17",
+    "scope": "runner, cache, logging",
+    "breaking": "no",
+    "changes": "Optimized cache lookup; Fixed race condition in job runner; Reduced log noise; Updated dependencies"
+  },
+  "metadata": {
+    "token": "a1e56315",
+    "commit": "abc1234",
+    "pr": "#456",
+    "author": "devops-team",
+    "created_at": "2025-08-17T00:00:00Z"
+  }
+}
