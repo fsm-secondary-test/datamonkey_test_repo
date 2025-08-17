@@ -1,0 +1,19 @@
+{
+  "title": "Chore: refine API responses and bump version",
+  "summary": "Optimized payload size, improved error messages, and updated dependencies.",
+  "attributes": {
+    "version": "v1.4.3",
+    "scope": "api,gateway",
+    "changes": "Reduced response size ~12%; standardized error codes; bumped dependencies.",
+    "impact": "backward-compatible",
+    "id": "chg-2025-08-17-01"
+  },
+  "metadata": {
+    "token": "1d9e7f2e",
+    "author": "devops-bot",
+    "reviewers": "alice,bob",
+    "issue_refs": "#412,#427",
+    "pipeline": "green",
+    "created_at": "2025-08-17T12:00:00Z"
+  }
+}
