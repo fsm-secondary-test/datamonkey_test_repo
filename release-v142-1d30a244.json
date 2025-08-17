@@ -1,0 +1,19 @@
+{
+  "title": "Release v1.4.2",
+  "summary": "Bug fixes, performance improvements, and docs updates.",
+  "attributes": {
+    "version": "1.4.2",
+    "changes": "fix: cache invalidation; perf: index scan reduction; docs: API examples",
+    "scope": "backend",
+    "impact": "low"
+  },
+  "metadata": {
+    "release_token": "1d30a244",
+    "commit": "9f3b2c8",
+    "branch": "main",
+    "ci_status": "passed",
+    "pr_url": "https://github.com/org/repo/pull/1234",
+    "token": "1d30a244",
+    "created_at": "2025-08-17T00:00:00Z"
+  }
+}
