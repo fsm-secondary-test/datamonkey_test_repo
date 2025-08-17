@@ -1,0 +1,21 @@
+{
+  "title": "Chore: Dependency updates and minor fixes",
+  "summary": "Updated dependencies, tightened logging edge cases, and improved CI cache; no breaking changes.",
+  "attributes": {
+    "version": "v1.4.3",
+    "scope": "repo-wide",
+    "impact": "low",
+    "deps": "requests 2.32.3 -> 2.32.4; numpy 2.0.0 -> 2.0.1",
+    "fixes": "handle None in debug formatter; silence flaky test warnings",
+    "ci": "faster cache restores"
+  },
+  "metadata": {
+    "token": "28da23e9",
+    "pr": "#123",
+    "commit": "a1b2c3d",
+    "author": "devops-bot",
+    "reviewers": "qa-team",
+    "release": "patch",
+    "created_at": "2025-08-17T00:00:00Z"
+  }
+}
