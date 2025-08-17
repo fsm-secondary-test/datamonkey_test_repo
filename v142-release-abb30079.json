@@ -1,0 +1,22 @@
+{
+  "title": "v1.4.2 Release",
+  "summary": "Minor release with performance tweaks, bug fixes, and documentation touch-ups.",
+  "attributes": {
+    "version": "v1.4.2",
+    "release_date": "2025-08-17",
+    "changes": "feat: faster pagination; fix: null handling in webhooks; docs: clarify setup; chore: dependency bumps",
+    "impact": "low",
+    "compatibility": "no-breaking-changes",
+    "scope": "api-core"
+  },
+  "metadata": {
+    "token": "abb30079",
+    "repo": "org/project",
+    "branch": "main",
+    "tag": "v1.4.2",
+    "commit": "8f3c2a1",
+    "pr": "#482",
+    "reviewed_by": "jdoe",
+    "created_at": "2025-08-17T00:00:00Z"
+  }
+}
