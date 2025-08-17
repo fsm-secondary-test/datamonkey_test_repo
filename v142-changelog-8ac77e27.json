@@ -1,0 +1,20 @@
+{
+  "title": "v1.4.2 Changelog",
+  "summary": "Performance improvements, bug fixes, and DX updates.",
+  "attributes": {
+    "version": "1.4.2",
+    "date": "2025-08-17",
+    "added": "lazy-loading for widgets",
+    "changed": "refactored cache layer",
+    "fixed": "race condition at startup; typo in docs",
+    "deprecated": "legacy auth flag",
+    "removed": "unused metrics endpoint"
+  },
+  "metadata": {
+    "release_channel": "stable",
+    "commit": "c0ffee42",
+    "build": "20250817.1",
+    "token": "8ac77e27",
+    "created_at": "2025-08-17T12:34:56Z"
+  }
+}
