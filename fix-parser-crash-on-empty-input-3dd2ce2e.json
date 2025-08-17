@@ -1,0 +1,19 @@
+{
+  "title": "Fix parser crash on empty input",
+  "summary": "Resolved crash on empty payload and improved error handling/logging.",
+  "attributes": {
+    "version": "1.2.3",
+    "scope": "parser",
+    "change_type": "fix",
+    "commit": "abc1234",
+    "impact": "low",
+    "compatibility": "backward-compatible"
+  },
+  "metadata": {
+    "token": "3dd2ce2e",
+    "pr": "42",
+    "author": "jdoe",
+    "reviewed_by": "asmith",
+    "created_at": "2025-08-17T12:00:00Z"
+  }
+}
