@@ -1,0 +1,18 @@
+{
+  "title": "Changelog: v2.3.1",
+  "summary": "Bug fixes, performance improvements, and minor UX tweaks.",
+  "attributes": {
+    "version": "2.3.1",
+    "release_type": "patch",
+    "highlights": "Fixed cache memory leak; improved startup time by 15%; refined error messages",
+    "scope": "api,ui,build",
+    "breaking_changes": "none"
+  },
+  "metadata": {
+    "id": "chg-2025-08-17-231",
+    "commit_range": "a1b2c3d..d4e5f6a",
+    "author": "release-bot",
+    "token": "8d6fa330",
+    "created_at": "2025-08-17T00:00:00Z"
+  }
+}
