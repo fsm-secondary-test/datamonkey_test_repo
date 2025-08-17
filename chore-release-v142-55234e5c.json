@@ -1,0 +1,24 @@
+{
+  "title": "Chore: Release v1.4.2",
+  "summary": "Bug fixes, performance improvements, and minor docs updates.",
+  "attributes": {
+    "version": "1.4.2",
+    "date": "2025-08-17",
+    "change_type": "patch",
+    "adds": "None",
+    "fixes": "Resolved race condition in cache invalidation; corrected 500 on empty payload",
+    "improvements": "Reduced cold-start latency by ~20%; streamlined logging noise",
+    "breaking_changes": "None",
+    "components": "api, cache, docs",
+    "notes": "No migration required"
+  },
+  "metadata": {
+    "release_tag": "v1.4.2",
+    "commit": "a1b2c3d",
+    "pr": "#482",
+    "author": "devops-bot",
+    "build_id": "build-20250817-001",
+    "token": "55234e5c",
+    "created_at": "2025-08-17T00:00:00Z"
+  }
+}
