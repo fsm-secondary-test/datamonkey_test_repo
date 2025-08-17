@@ -1,0 +1,17 @@
+{
+  "title": "Changelog: Performance tweaks",
+  "summary": "Optimized caching and fixed minor bugs across API endpoints.",
+  "attributes": {
+    "version": "1.4.3",
+    "added": "endpoint metrics",
+    "changed": "cache TTL defaults",
+    "fixed": "edge-case 304 handling"
+  },
+  "metadata": {
+    "token": "d8c5202e",
+    "issue_refs": "#124,#130,#133",
+    "commit_range": "a1b2c3d...e4f5g6h",
+    "author": "release-bot",
+    "created_at": "2025-08-17T12:34:56Z"
+  }
+}
