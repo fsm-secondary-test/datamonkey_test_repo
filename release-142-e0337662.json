@@ -1,0 +1,19 @@
+{
+  "title": "Release 1.4.2",
+  "summary": "Changelog: fixed flaky tests, improved startup time ~20%, refreshed docs.",
+  "attributes": {
+    "version": "1.4.2",
+    "date": "2025-08-17",
+    "highlights": "Fix flaky CI tests; Optimize cache warmup; Update README and API docs",
+    "compatibility": "No breaking changes",
+    "upgrade_notes": "No action required"
+  },
+  "metadata": {
+    "commit": "a1b2c3d",
+    "pr": "#482",
+    "build_token": "e0337662",
+    "pipeline": "ci/cd",
+    "token": "gh_token_redacted",
+    "created_at": "2025-08-17T00:00:00Z"
+  }
+}
