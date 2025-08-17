@@ -1,0 +1,17 @@
+{
+  "title": "Changelog: v1.4.2",
+  "summary": "Bug fixes, minor features, and performance improvements.",
+  "attributes": {
+    "version": "1.4.2",
+    "scope": "core-api",
+    "changes": "Fixed pagination edge cases; Added request retries; Improved logging and metrics.",
+    "commit": "abc1234"
+  },
+  "metadata": {
+    "token": "release-2025-08-17",
+    "release": "v1.4.2",
+    "branch": "main",
+    "author": "ci-bot",
+    "created_at": "2025-08-17T12:00:00Z"
+  }
+}
