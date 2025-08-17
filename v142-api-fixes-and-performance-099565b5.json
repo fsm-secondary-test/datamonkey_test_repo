@@ -1,0 +1,21 @@
+{
+  "title": "v1.4.2: API fixes and performance",
+  "summary": "Resolved timeout bug, improved pagination performance, and clarified error messages in documentation.",
+  "attributes": {
+    "version": "1.4.2",
+    "change_type": "patch",
+    "scope": "api",
+    "highlights": "Fix timeout handling; faster pagination; clearer error docs",
+    "impact": "low",
+    "ticket": "PROJ-1234"
+  },
+  "metadata": {
+    "token": "099565b5",
+    "commit": "abc1234",
+    "pr": "#456",
+    "branch": "main",
+    "reviewer": "jdoe",
+    "build": "20250817.1",
+    "created_at": "2025-08-17T00:00:00Z"
+  }
+}
