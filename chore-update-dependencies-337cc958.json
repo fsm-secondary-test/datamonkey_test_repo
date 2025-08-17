@@ -1,0 +1,18 @@
+{
+  "title": "Chore: Update dependencies",
+  "summary": "Bumped minor versions and fixed security alerts.",
+  "attributes": {
+    "version": "1.4.3",
+    "change_type": "patch",
+    "scope": "deps",
+    "breaking": "false",
+    "commits": "5"
+  },
+  "metadata": {
+    "token": "337cc958",
+    "pr": "#214",
+    "branch": "dependabot/updates",
+    "author": "automation-bot",
+    "created_at": "2025-08-17T00:00:00Z"
+  }
+}
