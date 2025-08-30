@@ -1,1 +1,1 @@
-i live in amsterdam in west
+we all live in amsterdam in west
