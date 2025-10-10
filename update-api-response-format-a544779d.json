@@ -1,0 +1,15 @@
+{
+  "title": "Update API Response Format",
+  "summary": "Changed API response to include pagination info and improved error messages.",
+  "attributes": {
+    "version": "1.2.0",
+    "breaking_change": "false",
+    "affected_endpoints": "/users,/orders"
+  },
+  "metadata": {
+    "author": "dev_team",
+    "review_status": "approved",
+    "token": "a544779d",
+    "created_at": "2024-06-10T15:42:00Z"
+  }
+}
