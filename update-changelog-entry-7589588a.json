@@ -1,0 +1,16 @@
+{
+  "title": "Update Changelog Entry",
+  "summary": "Added new features and fixed bugs in the latest release.",
+  "attributes": {
+    "version": "1.2.3",
+    "features": "Improved performance, UI enhancements",
+    "bugfixes": "Fixed login issue, resolved crash on startup"
+  },
+  "metadata": {
+    "commit_hash": "7589588a",
+    "author": "dev_team",
+    "reviewed": "yes",
+    "token": "7589588a",
+    "created_at": "2024-06-10T12:00:00Z"
+  }
+}
