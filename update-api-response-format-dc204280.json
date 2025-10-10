@@ -1,0 +1,15 @@
+{
+  "title": "Update API Response Format",
+  "summary": "Modified the API response to include additional user metadata for enhanced tracking.",
+  "attributes": {
+    "response_format": "JSON",
+    "added_fields": "user_location,user_device",
+    "backward_compatible": "true"
+  },
+  "metadata": {
+    "reviewed_by": "team_lead",
+    "approved": "yes",
+    "token": "dc204280",
+    "created_at": "2024-06-15T10:00:00Z"
+  }
+}
