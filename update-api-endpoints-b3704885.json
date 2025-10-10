@@ -1,15 +1,15 @@
 {
-  "title": "Update API endpoints",
-  "summary": "Refactored API endpoints for improved performance and added new query parameters.",
+  "title": "Update API Endpoint Handling",
+  "summary": "Refactored the API endpoint code to improve error handling and response times.",
   "attributes": {
-    "version": "1.2.0",
-    "changed_files": "5",
+    "version": "1.2.3",
+    "changed_files": "3",
     "impact": "medium"
   },
   "metadata": {
     "token": "b3704885",
-    "author": "dev_team",
+    "author": "developer_team",
     "reviewed": "true",
-    "created_at": "2024-06-01T12:00:00Z"
+    "created_at": "2024-06-10T14:30:00Z"
   }
 }
