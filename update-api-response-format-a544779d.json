@@ -1,15 +1,16 @@
 {
-  "title": "Update API Response Format",
-  "summary": "Changed API response to include pagination info and improved error messages.",
+  "title": "Update API endpoint handling",
+  "summary": "Refactored the API endpoint logic to improve performance and error handling.",
   "attributes": {
-    "version": "1.2.0",
-    "breaking_change": "false",
-    "affected_endpoints": "/users,/orders"
+    "changed_files": "3",
+    "lines_added": "120",
+    "lines_removed": "45",
+    "breaking_change": "false"
   },
   "metadata": {
-    "author": "dev_team",
-    "review_status": "approved",
+    "reviewed_by": "alice",
+    "merge_commit": "f9c2a1b7",
     "token": "a544779d",
-    "created_at": "2024-06-10T15:42:00Z"
+    "created_at": "2024-06-05T14:30:00Z"
   }
 }
