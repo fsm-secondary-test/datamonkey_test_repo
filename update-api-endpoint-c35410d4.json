@@ -1,15 +1,16 @@
 {
-  "title": "Update API Endpoint",
-  "summary": "Changed API endpoint from v1 to v2 for improved performance.",
+  "title": "Update API Endpoint Handling",
+  "summary": "Improved error handling for user data fetch API endpoint to prevent crashes.",
   "attributes": {
-    "endpoint": "/api/v2/resource",
-    "method": "GET",
-    "status": "deprecated v1; active v2"
+    "version": "1.2.3",
+    "impact": "medium",
+    "component": "user-service"
   },
   "metadata": {
+    "reviewed_by": "alice",
+    "ticket_id": "BUG-4521",
+    "commit_hash": "c35410d4",
     "token": "c35410d4",
-    "author": "dev_team",
-    "reviewed": "true",
-    "created_at": "2024-06-01T12:00:00Z"
+    "created_at": "2024-06-01T10:15:00Z"
   }
 }
