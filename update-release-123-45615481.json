@@ -1,0 +1,13 @@
+{
+  "title": "Update Release 1.2.3",
+  "summary": "Improved performance and fixed minor bugs.",
+  "attributes": {
+    "performance": "optimized rendering engine",
+    "bugfix": "resolved crash on startup"
+  },
+  "metadata": {
+    "release_type": "minor",
+    "token": "45615481",
+    "created_at": "2024-06-01T12:00:00Z"
+  }
+}
