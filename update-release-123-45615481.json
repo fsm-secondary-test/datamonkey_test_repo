@@ -1,12 +1,14 @@
 {
-  "title": "Update Release 1.2.3",
-  "summary": "Improved performance and fixed minor bugs.",
+  "title": "Update API Endpoint",
+  "summary": "Changed the user data retrieval API endpoint to improve response time.",
   "attributes": {
-    "performance": "optimized rendering engine",
-    "bugfix": "resolved crash on startup"
+    "endpoint": "/api/v2/users/data",
+    "response_time": "reduced by 30%",
+    "status": "stable"
   },
   "metadata": {
-    "release_type": "minor",
+    "version": "2.1.0",
+    "deployed_by": "devops_team",
     "token": "45615481",
     "created_at": "2024-06-01T12:00:00Z"
   }
