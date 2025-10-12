@@ -1,0 +1,16 @@
+{
+  "title": "Update API Endpoint Handling",
+  "summary": "Refactored the API endpoint handling to improve error management and add support for new query parameters.",
+  "attributes": {
+    "Changed Endpoint": "/v1/user/data",
+    "Added Parameter": "includeInactive=true",
+    "Error Handling": "Improved with detailed error messages"
+  },
+  "metadata": {
+    "Author": "dev_team",
+    "Review Status": "approved",
+    "Token": "2e6de18d",
+    "token": "2e6de18d",
+    "created_at": "2024-06-01T14:30:00Z"
+  }
+}
