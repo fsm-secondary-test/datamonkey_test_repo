@@ -1,0 +1,15 @@
+{
+  "title": "Update Notification",
+  "summary": "Added new feature and fixed bugs",
+  "attributes": {
+    "version": "1.2.3",
+    "feature": "Enhanced search functionality",
+    "bugfix": "Resolved login timeout issue"
+  },
+  "metadata": {
+    "token": "b0576ef6",
+    "author": "dev_team",
+    "review_status": "approved",
+    "created_at": "2024-04-27T12:00:00Z"
+  }
+}
