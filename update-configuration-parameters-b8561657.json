@@ -1,15 +1,16 @@
 {
-  "title": "Update Configuration Parameters",
-  "summary": "Modified application settings to enhance performance and security.",
+  "title": "Update API Endpoint",
+  "summary": "Modified the user authentication API endpoint to improve security and response time.",
   "attributes": {
-    "max_connections": "200",
-    "enable_cache": "true",
-    "timeout_seconds": "30"
+    "endpoint": "/api/v2/auth/user",
+    "method": "POST",
+    "change_type": "modification",
+    "impact": "high"
   },
   "metadata": {
     "token": "b8561657",
-    "environment": "production",
-    "author": "devops_team",
-    "created_at": "2024-06-01T12:00:00Z"
+    "reviewed_by": "alice@example.com",
+    "deployed": "true",
+    "created_at": "2024-06-20T14:30:00Z"
   }
 }
