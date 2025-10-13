@@ -1,16 +1,15 @@
 {
-  "title": "Update API Endpoint",
-  "summary": "Refined the API endpoint for better error handling and performance.",
+  "title": "Update API Endpoints",
+  "summary": "Refactored several API endpoints for improved performance and added new query parameters.",
   "attributes": {
-    "version": "1.2.3",
-    "changed_files": "api/endpoints/user.js, api/utils/errorHandler.js",
-    "impact": "medium"
+    "refactor": "api endpoints",
+    "performance": "improved",
+    "new_features": "query parameters added"
   },
   "metadata": {
-    "de35c487": "true",
-    "author": "dev_team",
-    "reviewed": "yes",
     "token": "de35c487",
-    "created_at": "2024-06-01T10:15:00Z"
+    "author": "dev_team",
+    "reviewed": "true",
+    "created_at": "2024-06-15T12:30:00Z"
   }
 }
