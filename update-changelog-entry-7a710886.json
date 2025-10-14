@@ -1,0 +1,15 @@
+{
+  "title": "Update Changelog Entry",
+  "summary": "Added new features and fixed bugs in the latest release.",
+  "attributes": {
+    "version": "1.2.3",
+    "features_added": "3",
+    "bugs_fixed": "5"
+  },
+  "metadata": {
+    "release_manager": "jdoe",
+    "token": "7a710886",
+    "environment": "production",
+    "created_at": "2024-06-15T12:00:00Z"
+  }
+}
