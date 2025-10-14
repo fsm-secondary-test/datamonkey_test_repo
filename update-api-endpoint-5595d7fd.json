@@ -1,16 +1,16 @@
 {
   "title": "Update API Endpoint",
-  "summary": "Refactored the user authentication API endpoint for improved security and performance.",
+  "summary": "Changed the user authentication API endpoint to improve security.",
   "attributes": {
     "endpoint": "/api/v2/auth/user",
     "method": "POST",
-    "performance": "enhanced",
-    "security": "improved OAuth2 handling"
+    "status": "deprecated",
+    "replacement": "/api/v3/auth/user"
   },
   "metadata": {
-    "token": "5595d7fd",
     "reviewed_by": "alice",
     "approved": "true",
+    "token": "5595d7fd",
     "created_at": "2024-06-04T12:00:00Z"
   }
 }
