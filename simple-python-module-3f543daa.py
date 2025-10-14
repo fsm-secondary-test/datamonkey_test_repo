@@ -1,15 +1,13 @@
-"""A small Python module with one function and one class, including the token '3f543daa'. | token=3f543daa"""
+"""A small Python module containing one function and one class, including a unique token in the docstring. | token=3f543daa"""
 
 def greet(name):
-    """Return a greeting message including the token 3f543daa."""
-    return f"Hello, {name}! Token: 3f543daa"
+    """Return a greeting message including the name. Token: 3f543daa"""
+    return f"Hello, {name}!"
 
-class Counter:
-    """Simple counter class with token 3f543daa in the docstring."""
+class Person:
+    """Simple Person class with a name attribute. Token: 3f543daa"""
+    def __init__(self, name):
+        self.name = name
 
-    def __init__(self):
-        self.count = 0
-
-    def increment(self):
-        self.count += 1
-        return self.count
+    def introduce(self):
+        return f"Hi, my name is {self.name}."
