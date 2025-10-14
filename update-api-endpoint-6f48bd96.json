@@ -1,15 +1,15 @@
 {
-  "title": "Update API Endpoint",
-  "summary": "Changed user authentication endpoint to improve security.",
+  "title": "Update Configuration Handling",
+  "summary": "Improved configuration parsing to support nested structures and added validation for missing keys.",
   "attributes": {
-    "endpoint": "/api/v2/auth/login",
-    "method": "POST",
-    "status": "stable"
+    "version": "1.2.0",
+    "author": "dev_team",
+    "impact": "medium"
   },
   "metadata": {
+    "commit_hash": "a1b2c3d4e5f6",
     "token": "6f48bd96",
-    "author": "dev_team",
-    "reviewed": "true",
-    "created_at": "2024-06-15T12:00:00Z"
+    "reviewed_by": "alice",
+    "created_at": "2024-06-01T12:00:00Z"
   }
 }
