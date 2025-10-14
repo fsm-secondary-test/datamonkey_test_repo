@@ -1,15 +1,16 @@
 {
-  "title": "Update Changelog Entry",
-  "summary": "Added new features and fixed bugs in the latest release.",
+  "title": "Update Data Processing Module",
+  "summary": "Refactored the data processing module to improve performance and added error handling.",
   "attributes": {
-    "version": "1.2.3",
-    "features_added": "3",
-    "bugs_fixed": "5"
+    "module": "data_processing",
+    "version": "2.1.0",
+    "impact": "high",
+    "author": "jdoe"
   },
   "metadata": {
-    "release_manager": "jdoe",
     "token": "7a710886",
-    "environment": "production",
-    "created_at": "2024-06-15T12:00:00Z"
+    "reviewed": "true",
+    "deployed": "2024-06-02",
+    "created_at": "2024-06-01T12:00:00Z"
   }
 }
