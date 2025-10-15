@@ -1,15 +1,18 @@
-"""A small Python module with one function and one class, including a specific token in the docstring. | token=48dc5864"""
+"""A small Python module with one simple function and one simple class, including the token '48dc5864' in a docstring. | token=48dc5864"""
 
 def greet(name):
-    """Return a greeting message including the provided name."""
-    return f"Hello, {name}!"
+    """Return a greeting message including the token 48dc5864."""
+    return f"Hello, {name}! Token: 48dc5864"
 
-class TokenHolder:
-    """A simple class that holds a token string '48dc5864'."""
-
+class Counter:
+    """Simple counter class with token 48dc5864 in the docstring."""
     def __init__(self):
-        self.token = '48dc5864'
+        self.count = 0
 
-    def get_token(self):
-        """Return the stored token."""
-        return self.token
+    def increment(self):
+        """Increment the counter by one."""
+        self.count += 1
+
+    def value(self):
+        """Return the current count value."""
+        return self.count
