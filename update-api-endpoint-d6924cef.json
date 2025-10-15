@@ -1,0 +1,15 @@
+{
+  "title": "Update API Endpoint",
+  "summary": "Modified the user authentication API to improve security and response time.",
+  "attributes": {
+    "Version": "1.2.0",
+    "ChangeType": "Improvement",
+    "AffectedModule": "UserAuthAPI"
+  },
+  "metadata": {
+    "ReviewedBy": "Alice",
+    "Priority": "High",
+    "token": "d6924cef",
+    "created_at": "2024-06-01T12:00:00Z"
+  }
+}
