@@ -1,16 +1,15 @@
 {
-  "title": "Update Configuration Parsing Logic",
-  "summary": "Refactored configuration parsing to improve error handling and support new syntax.",
+  "title": "Update Configuration Parser",
+  "summary": "Enhanced the parser to support nested JSON objects and improved error handling.",
   "attributes": {
-    "version": "1.2.0",
-    "impact": "medium",
+    "version": "1.4.2",
     "component": "config-parser",
-    "author": "dev_team"
+    "impact": "medium"
   },
   "metadata": {
-    "commit_hash": "a1b2c3d4e5f6",
-    "reviewer": "qa_lead",
     "token": "002e050e",
+    "author": "devteam",
+    "reviewed": "true",
     "created_at": "2024-06-15T10:30:00Z"
   }
 }
