@@ -1,15 +1,15 @@
 {
-  "title": "Update API Response Format",
-  "summary": "Refined the API response structure to include detailed user information.",
+  "title": "Update API Endpoints",
+  "summary": "Refactored API endpoints to improve response time and added new authentication methods.",
   "attributes": {
-    "version": "1.2.0",
-    "changed_component": "User API",
-    "impact": "medium"
+    "version": "1.4.2",
+    "impact": "medium",
+    "components": "auth,api-gateway"
   },
   "metadata": {
-    "reviewed_by": "team_lead",
-    "release_type": "minor",
+    "reviewed_by": "alice",
+    "release_window": "Q2 2024",
     "token": "8323d99c",
-    "created_at": "2024-06-01T12:00:00Z"
+    "created_at": "2024-06-02T15:30:00Z"
   }
 }
