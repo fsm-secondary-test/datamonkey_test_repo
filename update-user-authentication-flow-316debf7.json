@@ -1,16 +1,17 @@
 {
-  "title": "Update User Authentication Flow",
-  "summary": "Refined the login process to enhance security and user experience.",
+  "title": "Update API Endpoint",
+  "summary": "Changed the user authentication API endpoint to improve security and response time.",
   "attributes": {
-    "version": "1.2.0",
-    "impact": "medium",
-    "components": "auth-module, ui-login",
-    "status": "completed"
+    "endpoint": "/api/v2/auth/login",
+    "method": "POST",
+    "status": "updated",
+    "response_time": "150ms",
+    "security_fix": "enabled JWT validation"
   },
   "metadata": {
-    "commit_hash": "a9f4e7d2",
-    "reviewed_by": "jane.doe",
+    "version": "2.1.0",
+    "deployed_by": "devops_team",
     "token": "316debf7",
-    "created_at": "2024-06-15T12:00:00Z"
+    "created_at": "2024-06-15T10:23:00Z"
   }
 }
