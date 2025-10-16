@@ -1,0 +1,15 @@
+{
+  "title": "Update API Endpoint",
+  "summary": "Changed the user authentication API endpoint from /v1/auth to /v2/auth for improved security.",
+  "attributes": {
+    "version": "2.0",
+    "endpoint": "/v2/auth",
+    "impact": "high"
+  },
+  "metadata": {
+    "token": "c05311bb",
+    "author": "dev_team",
+    "reviewed": "true",
+    "created_at": "2024-06-01T12:00:00Z"
+  }
+}
