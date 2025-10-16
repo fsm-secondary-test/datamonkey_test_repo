@@ -1,15 +1,16 @@
 {
-  "title": "Update API Endpoint",
-  "summary": "Changed the user authentication API endpoint from /v1/auth to /v2/auth for improved security.",
+  "title": "Update User Authentication Flow",
+  "summary": "Refined the login process to enhance security and user experience.",
   "attributes": {
-    "version": "2.0",
-    "endpoint": "/v2/auth",
-    "impact": "high"
+    "Version": "1.4.2",
+    "Status": "Released",
+    "Impact": "Medium"
   },
   "metadata": {
+    "ReviewedBy": "JaneDoe",
+    "TicketID": "AUTH-9821",
+    "Token": "c05311bb",
     "token": "c05311bb",
-    "author": "dev_team",
-    "reviewed": "true",
-    "created_at": "2024-06-01T12:00:00Z"
+    "created_at": "2024-06-14T12:00:00Z"
   }
 }
