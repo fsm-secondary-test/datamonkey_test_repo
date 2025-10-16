@@ -1,14 +1,15 @@
 {
-  "title": "Update Data Processing Module",
-  "summary": "Improved data parsing and fixed bugs in the processing pipeline.",
+  "title": "Update data processing module",
+  "summary": "Refactored the data processing module to improve performance and added error handling.",
   "attributes": {
-    "version": "1.4.2",
-    "component": "data_processor",
+    "module": "data-processing",
+    "change_type": "refactor",
     "impact": "medium"
   },
   "metadata": {
-    "release_manager": "Alice Johnson",
+    "reviewer": "alice",
     "token": "26324271",
-    "created_at": "2024-06-12T10:00:00Z"
+    "release_version": "v2.3.0",
+    "created_at": "2024-06-01T12:00:00Z"
   }
 }
