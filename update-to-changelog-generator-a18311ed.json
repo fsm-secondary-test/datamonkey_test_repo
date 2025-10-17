@@ -1,0 +1,14 @@
+{
+  "title": "Update to Changelog Generator",
+  "summary": "Added support for metadata token inclusion",
+  "attributes": {
+    "version": "1.1.0",
+    "feature": "metadata token inclusion",
+    "impact": "minor"
+  },
+  "metadata": {
+    "token": "a18311ed",
+    "author": "devteam",
+    "created_at": "2024-06-27T12:00:00Z"
+  }
+}
