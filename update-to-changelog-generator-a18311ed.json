@@ -1,14 +1,17 @@
 {
-  "title": "Update to Changelog Generator",
-  "summary": "Added support for metadata token inclusion",
+  "title": "Update Dependency Versions",
+  "summary": "Bumped versions of core dependencies to address security vulnerabilities.",
   "attributes": {
-    "version": "1.1.0",
-    "feature": "metadata token inclusion",
-    "impact": "minor"
+    "updated_package": "lodash",
+    "new_version": "4.17.21",
+    "old_version": "4.17.20",
+    "impact": "security patch"
   },
   "metadata": {
+    "commit_hash": "f7a3b8c9",
+    "author": "devops_bot",
+    "reviewer": "security_team",
     "token": "a18311ed",
-    "author": "devteam",
-    "created_at": "2024-06-27T12:00:00Z"
+    "created_at": "2024-06-10T12:00:00Z"
   }
 }
