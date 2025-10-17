@@ -1,15 +1,15 @@
 {
-  "title": "Update Dependencies",
-  "summary": "Upgraded project dependencies to latest stable versions for improved performance and security.",
+  "title": "Update API Endpoint",
+  "summary": "Refactored the user authentication API endpoint for improved security and performance.",
   "attributes": {
-    "dependency": "lodash",
-    "from_version": "4.17.20",
-    "to_version": "4.17.21"
+    "version": "1.2.0",
+    "author": "Jane Doe",
+    "breaking_change": "false"
   },
   "metadata": {
     "token": "a67fd9ab",
-    "environment": "production",
-    "approved_by": "team_lead",
-    "created_at": "2024-06-01T12:00:00Z"
+    "reviewed_by": "John Smith",
+    "approved": "true",
+    "created_at": "2024-06-15T10:30:00Z"
   }
 }
