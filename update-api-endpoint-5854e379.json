@@ -1,16 +1,15 @@
 {
-  "title": "Update API Endpoint",
-  "summary": "Refactored the user authentication API endpoint for improved security and performance.",
+  "title": "Update Dependency Versions",
+  "summary": "Bumped versions of core libraries to latest stable releases for improved performance and security.",
   "attributes": {
-    "endpoint": "/api/v2/auth/login",
-    "status": "refactored",
-    "performance": "improved",
-    "security": "enhanced"
+    "library": "libbar",
+    "old_version": "4.5.6",
+    "new_version": "4.6.1"
   },
   "metadata": {
     "token": "5854e379",
-    "author": "dev_team",
+    "author": "dev-team",
     "reviewed": "true",
-    "created_at": "2024-06-01T12:00:00Z"
+    "created_at": "2024-06-13T12:00:00Z"
   }
 }
