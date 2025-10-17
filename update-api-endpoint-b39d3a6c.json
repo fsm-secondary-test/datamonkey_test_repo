@@ -1,15 +1,15 @@
 {
-  "title": "Update API Endpoint",
-  "summary": "Refactored the user authentication API endpoint for better performance.",
+  "title": "Update API Endpoints",
+  "summary": "Refactored and optimized several API endpoints for better performance and scalability.",
   "attributes": {
-    "version": "1.2.0",
-    "author": "dev_team",
-    "impact": "medium"
+    "performance_improvement": "30%",
+    "endpoints_updated": "5",
+    "backward_compatible": "true"
   },
   "metadata": {
+    "reviewed_by": "team_lead",
+    "deployment_window": "2024-06-03 02:00-04:00 UTC",
     "token": "b39d3a6c",
-    "review_status": "approved",
-    "deployment_window": "2024-06-15T02:00:00Z",
-    "created_at": "2024-06-10T14:22:00Z"
+    "created_at": "2024-06-01T12:00:00Z"
   }
 }
