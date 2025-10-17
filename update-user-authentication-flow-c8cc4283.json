@@ -1,0 +1,15 @@
+{
+  "title": "Update User Authentication Flow",
+  "summary": "Refactored the authentication process to improve security and performance.",
+  "attributes": {
+    "version": "1.3.0",
+    "impact": "high",
+    "components": "auth, backend"
+  },
+  "metadata": {
+    "commit_hash": "a1b2c3d4e5f6",
+    "reviewed_by": "alice",
+    "token": "c8cc4283",
+    "created_at": "2024-06-01T12:00:00Z"
+  }
+}
