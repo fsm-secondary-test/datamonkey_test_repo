@@ -1,15 +1,16 @@
 {
-  "title": "Update API Endpoint",
-  "summary": "Changed the user authentication endpoint to support OAuth 2.0.",
+  "title": "Update User Authentication Module",
+  "summary": "Refactored the user authentication logic to improve security and performance.",
   "attributes": {
-    "endpoint": "/api/v2/auth/oauth",
-    "method": "POST",
-    "status": "updated"
+    "version": "1.4.2",
+    "author": "Jane Doe",
+    "impact": "medium",
+    "components": "auth, backend"
   },
   "metadata": {
+    "reviewed_by": "John Smith",
+    "deployment_date": "2024-06-20",
     "token": "f56ec268",
-    "author": "devteam",
-    "reviewed": "true",
-    "created_at": "2024-06-05T14:30:00Z"
+    "created_at": "2024-06-15T10:30:00Z"
   }
 }
