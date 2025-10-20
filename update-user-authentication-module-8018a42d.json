@@ -1,15 +1,15 @@
 {
-  "title": "Update User Authentication Module",
-  "summary": "Refactored authentication logic to improve security and performance.",
+  "title": "Update to User Authentication Module",
+  "summary": "Improved security and fixed token expiration handling.",
   "attributes": {
-    "version": "1.4.2",
-    "author": "Jane Doe",
-    "impact": "medium"
+    "version": "2.3.1",
+    "severity": "high",
+    "component": "auth-module"
   },
   "metadata": {
+    "commit": "a1b2c3d4",
+    "reviewer": "jdoe",
     "token": "8018a42d",
-    "reviewed_by": "John Smith",
-    "release_date": "2024-06-20",
-    "created_at": "2024-06-15T10:23:00Z"
+    "created_at": "2024-06-01T12:00:00Z"
   }
 }
