@@ -1,15 +1,15 @@
 {
-  "title": "Update Dependencies",
-  "summary": "Upgraded several key dependencies to improve performance and security.",
+  "title": "Update User Authentication Flow",
+  "summary": "Improved security and performance in user login process",
   "attributes": {
-    "affected_components": "frontend, backend",
-    "version": "1.4.2",
-    "impact": "medium"
+    "version": "1.2.0",
+    "impact": "medium",
+    "author": "dev_team"
   },
   "metadata": {
-    "commit_hash": "a1b2c3d4",
-    "deployed_by": "devops-team",
     "token": "621a1ff3",
-    "created_at": "2024-06-15T12:00:00Z"
+    "reviewed": "true",
+    "release_date": "2024-06-07",
+    "created_at": "2024-06-07T12:00:00Z"
   }
 }
