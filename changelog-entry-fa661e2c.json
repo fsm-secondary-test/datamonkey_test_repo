@@ -1,0 +1,14 @@
+{
+  "title": "Changelog Entry",
+  "summary": "Compact changelog entry with required fields.",
+  "attributes": {
+    "version": "1.0.1",
+    "author": "devteam",
+    "changes": "Fixed bugs and improved performance"
+  },
+  "metadata": {
+    "release_date": "2024-06-01",
+    "token": "fa661e2c",
+    "created_at": "2024-06-01T12:00:00Z"
+  }
+}
