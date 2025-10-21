@@ -1,15 +1,16 @@
 {
   "title": "Update API Endpoint",
-  "summary": "Refactored the user authentication API endpoint for improved security and performance.",
+  "summary": "Modified the user authentication API endpoint to improve security and response time.",
   "attributes": {
-    "version": "1.2.0",
-    "impact": "medium",
-    "component": "authentication"
+    "endpoint": "/api/v2/authenticate",
+    "method": "POST",
+    "response_time": "120ms",
+    "security_patch": "enabled"
   },
   "metadata": {
-    "reviewed_by": "alice",
-    "approved": "true",
+    "version": "2.1.0",
+    "deployed_by": "devops_team",
     "token": "45d1c448",
-    "created_at": "2024-06-01T12:00:00Z"
+    "created_at": "2024-04-27T15:30:00Z"
   }
 }
