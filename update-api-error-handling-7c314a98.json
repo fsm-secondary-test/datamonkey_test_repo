@@ -1,0 +1,15 @@
+{
+  "title": "Update API Error Handling",
+  "summary": "Improved error responses to include detailed messages and codes.",
+  "attributes": {
+    "version": "1.2.0",
+    "component": "API",
+    "impact": "medium"
+  },
+  "metadata": {
+    "reviewer": "alice@example.com",
+    "approved": "true",
+    "token": "7c314a98",
+    "created_at": "2024-06-10T15:30:00Z"
+  }
+}
