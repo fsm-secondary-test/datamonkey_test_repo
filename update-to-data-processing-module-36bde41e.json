@@ -1,16 +1,17 @@
 {
-  "title": "Update to Data Processing Module",
-  "summary": "Improved data parsing speed and fixed memory leak issue.",
+  "title": "Update User Authentication Module",
+  "summary": "Refactored authentication logic to improve security and performance.",
   "attributes": {
-    "performance": "20% faster parsing",
-    "bugfix": "resolved memory leak in buffer handler",
-    "compatibility": "maintains backward compatibility"
+    "module": "user-authentication",
+    "version": "2.1.0",
+    "impact": "high",
+    "status": "completed"
   },
   "metadata": {
-    "release_version": "v1.4.3",
-    "author": "dev_team",
-    "commit_hash": "36bde41e",
+    "reviewer": "alice@example.com",
+    "approved": "true",
+    "commit": "a1b2c3d4e5f6",
     "token": "36bde41e",
-    "created_at": "2024-06-15T10:30:00Z"
+    "created_at": "2024-06-01T12:34:56Z"
   }
 }
