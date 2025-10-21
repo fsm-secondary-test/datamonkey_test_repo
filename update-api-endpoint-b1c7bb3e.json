@@ -1,16 +1,15 @@
 {
   "title": "Update API Endpoint",
-  "summary": "Changed the API endpoint to support new query parameters.",
+  "summary": "Changed the user authentication endpoint to improve security.",
   "attributes": {
-    "endpoint": "/v2/users",
-    "method": "GET",
-    "params_added": "include_inactive,sort_order"
+    "endpoint": "/api/v2/authenticate",
+    "method": "POST",
+    "status": "updated"
   },
   "metadata": {
-    "author": "dev_team",
-    "reviewer": "tech_lead",
-    "commit_token": "b1c7bb3e",
     "token": "b1c7bb3e",
-    "created_at": "2024-06-20T14:30:00Z"
+    "author": "dev_team",
+    "reviewed": "true",
+    "created_at": "2024-06-20T15:30:00Z"
   }
 }
