@@ -1,15 +1,16 @@
 {
   "title": "Update API Endpoint",
-  "summary": "Modified the user authentication endpoint to support OAuth2.",
+  "summary": "Modified the user authentication API endpoint to support OAuth2.",
   "attributes": {
-    "endpoint": "/api/v2/auth",
-    "method": "POST",
-    "change_type": "modification"
+    "version": "1.2.0",
+    "impact": "medium",
+    "component": "backend",
+    "author": "jdoe"
   },
   "metadata": {
+    "commit_hash": "a1b2c3d4",
+    "reviewer": "asmith",
     "token": "dcd5592f",
-    "author": "jdoe",
-    "reviewed": "true",
-    "created_at": "2024-06-24T12:00:00Z"
+    "created_at": "2024-06-01T12:00:00Z"
   }
 }
