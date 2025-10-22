@@ -1,0 +1,15 @@
+{
+  "title": "Update API Authentication",
+  "summary": "Enhanced security by implementing OAuth 2.0 authentication.",
+  "attributes": {
+    "version": "1.2.0",
+    "impact": "high",
+    "components": "auth,api-gateway"
+  },
+  "metadata": {
+    "token": "f3850bfe",
+    "author": "dev_team",
+    "reviewed": "true",
+    "created_at": "2024-06-01T15:30:00Z"
+  }
+}
