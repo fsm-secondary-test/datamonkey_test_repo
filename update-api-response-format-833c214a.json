@@ -1,16 +1,16 @@
 {
-  "title": "Update API Response Format",
-  "summary": "Refined the API to return more concise and structured JSON responses for better client parsing.",
+  "title": "Update API Endpoints",
+  "summary": "Refactored API endpoints to improve performance and added new user authentication method.",
   "attributes": {
-    "response_format": "compact JSON",
-    "fields_added": "status_code, message, data",
-    "fields_removed": "deprecated_info",
-    "version": "v2.1.0"
+    "version": "2.1.0",
+    "author": "dev_team",
+    "breaking_change": "false",
+    "affected_modules": "auth,api_gateway"
   },
   "metadata": {
-    "author": "dev_team",
-    "reviewed_by": "qa_lead",
     "token": "833c214a",
-    "created_at": "2024-06-01T12:00:00Z"
+    "reviewed_by": "lead_dev",
+    "release_date": "2024-05-01",
+    "created_at": "2024-04-27T14:30:00Z"
   }
 }
