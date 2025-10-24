@@ -1,14 +1,15 @@
 {
-  "title": "Release v1.2.3",
-  "summary": "Bug fixes and performance improvements.",
+  "title": "Update API Endpoint Handling",
+  "summary": "Refactored the API endpoint to improve error handling and response times.",
   "attributes": {
-    "version": "1.2.3",
-    "fixes": "10 bugs",
-    "improvements": "Faster load times"
+    "changed_file": "api/endpoints/user.js",
+    "change_type": "refactor",
+    "impact": "medium"
   },
   "metadata": {
+    "reviewed_by": "alice",
     "token": "5cb855ec",
-    "release_date": "2024-06-01",
-    "created_at": "2024-06-01T12:00:00Z"
+    "release_version": "v2.1.0",
+    "created_at": "2024-06-10T14:23:00Z"
   }
 }
