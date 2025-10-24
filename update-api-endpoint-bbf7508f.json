@@ -1,16 +1,16 @@
 {
-  "title": "Update API Endpoint",
-  "summary": "Refactored user authentication API endpoint for improved security and performance.",
+  "title": "Update Database Schema",
+  "summary": "Refactored user table to improve indexing and query performance.",
   "attributes": {
-    "version": "2.1.0",
-    "author": "dev_team",
-    "impact": "medium",
-    "component": "authentication_service"
+    "changed_table": "user",
+    "new_indexes": "email_idx,last_login_idx",
+    "removed_columns": "middle_name",
+    "migration_script": "migrate_v12.sql"
   },
   "metadata": {
     "token": "bbf7508f",
-    "release_date": "2024-06-15",
-    "approved_by": "security_lead",
-    "created_at": "2024-06-15T10:23:00Z"
+    "author": "dev_team",
+    "reviewed_by": "lead_db_admin",
+    "created_at": "2024-06-01T12:00:00Z"
   }
 }
