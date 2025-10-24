@@ -1,16 +1,15 @@
 {
-  "title": "Update User Authentication Module",
-  "summary": "Refactored the authentication module to improve security and performance.",
+  "title": "Update API Endpoint",
+  "summary": "Changed the user authentication endpoint to use OAuth 2.0 flow.",
   "attributes": {
-    "module": "auth",
-    "version": "2.1.0",
-    "impact": "high"
+    "endpoint": "/api/v2/auth/login",
+    "method": "POST",
+    "auth_method": "OAuth 2.0"
   },
   "metadata": {
-    "commit_hash": "a3f5c7d9",
-    "author": "jdoe",
-    "reviewed_by": "asmith",
     "token": "011f2c1b",
-    "created_at": "2024-06-15T10:30:00Z"
+    "author": "dev_team",
+    "reviewed": "true",
+    "created_at": "2024-06-01T14:30:00Z"
   }
 }
