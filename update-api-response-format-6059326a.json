@@ -1,0 +1,15 @@
+{
+  "title": "Update API Response Format",
+  "summary": "Modified the API response to include detailed error messages and status codes for better client-side handling.",
+  "attributes": {
+    "version": "1.2.0",
+    "changed": "response_format",
+    "impact": "medium"
+  },
+  "metadata": {
+    "author": "dev_team",
+    "reviewed_by": "qa_lead",
+    "token": "6059326a",
+    "created_at": "2024-06-15T12:34:56Z"
+  }
+}
