@@ -1,0 +1,14 @@
+{
+  "title": "Release v1.2.3",
+  "summary": "Bug fixes and performance improvements.",
+  "attributes": {
+    "version": "1.2.3",
+    "fixes": "10 bugs",
+    "improvements": "Faster load times"
+  },
+  "metadata": {
+    "token": "5cb855ec",
+    "release_date": "2024-06-01",
+    "created_at": "2024-06-01T12:00:00Z"
+  }
+}
