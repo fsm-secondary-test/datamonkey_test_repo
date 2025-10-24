@@ -1,0 +1,15 @@
+{
+  "title": "Update API Endpoint Handling",
+  "summary": "Improved error handling and response parsing for the user data API endpoint.",
+  "attributes": {
+    "version": "1.2.3",
+    "component": "UserAPI",
+    "change_type": "bugfix"
+  },
+  "metadata": {
+    "reviewed_by": "alice",
+    "release_stage": "staging",
+    "token": "11aee800",
+    "created_at": "2024-06-01T12:00:00Z"
+  }
+}
