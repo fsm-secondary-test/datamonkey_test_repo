@@ -1,0 +1,16 @@
+{
+  "title": "Update API endpoints",
+  "summary": "Refactored API endpoints for improved performance and clarity.",
+  "attributes": {
+    "version": "1.2.0",
+    "author": "dev_team",
+    "changes": "Updated user and order endpoints",
+    "impact": "moderate"
+  },
+  "metadata": {
+    "token": "9a9de1c6",
+    "reviewed_by": "qa_lead",
+    "environment": "staging",
+    "created_at": "2024-06-15T10:22:00Z"
+  }
+}
