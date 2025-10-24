@@ -1,16 +1,15 @@
 {
-  "title": "Update API Endpoint",
-  "summary": "Refactored the user authentication API endpoint to improve security and performance.",
+  "title": "Update API Response Format",
+  "summary": "Refined the API response to include detailed user attributes and added version metadata.",
   "attributes": {
-    "Endpoint": "/api/v2/auth/login",
-    "Status": "Stable",
-    "Performance": "Improved by 30%"
+    "response_format": "detailed",
+    "user_info": "expanded",
+    "version": "2.1.0"
   },
   "metadata": {
-    "ReviewedBy": "Alice",
-    "Token": "89810986",
-    "ReleaseVersion": "v2.1.0",
     "token": "89810986",
-    "created_at": "2024-06-01T12:00:00Z"
+    "author": "dev_team",
+    "release_date": "2024-06-15",
+    "created_at": "2024-06-15T10:30:00Z"
   }
 }
