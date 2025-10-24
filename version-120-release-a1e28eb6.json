@@ -1,15 +1,15 @@
 {
-  "title": "Version 1.2.0 Release",
-  "summary": "Introduced new authentication flow and fixed critical bugs.",
+  "title": "Update API Endpoint",
+  "summary": "Modified the user authentication API endpoint to improve security and performance.",
   "attributes": {
-    "auth_flow": "new OAuth2 implementation",
-    "bug_fixes": "resolved login timeout issues",
-    "performance": "improved response time by 20%"
+    "endpoint": "/api/v2/auth/login",
+    "change_type": "modification",
+    "impact": "high"
   },
   "metadata": {
-    "release_manager": "Jane Doe",
-    "environment": "production",
+    "reviewer": "jane.doe",
+    "approved": "true",
     "token": "a1e28eb6",
-    "created_at": "2024-04-27T12:00:00Z"
+    "created_at": "2024-06-04T12:00:00Z"
   }
 }
