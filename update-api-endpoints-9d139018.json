@@ -1,0 +1,15 @@
+{
+  "title": "Update API Endpoints",
+  "summary": "Refactored API endpoints to improve response time and added new authentication methods.",
+  "attributes": {
+    "version": "2.1.0",
+    "changed_files": "5",
+    "breaking_changes": "false"
+  },
+  "metadata": {
+    "deployed_by": "ci_pipeline",
+    "environment": "production",
+    "token": "9d139018",
+    "created_at": "2024-06-01T12:00:00Z"
+  }
+}
