@@ -1,15 +1,16 @@
 {
-  "title": "Update to API Endpoint Handling",
-  "summary": "Refined the way API endpoints are processed to improve performance and reduce errors.",
+  "title": "Update User Authentication Flow",
+  "summary": "Refactored the user authentication flow to enhance security and improve performance.",
   "attributes": {
-    "endpoint": "/v1/data",
-    "method": "GET",
-    "status": "optimized"
+    "Refactor": "User authentication logic",
+    "Enhancement": "Improved security measures",
+    "Performance": "Reduced login time by 30%"
   },
   "metadata": {
-    "author": "dev_team",
-    "reviewed_by": "qa_team",
+    "Author": "Jane Doe",
+    "Reviewed": "John Smith",
+    "Token": "1961983e",
     "token": "1961983e",
-    "created_at": "2024-06-14T12:00:00Z"
+    "created_at": "2024-06-01T12:00:00Z"
   }
 }
