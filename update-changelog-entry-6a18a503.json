@@ -1,0 +1,15 @@
+{
+  "title": "Update Changelog Entry",
+  "summary": "Added new features and fixed bugs in the latest release.",
+  "attributes": {
+    "version": "1.2.3",
+    "features": "Improved UI, Faster load times",
+    "bugfixes": "Fixed login error, Resolved crash on start"
+  },
+  "metadata": {
+    "author": "dev_team",
+    "release_date": "2024-04-27",
+    "token": "6a18a503",
+    "created_at": "2024-04-27T12:00:00Z"
+  }
+}
