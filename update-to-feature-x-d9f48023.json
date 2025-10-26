@@ -1,0 +1,14 @@
+{
+  "title": "Update to Feature X",
+  "summary": "Improved performance and fixed bugs in feature X.",
+  "attributes": {
+    "performance": "20% faster processing",
+    "bugfix": "resolved crash on startup"
+  },
+  "metadata": {
+    "commit": "a1b2c3d4",
+    "reviewed_by": "alice",
+    "token": "d9f48023",
+    "created_at": "2024-04-27T12:00:00Z"
+  }
+}
