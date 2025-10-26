@@ -1,16 +1,15 @@
 {
-  "title": "Update API Endpoint Handling",
-  "summary": "Improved error handling and response time for the user data API endpoint.",
+  "title": "Update API Endpoint",
+  "summary": "Refactored the user authentication API endpoint to improve security and performance.",
   "attributes": {
-    "component": "user-data-api",
-    "change_type": "bugfix",
+    "version": "1.2.0",
     "impact": "medium",
-    "response_time_improvement": "15%"
+    "author": "jdoe"
   },
   "metadata": {
+    "commit_hash": "f4c3b2a9",
+    "reviewer": "asmith",
     "token": "63a47068",
-    "reviewed_by": "team-lead",
-    "deployed_in_version": "v2.3.1",
-    "created_at": "2024-06-01T12:00:00Z"
+    "created_at": "2024-06-15T10:30:00Z"
   }
 }
