@@ -1,16 +1,15 @@
 {
-  "title": "Update Authentication Flow",
-  "summary": "Refactored the login mechanism to support OAuth 2.0 standards, improving security and user experience.",
+  "title": "Update API Endpoint",
+  "summary": "Refactored the user authentication API to improve performance and security.",
   "attributes": {
-    "version": "2.1.0",
-    "author": "Jane Doe",
-    "affected_modules": "auth, user-profile",
-    "impact": "high"
+    "version": "1.2.0",
+    "impact": "medium",
+    "component": "backend"
   },
   "metadata": {
     "token": "0e265ebd",
-    "release_date": "2024-06-15",
-    "approved_by": "CTO",
+    "author": "dev_team",
+    "reviewed": "true",
     "created_at": "2024-06-15T10:30:00Z"
   }
 }
