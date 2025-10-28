@@ -1,0 +1,16 @@
+{
+  "title": "Update API Response Format",
+  "summary": "Modified the API to return responses in JSON format with enhanced error handling.",
+  "attributes": {
+    "format": "JSON",
+    "error_handling": "enhanced",
+    "version": "v2.1"
+  },
+  "metadata": {
+    "token": "4fc02f5f",
+    "author": "dev_team",
+    "reviewed": "true",
+    "priority": "high",
+    "created_at": "2024-06-15T09:30:00Z"
+  }
+}
