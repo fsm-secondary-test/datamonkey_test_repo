@@ -1,0 +1,15 @@
+{
+  "title": "Update User Authentication Flow",
+  "summary": "Improved security by adding multi-factor authentication support.",
+  "attributes": {
+    "version": "1.2.0",
+    "impact": "medium",
+    "component": "auth-service"
+  },
+  "metadata": {
+    "token": "f87646b9",
+    "deployed_by": "ci-cd-pipeline",
+    "environment": "production",
+    "created_at": "2024-06-15T10:00:00Z"
+  }
+}
