@@ -1,14 +1,15 @@
 {
-  "title": "Update API Endpoint",
-  "summary": "Refactored the user authentication endpoint to improve security and performance.",
+  "title": "Update User Authentication Flow",
+  "summary": "Refactored the user authentication process for improved security and performance.",
   "attributes": {
-    "version": "2.1.0",
-    "impact": "medium",
-    "reviewed_by": "alice"
+    "version": "1.2.0",
+    "author": "dev_team",
+    "changes": "Refactored login, added 2FA, optimized session handling"
   },
   "metadata": {
     "token": "ae500fdf",
-    "deployed": "true",
-    "created_at": "2024-06-15T10:30:00Z"
+    "reviewed_by": "security_lead",
+    "approved": "true",
+    "created_at": "2024-06-10T14:30:00Z"
   }
 }
