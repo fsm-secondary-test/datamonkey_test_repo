@@ -1,16 +1,17 @@
 {
-  "title": "Update API Endpoint Handling",
-  "summary": "Refactored the user authentication API to improve error handling and added logging for failed attempts.",
+  "title": "Update API Endpoint",
+  "summary": "Changed the user authentication API endpoint to improve security and performance.",
   "attributes": {
-    "component": "authentication-api",
-    "change_type": "refactor",
-    "impact": "medium",
-    "added_logging": "true"
+    "endpoint": "/api/v2/auth/user",
+    "method": "POST",
+    "status": "deprecated",
+    "replacement": "/api/v3/auth/user"
   },
   "metadata": {
     "token": "71c2174d",
-    "reviewed_by": "alice",
-    "jira_ticket": "AUTH-342",
-    "created_at": "2024-06-05T14:23:00Z"
+    "author": "dev_team",
+    "reviewed_by": "senior_dev",
+    "priority": "high",
+    "created_at": "2024-06-10T09:30:00Z"
   }
 }
