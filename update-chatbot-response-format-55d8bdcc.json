@@ -1,0 +1,15 @@
+{
+  "title": "Update Chatbot Response Format",
+  "summary": "Added JSON changelog entry output with required metadata token.",
+  "attributes": {
+    "version": "1.0.1",
+    "change_type": "enhancement",
+    "author": "assistant"
+  },
+  "metadata": {
+    "token": "55d8bdcc",
+    "reviewed_by": "qa_team",
+    "release_status": "pending",
+    "created_at": "2024-06-07T12:00:00Z"
+  }
+}
