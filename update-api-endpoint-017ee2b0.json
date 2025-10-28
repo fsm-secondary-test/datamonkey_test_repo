@@ -1,17 +1,15 @@
 {
-  "title": "Update API Endpoint",
-  "summary": "Refactored the user authentication API endpoint to improve security and performance.",
+  "title": "Update User Authentication Flow",
+  "summary": "Improved security by adding multi-factor authentication and fixed session timeout bug.",
   "attributes": {
-    "version": "1.2.0",
-    "impact": "medium",
-    "component": "authentication",
-    "status": "completed"
+    "version": "2.1.0",
+    "mfa_enabled": "true",
+    "session_timeout_fixed": "true"
   },
   "metadata": {
-    "commit_hash": "a3f5c9d7",
-    "author": "dev_team",
-    "reviewed_by": "security_lead",
     "token": "017ee2b0",
-    "created_at": "2024-06-05T12:00:00Z"
+    "author": "dev_team",
+    "reviewed": "yes",
+    "created_at": "2024-06-20T14:35:00Z"
   }
 }
