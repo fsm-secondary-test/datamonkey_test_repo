@@ -1,15 +1,15 @@
 {
-  "title": "Update User Authentication Flow",
-  "summary": "Improved security by adding multi-factor authentication support.",
+  "title": "Update Configuration Handling",
+  "summary": "Refined the configuration file parsing logic to improve error handling and added support for new environment variables.",
   "attributes": {
-    "version": "1.2.0",
-    "impact": "medium",
-    "component": "auth-service"
+    "version": "1.4.2",
+    "author": "devteam@example.com",
+    "changes": "Enhanced parsing, added env support, improved error messages"
   },
   "metadata": {
+    "commit": "a1b2c3d4",
+    "reviewer": "qa_lead",
     "token": "f87646b9",
-    "deployed_by": "ci-cd-pipeline",
-    "environment": "production",
-    "created_at": "2024-06-15T10:00:00Z"
+    "created_at": "2024-06-21T15:30:00Z"
   }
 }
