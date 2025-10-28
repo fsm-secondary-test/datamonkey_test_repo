@@ -1,16 +1,15 @@
 {
-  "title": "Update API Endpoint",
-  "summary": "Modified the user authentication API to support OAuth2 tokens.",
+  "title": "Update JSON Changelog Format",
+  "summary": "Added metadata token and refined attributes structure in JSON changelog entry.",
   "attributes": {
-    "endpoint": "/api/v2/auth/login",
-    "method": "POST",
-    "status": "updated",
-    "version": "v2.1"
+    "version": "1.2.3",
+    "author": "dev_team",
+    "status": "completed"
   },
   "metadata": {
-    "author": "dev_team",
-    "reviewer": "security_lead",
     "token": "918d4273",
-    "created_at": "2024-06-15T10:00:00Z"
+    "reviewed_by": "qa_lead",
+    "approved": "true",
+    "created_at": "2024-06-01T12:00:00Z"
   }
 }
