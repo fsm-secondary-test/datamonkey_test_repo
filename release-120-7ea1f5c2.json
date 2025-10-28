@@ -1,0 +1,15 @@
+{
+  "title": "Release 1.2.0",
+  "summary": "Added new features and fixed bugs for better performance.",
+  "attributes": {
+    "feature": "Improved search algorithm",
+    "fix": "Resolved login timeout issue",
+    "performance": "Optimized database queries"
+  },
+  "metadata": {
+    "token": "7ea1f5c2",
+    "released_by": "dev_team",
+    "environment": "production",
+    "created_at": "2024-06-23T12:00:00Z"
+  }
+}
