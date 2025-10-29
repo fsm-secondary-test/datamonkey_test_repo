@@ -1,15 +1,13 @@
 {
-  "title": "Update API Endpoint",
-  "summary": "Refactored the user authentication API endpoint for improved security and performance.",
+  "title": "Update JSON Changelog Entry",
+  "summary": "Added metadata token and compact attributes for changelog entry.",
   "attributes": {
-    "version": "v2.3.1",
-    "impact": "medium",
-    "components": "auth-service,api-gateway"
+    "version": "1.2.3",
+    "status": "stable"
   },
   "metadata": {
-    "commit": "a1b2c3d4e5f6",
-    "reviewed_by": "jdoe",
     "token": "0a7a7118",
-    "created_at": "2024-06-21T15:30:00Z"
+    "author": "devteam",
+    "created_at": "2024-06-01T12:00:00Z"
   }
 }
