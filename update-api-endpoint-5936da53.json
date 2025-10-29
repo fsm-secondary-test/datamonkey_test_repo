@@ -1,0 +1,15 @@
+{
+  "title": "Update API Endpoint",
+  "summary": "Changed the user authentication API endpoint to improve security.",
+  "attributes": {
+    "Changed Endpoint": "/api/v2/authenticate",
+    "Security Fix": "Implemented OAuth2",
+    "Deprecated": "/api/v1/login"
+  },
+  "metadata": {
+    "Reviewed By": "security-team",
+    "Ticket": "SEC-2024",
+    "token": "5936da53",
+    "created_at": "2024-06-25T14:30:00Z"
+  }
+}
