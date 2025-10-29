@@ -1,15 +1,16 @@
 {
-  "title": "Update API Endpoint",
-  "summary": "Changed the user API endpoint to /v2/users for improved data handling.",
+  "title": "Update Configuration Parsing",
+  "summary": "Improved parsing logic for configuration files to handle edge cases.",
   "attributes": {
-    "endpoint": "/v2/users",
-    "method": "GET",
-    "status": "active"
+    "version": "1.2.3",
+    "impact": "medium",
+    "component": "config-parser"
   },
   "metadata": {
+    "commit": "a1b2c3d4",
+    "reviewer": "jdoe",
+    "ticket": "28311815",
     "token": "28311815",
-    "author": "dev_team",
-    "priority": "high",
-    "created_at": "2024-06-18T12:00:00Z"
+    "created_at": "2024-06-01T12:00:00Z"
   }
 }
