@@ -1,15 +1,16 @@
 {
-  "title": "Changelog Entry",
-  "summary": "Summary of recent changes with key attributes and metadata.",
+  "title": "Update API Authentication",
+  "summary": "Enhanced security by implementing OAuth 2.0 token refresh mechanism.",
   "attributes": {
-    "version": "2.1.0",
-    "updated_by": "developer_name",
-    "change_type": "feature"
+    "version": "v2.1.0",
+    "changed_component": "Authentication Module",
+    "impact": "Medium",
+    "author": "dev_team"
   },
   "metadata": {
     "token": "10a3ae59",
-    "release_date": "2024-04-27",
+    "release_date": "2024-06-15",
     "environment": "production",
-    "created_at": "2024-04-27T12:00:00Z"
+    "created_at": "2024-06-15T10:00:00Z"
   }
 }
