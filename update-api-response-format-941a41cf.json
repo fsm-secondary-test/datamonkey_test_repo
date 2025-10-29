@@ -1,0 +1,15 @@
+{
+  "title": "Update API Response Format",
+  "summary": "Refined the API response structure for better client compatibility.",
+  "attributes": {
+    "response_code": "200",
+    "response_format": "JSON",
+    "changes": "Added new 'status' field, removed deprecated 'error_code' field"
+  },
+  "metadata": {
+    "author": "dev_team",
+    "review_status": "approved",
+    "token": "941a41cf",
+    "created_at": "2024-06-15T12:00:00Z"
+  }
+}
