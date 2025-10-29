@@ -1,15 +1,14 @@
 {
-  "title": "Update API Endpoint",
-  "summary": "Refactored the user authentication API to improve security and performance.",
+  "title": "Version 1.2.3 Release",
+  "summary": "Bug fixes and performance improvements.",
   "attributes": {
-    "version": "1.2.0",
-    "status": "completed",
-    "impact": "high"
+    "fixed_issues": "42",
+    "performance_gain": "15%",
+    "platforms": "Windows, macOS, Linux"
   },
   "metadata": {
-    "author": "dev_team",
-    "reviewer": "security_lead",
+    "release_manager": "Alice Johnson",
     "token": "86a89738",
-    "created_at": "2024-06-14T12:00:00Z"
+    "created_at": "2024-06-01T12:00:00Z"
   }
 }
