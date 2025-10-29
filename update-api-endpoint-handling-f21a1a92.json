@@ -1,16 +1,14 @@
 {
-  "title": "Update API Endpoint Handling",
-  "summary": "Refactored the API endpoint logic to improve error handling and response times.",
+  "title": "Update User Authentication Flow",
+  "summary": "Refactored authentication logic to improve security and performance.",
   "attributes": {
-    "version": "1.4.2",
-    "changed_files": "3",
-    "impact": "medium",
-    "tested": "yes"
+    "version": "2.3.0",
+    "author": "Jane Doe",
+    "issue": "#4567"
   },
   "metadata": {
-    "commit_hash": "a9b8c7d6",
-    "author": "dev_team",
+    "reviewed_by": "John Smith",
     "token": "f21a1a92",
-    "created_at": "2024-06-20T15:30:00Z"
+    "created_at": "2024-06-01T12:00:00Z"
   }
 }
