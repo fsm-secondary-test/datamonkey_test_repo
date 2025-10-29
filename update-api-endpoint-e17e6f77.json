@@ -1,0 +1,16 @@
+{
+  "title": "Update API Endpoint",
+  "summary": "Refactored user authentication API to improve security and performance.",
+  "attributes": {
+    "version": "1.2.0",
+    "author": "jdoe",
+    "impact": "medium",
+    "breaking_change": "false"
+  },
+  "metadata": {
+    "commit_hash": "a1b2c3d4",
+    "ticket_id": "BUG-4521",
+    "token": "e17e6f77",
+    "created_at": "2024-06-10T12:30:00Z"
+  }
+}
