@@ -1,15 +1,15 @@
 {
-  "title": "Update Logging System",
-  "summary": "Improved changelog entry format with added metadata token.",
+  "title": "Update API Endpoint",
+  "summary": "Changed the user authentication endpoint to improve security.",
   "attributes": {
-    "version": "1.2.0",
-    "change_type": "enhancement",
-    "impact": "low"
+    "endpoint": "/api/v2/auth/login",
+    "change_type": "modification",
+    "impact": "high"
   },
   "metadata": {
+    "reviewed_by": "alice",
+    "approved": "true",
     "token": "0d4d6919",
-    "author": "dev_team",
-    "reviewed": "true",
-    "created_at": "2024-06-15T12:00:00Z"
+    "created_at": "2024-06-01T12:00:00Z"
   }
 }
