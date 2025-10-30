@@ -1,0 +1,15 @@
+{
+  "title": "Update Logging System",
+  "summary": "Improved changelog entry format with added metadata token.",
+  "attributes": {
+    "version": "1.2.0",
+    "change_type": "enhancement",
+    "impact": "low"
+  },
+  "metadata": {
+    "token": "0d4d6919",
+    "author": "dev_team",
+    "reviewed": "true",
+    "created_at": "2024-06-15T12:00:00Z"
+  }
+}
