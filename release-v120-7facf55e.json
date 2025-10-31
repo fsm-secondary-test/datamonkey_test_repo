@@ -1,0 +1,13 @@
+{
+  "title": "Release v1.2.0",
+  "summary": "Introduced new authentication module and fixed minor bugs.",
+  "attributes": {
+    "authentication_module": "added OAuth2 support",
+    "bugfix": "resolved session timeout issue"
+  },
+  "metadata": {
+    "release_manager": "alice",
+    "token": "7facf55e",
+    "created_at": "2024-06-01T12:00:00Z"
+  }
+}
