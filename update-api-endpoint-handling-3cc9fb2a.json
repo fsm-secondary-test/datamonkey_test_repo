@@ -1,16 +1,15 @@
 {
-  "title": "Update API Endpoint Handling",
-  "summary": "Refactored the API endpoint logic for better error handling and performance improvements.",
+  "title": "Update Dependency Versions",
+  "summary": "Bumped versions of key dependencies to improve security and performance.",
   "attributes": {
-    "version": "1.2.0",
-    "breaking_change": "false",
-    "affected_modules": "api_handler, utils",
-    "performance_improvement": "15% faster response time"
+    "package": "lodash",
+    "old_version": "4.17.15",
+    "new_version": "4.17.21"
   },
   "metadata": {
-    "author": "dev_team",
-    "reviewer": "lead_dev",
-    "ticket_id": "API-4567",
+    "commit_hash": "a1b2c3d4",
+    "author": "devteam",
+    "ticket": "SEC-2024-001",
     "token": "3cc9fb2a",
     "created_at": "2024-06-01T12:00:00Z"
   }
