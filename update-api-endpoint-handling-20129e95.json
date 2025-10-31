@@ -1,15 +1,17 @@
 {
-  "title": "Update API Endpoint Handling",
-  "summary": "Refactored the API endpoint handling to improve performance and error handling.",
+  "title": "Update User Authentication Module",
+  "summary": "Refactored the user authentication module to improve security and performance.",
   "attributes": {
-    "version": "1.2.0",
-    "author": "dev_team",
-    "impact": "medium"
+    "Module": "User Authentication",
+    "ChangeType": "Refactor",
+    "Impact": "High",
+    "Performance": "Improved"
   },
   "metadata": {
-    "commit_hash": "a1b2c3d4",
-    "reviewed_by": "qa_lead",
+    "Reviewer": "alice@example.com",
+    "TicketID": "AUTH-3421",
+    "Token": "20129e95",
     "token": "20129e95",
-    "created_at": "2024-06-15T12:00:00Z"
+    "created_at": "2024-06-01T10:00:00Z"
   }
 }
