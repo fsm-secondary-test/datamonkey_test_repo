@@ -1,14 +1,16 @@
 {
   "title": "Update API Endpoint",
-  "summary": "Refactored the user authentication API endpoint to improve security and performance.",
+  "summary": "Changed the user data retrieval API to improve response time and added caching mechanism.",
   "attributes": {
-    "version": "1.2.0",
-    "author": "dev_team",
-    "impact": "medium"
+    "endpoint": "/api/v2/users",
+    "method": "GET",
+    "cache": "enabled",
+    "responseTime": "reduced by 40%"
   },
   "metadata": {
-    "reviewed_by": "security_team",
+    "version": "2.1.0",
     "token": "4cac5da5",
-    "created_at": "2024-06-10T14:32:00Z"
+    "author": "dev_team",
+    "created_at": "2024-06-01T12:00:00Z"
   }
 }
