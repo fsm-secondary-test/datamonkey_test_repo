@@ -1,0 +1,15 @@
+{
+  "title": "Update API Response Format",
+  "summary": "Changed the API response format to include detailed error messages and status codes.",
+  "attributes": {
+    "version": "2.1.0",
+    "affected_endpoints": "GET /users, POST /orders",
+    "change_type": "breaking"
+  },
+  "metadata": {
+    "reviewed_by": "alice",
+    "approved": "true",
+    "token": "4f914ac8",
+    "created_at": "2024-06-01T10:30:00Z"
+  }
+}
