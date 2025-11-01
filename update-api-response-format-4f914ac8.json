@@ -1,15 +1,15 @@
 {
-  "title": "Update API Response Format",
-  "summary": "Changed the API response format to include detailed error messages and status codes.",
+  "title": "Update dependencies to latest versions",
+  "summary": "Upgraded all project dependencies to their latest stable releases to improve security and performance.",
   "attributes": {
-    "version": "2.1.0",
-    "affected_endpoints": "GET /users, POST /orders",
-    "change_type": "breaking"
+    "dependencies_updated": "15",
+    "security_fixes": "5",
+    "performance_improvements": "3"
   },
   "metadata": {
-    "reviewed_by": "alice",
-    "approved": "true",
     "token": "4f914ac8",
-    "created_at": "2024-06-01T10:30:00Z"
+    "environment": "production",
+    "release_type": "minor",
+    "created_at": "2024-06-10T12:00:00Z"
   }
 }
