@@ -1,15 +1,15 @@
 {
   "title": "Update API Endpoint",
-  "summary": "Changed the API endpoint to support versioning and improved error handling.",
+  "summary": "Modified the user authentication API to improve security and performance.",
   "attributes": {
-    "endpoint": "/api/v2/resource",
-    "method": "GET",
-    "error_handling": "improved"
+    "version": "1.2.0",
+    "changed_endpoint": "/api/v1/auth/login",
+    "impact": "high"
   },
   "metadata": {
     "author": "dev_team",
-    "reviewed_by": "qa_lead",
+    "reviewed_by": "security_lead",
     "token": "fa24ad4b",
-    "created_at": "2024-06-16T10:00:00Z"
+    "created_at": "2024-04-27T10:15:00Z"
   }
 }
