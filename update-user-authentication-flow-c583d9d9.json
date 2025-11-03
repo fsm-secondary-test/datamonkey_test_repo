@@ -1,0 +1,15 @@
+{
+  "title": "Update User Authentication Flow",
+  "summary": "Refactored the login process to improve security and user experience.",
+  "attributes": {
+    "changed_module": "auth/login",
+    "impact": "medium",
+    "rollback_possible": "true"
+  },
+  "metadata": {
+    "author": "dev_team",
+    "version": "1.4.2",
+    "token": "c583d9d9",
+    "created_at": "2024-06-01T12:00:00Z"
+  }
+}
