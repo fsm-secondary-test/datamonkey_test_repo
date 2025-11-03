@@ -1,14 +1,13 @@
 {
   "title": "Update User Authentication Flow",
-  "summary": "Refactored the login process to improve security and user experience.",
+  "summary": "Refactored authentication module to improve security and performance.",
   "attributes": {
-    "changed_module": "auth/login",
-    "impact": "medium",
-    "rollback_possible": "true"
+    "module": "auth",
+    "impact": "high",
+    "status": "completed"
   },
   "metadata": {
-    "author": "dev_team",
-    "version": "1.4.2",
+    "reviewer": "alice",
     "token": "c583d9d9",
     "created_at": "2024-06-01T12:00:00Z"
   }
