@@ -1,0 +1,16 @@
+{
+  "title": "Update API Response Format",
+  "summary": "Refactored the API response to improve consistency and added new fields for better client integration.",
+  "attributes": {
+    "version": "2.1.0",
+    "added_fields": "user_status, last_login",
+    "deprecated_fields": "user_age",
+    "breaking_changes": "Removed 'user_age' field from user object"
+  },
+  "metadata": {
+    "author": "dev_team",
+    "review_status": "approved",
+    "token": "726accdc",
+    "created_at": "2024-06-01T12:00:00Z"
+  }
+}
