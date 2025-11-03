@@ -1,0 +1,14 @@
+{
+  "title": "Update API Endpoint",
+  "summary": "Modified the user authentication API endpoint to improve security.",
+  "attributes": {
+    "version": "1.2.0",
+    "impact": "medium",
+    "author": "dev_team"
+  },
+  "metadata": {
+    "token": "1665ca2a",
+    "reviewed_by": "security_team",
+    "created_at": "2024-06-01T12:00:00Z"
+  }
+}
