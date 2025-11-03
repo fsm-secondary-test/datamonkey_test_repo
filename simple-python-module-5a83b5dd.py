@@ -1,11 +1,11 @@
-"""A small Python module with one simple function and one simple class, including the token '5a83b5dd'. | token=5a83b5dd"""
+"""A small Python module with one function and one class, including a specific token in a docstring. | token=5a83b5dd"""
 
 def greet(name):
     """Return a greeting message including the token 5a83b5dd."""
-    return f"Hello, {name}! Your token is 5a83b5dd."
+    return f"Hello, {name}! Token: 5a83b5dd"
 
 class Counter:
-    """A simple counter class with token 5a83b5dd in the docstring."""
+    """A simple counter class with token 5a83b5dd in its docstring."""
     def __init__(self):
         self.count = 0
 
