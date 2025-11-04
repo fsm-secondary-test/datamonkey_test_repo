@@ -1,0 +1,15 @@
+{
+  "title": "Update API Endpoint",
+  "summary": "Refined the user authentication flow to improve security and performance.",
+  "attributes": {
+    "version": "1.2.3",
+    "author": "Jane Doe",
+    "impact": "medium"
+  },
+  "metadata": {
+    "token": "d886ecfe",
+    "reviewed_by": "John Smith",
+    "approved": "true",
+    "created_at": "2024-06-01T12:00:00Z"
+  }
+}
