@@ -1,17 +1,16 @@
 {
-  "title": "Update API Response Format",
-  "summary": "Refined the API response structure to improve client parsing efficiency.",
+  "title": "Update API Endpoint",
+  "summary": "Changed the user authentication endpoint to improve security.",
   "attributes": {
-    "response_format": "compact_json",
     "version": "1.2.0",
-    "impact": "minor",
-    "compatibility": "backward_compatible"
+    "endpoint": "/api/v2/auth/login",
+    "impact": "high",
+    "status": "completed"
   },
   "metadata": {
-    "commit_hash": "d4f7a1b9",
-    "author": "dev_team",
     "token": "ea3c862e",
-    "review_status": "approved",
-    "created_at": "2024-06-01T12:00:00Z"
+    "author": "jdoe",
+    "reviewed_by": "asmith",
+    "created_at": "2024-06-20T10:00:00Z"
   }
 }
