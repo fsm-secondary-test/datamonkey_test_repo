@@ -1,15 +1,16 @@
 {
-  "title": "Update Authentication Module",
-  "summary": "Refactored the authentication module to improve security and performance.",
+  "title": "Update API Authentication",
+  "summary": "Improved security by adding token validation and error handling.",
   "attributes": {
-    "version": "2.3.1",
-    "author": "Jane Doe",
-    "impact": "high"
+    "version": "1.2.0",
+    "impact": "medium",
+    "components": "auth,api",
+    "author": "dev_team"
   },
   "metadata": {
-    "commit_hash": "a1b2c3d4",
-    "reviewer": "John Smith",
     "token": "9642e601",
-    "created_at": "2024-06-20T14:30:00Z"
+    "reviewed_by": "security_lead",
+    "deployment": "staged",
+    "created_at": "2024-06-15T12:00:00Z"
   }
 }
