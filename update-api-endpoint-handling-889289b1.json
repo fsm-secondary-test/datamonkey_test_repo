@@ -1,17 +1,15 @@
 {
-  "title": "Update API Endpoint Handling",
-  "summary": "Refactored the API endpoint logic to improve response times and added error handling for edge cases.",
+  "title": "Update API Endpoint",
+  "summary": "Refactored user authentication endpoint for improved security.",
   "attributes": {
-    "Endpoint": "/user/profile",
-    "ChangeType": "Refactor",
-    "Impact": "Medium",
-    "Performance": "Improved",
-    "ErrorHandling": "Added"
+    "version": "1.2.0",
+    "changed_files": "3",
+    "reviewed_by": "alice"
   },
   "metadata": {
     "token": "889289b1",
-    "author": "dev_team",
-    "reviewed": "true",
-    "created_at": "2024-06-15T10:30:00Z"
+    "priority": "high",
+    "release_status": "staged",
+    "created_at": "2024-06-06T12:00:00Z"
   }
 }
