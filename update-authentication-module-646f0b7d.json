@@ -1,15 +1,15 @@
 {
-  "title": "Update Authentication Module",
-  "summary": "Refactored authentication flow to improve security and performance.",
+  "title": "Update API Endpoint",
+  "summary": "Changed the user authentication endpoint to support OAuth2.",
   "attributes": {
-    "module": "authentication",
-    "impact": "medium",
-    "version": "2.1.0"
+    "endpoint": "/api/v2/auth/login",
+    "method": "POST",
+    "auth_type": "OAuth2"
   },
   "metadata": {
-    "reviewed_by": "alice",
-    "approved": "true",
+    "version": "2.0.1",
     "token": "646f0b7d",
-    "created_at": "2024-06-15T10:30:00Z"
+    "reviewed_by": "alice",
+    "created_at": "2024-06-01T12:00:00Z"
   }
 }
