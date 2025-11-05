@@ -1,15 +1,14 @@
 {
-  "title": "Update Authentication Module",
-  "summary": "Refactored authentication to improve security and performance.",
+  "title": "Update to JSON Changelog Format",
+  "summary": "Added metadata token '6455ec51' and structured changelog entry with attributes and metadata.",
   "attributes": {
-    "module": "auth",
-    "change_type": "refactor",
-    "impact": "medium"
+    "version": "1.2.3",
+    "author": "ChatGPT",
+    "change_type": "update"
   },
   "metadata": {
-    "reviewed_by": "alice",
     "token": "6455ec51",
-    "approved": "true",
-    "created_at": "2024-06-01T10:15:00Z"
+    "environment": "production",
+    "created_at": "2024-06-15T12:00:00Z"
   }
 }
