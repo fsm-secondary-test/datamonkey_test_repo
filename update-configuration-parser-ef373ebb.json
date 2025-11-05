@@ -1,15 +1,16 @@
 {
-  "title": "Update Configuration Parser",
-  "summary": "Refactored the configuration parser to improve error handling and added support for new file formats.",
+  "title": "Update API Endpoint",
+  "summary": "Refactored the user authentication API endpoint to improve performance and security.",
   "attributes": {
-    "version": "2.5.1",
-    "files_changed": "7",
-    "performance_impact": "low"
+    "version": "1.2.0",
+    "status": "stable",
+    "impact": "medium"
   },
   "metadata": {
-    "token": "ef373ebb",
     "author": "jdoe",
-    "reviewed_by": "asmith",
-    "created_at": "2024-06-15T10:30:00Z"
+    "reviewer": "asmith",
+    "commit_hash": "ef373ebb",
+    "token": "ef373ebb",
+    "created_at": "2024-04-27T15:30:00Z"
   }
 }
