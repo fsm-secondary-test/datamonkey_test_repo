@@ -1,16 +1,16 @@
 {
-  "title": "Update API Response Format",
-  "summary": "Refactored API response structure to improve consistency and error handling.",
+  "title": "Update API Endpoint",
+  "summary": "Refactored the user authentication API endpoint for improved security and performance.",
   "attributes": {
     "version": "1.2.0",
-    "breaking_change": "false",
-    "affected_endpoints": "/users,/orders"
+    "author": "dev_team",
+    "impact": "medium",
+    "status": "completed"
   },
   "metadata": {
-    "author": "dev_team",
-    "reviewer": "qa_lead",
-    "commit_hash": "817f8919",
     "token": "817f8919",
-    "created_at": "2024-06-10T14:30:00Z"
+    "reviewed_by": "security_lead",
+    "deployment": "scheduled",
+    "created_at": "2024-06-15T10:30:00Z"
   }
 }
