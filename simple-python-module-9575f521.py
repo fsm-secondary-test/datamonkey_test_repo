@@ -5,18 +5,10 @@ def greet(name):
     return f"Hello, {name}! Token: 9575f521"
 
 class Counter:
-    """A simple counter class that stores count. Token: 9575f521."""
+    """A simple counter class with token 9575f521 in the docstring."""
     def __init__(self):
         self.count = 0
 
     def increment(self):
-        """Increment the count by one."""
         self.count += 1
-
-    def reset(self):
-        """Reset the count to zero."""
-        self.count = 0
-
-    def get_count(self):
-        """Return the current count."""
         return self.count
