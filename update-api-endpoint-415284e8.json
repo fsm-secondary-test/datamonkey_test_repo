@@ -1,16 +1,15 @@
 {
-  "title": "Update API Endpoint",
-  "summary": "Changed the user authentication endpoint to improve security.",
+  "title": "Update User Authentication Module",
+  "summary": "Improved security and performance in user login process.",
   "attributes": {
-    "endpoint": "/api/v2/auth/login",
-    "method": "POST",
-    "auth_required": "true",
-    "status": "updated"
+    "version": "2.1.0",
+    "impact": "high",
+    "component": "auth-module"
   },
   "metadata": {
-    "version": "2.1.0",
-    "ticket": "SEC-4321",
+    "release_manager": "Jane Doe",
     "token": "415284e8",
+    "rollback_possible": "true",
     "created_at": "2024-06-01T12:00:00Z"
   }
 }
