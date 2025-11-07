@@ -1,15 +1,16 @@
 {
-  "title": "Update API Endpoint Handling",
-  "summary": "Refined the API endpoint logic to improve response time and error handling.",
+  "title": "Update API Endpoint Behavior",
+  "summary": "Modified the user authentication API to handle token expiry more gracefully, reducing error rates.",
   "attributes": {
-    "changed_file": "api/endpoint.py",
-    "impact": "medium",
-    "version": "1.4.2"
+    "endpoint": "/api/auth/login",
+    "change_type": "bugfix",
+    "impact": "medium"
   },
   "metadata": {
+    "ticket": "30002548",
+    "reviewed_by": "alice",
+    "deployed_to": "production",
     "token": "30002548",
-    "author": "dev_team",
-    "reviewed": "yes",
-    "created_at": "2024-06-19T12:00:00Z"
+    "created_at": "2024-06-01T12:00:00Z"
   }
 }
