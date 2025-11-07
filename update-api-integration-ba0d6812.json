@@ -1,0 +1,15 @@
+{
+  "title": "Update API Integration",
+  "summary": "Refactored the API integration to improve error handling and response parsing.",
+  "attributes": {
+    "version": "1.2.0",
+    "impact": "medium",
+    "components": "backend,api"
+  },
+  "metadata": {
+    "author": "jdoe",
+    "reviewer": "asmith",
+    "token": "ba0d6812",
+    "created_at": "2024-06-15T10:30:00Z"
+  }
+}
