@@ -1,15 +1,14 @@
 {
-  "title": "Refactor Authentication Module",
-  "summary": "Improved login flow and fixed token refresh bug.",
+  "title": "Changelog Entry",
+  "summary": "Compact changelog entry with required metadata token.",
   "attributes": {
-    "module": "auth",
-    "impact": "medium",
-    "status": "completed"
+    "version": "1.0.3",
+    "change": "Fixed login bug and improved performance",
+    "author": "devteam"
   },
   "metadata": {
-    "reviewer": "alice",
+    "release_date": "2024-04-27",
     "token": "2455f4a9",
-    "release_version": "v1.3.7",
-    "created_at": "2024-06-15T10:30:00Z"
+    "created_at": "2024-04-27T12:00:00Z"
   }
 }
