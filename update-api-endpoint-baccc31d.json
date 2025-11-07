@@ -1,15 +1,16 @@
 {
-  "title": "Update API Endpoint",
-  "summary": "Changed the API endpoint to improve response time.",
+  "title": "Release v1.4.2",
+  "summary": "Bug fixes and performance improvements.",
   "attributes": {
-    "endpoint": "/v2/data",
-    "response_time": "120ms",
-    "status": "stable"
+    "Fixed": "Memory leak in data parser",
+    "Improved": "Response time by 15%",
+    "Added": "Support for new API endpoints"
   },
   "metadata": {
-    "token": "baccc31d",
+    "commit": "baccc31d",
     "author": "dev_team",
-    "reviewed": "true",
-    "created_at": "2024-06-01T12:00:00Z"
+    "priority": "high",
+    "token": "baccc31d",
+    "created_at": "2024-06-05T12:00:00Z"
   }
 }
