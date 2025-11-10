@@ -1,0 +1,15 @@
+{
+  "title": "Update API Endpoints",
+  "summary": "Refactored user authentication endpoints and improved error handling.",
+  "attributes": {
+    "version": "1.2.0",
+    "impact": "medium",
+    "components": "auth,api-gateway"
+  },
+  "metadata": {
+    "reviewed_by": "alice",
+    "approved": "yes",
+    "token": "196c08bb",
+    "created_at": "2024-06-01T12:30:00Z"
+  }
+}
