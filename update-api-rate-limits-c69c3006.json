@@ -1,15 +1,15 @@
 {
-  "title": "Update API Rate Limits",
-  "summary": "Increased API rate limits for premium users to enhance service availability.",
+  "title": "Update User Authentication Module",
+  "summary": "Refactored authentication logic to improve security and performance.",
   "attributes": {
-    "rate_limit": "10000 requests/hour",
-    "user_tier": "premium",
-    "effective_date": "2024-07-01"
+    "version": "2.1.0",
+    "author": "Jane Doe",
+    "impact": "medium"
   },
   "metadata": {
+    "reviewed_by": "John Smith",
+    "approved": "true",
     "token": "c69c3006",
-    "author": "dev_team",
-    "review_status": "approved",
-    "created_at": "2024-06-10T12:00:00Z"
+    "created_at": "2024-06-15T12:00:00Z"
   }
 }
