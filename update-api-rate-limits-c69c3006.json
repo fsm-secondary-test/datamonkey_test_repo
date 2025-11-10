@@ -1,0 +1,15 @@
+{
+  "title": "Update API Rate Limits",
+  "summary": "Increased API rate limits for premium users to enhance service availability.",
+  "attributes": {
+    "rate_limit": "10000 requests/hour",
+    "user_tier": "premium",
+    "effective_date": "2024-07-01"
+  },
+  "metadata": {
+    "token": "c69c3006",
+    "author": "dev_team",
+    "review_status": "approved",
+    "created_at": "2024-06-10T12:00:00Z"
+  }
+}
