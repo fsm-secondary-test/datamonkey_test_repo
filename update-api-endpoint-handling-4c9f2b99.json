@@ -1,15 +1,13 @@
 {
-  "title": "Update API Endpoint Handling",
-  "summary": "Improved error handling and validation for user data in API endpoints.",
+  "title": "Update API Endpoint",
+  "summary": "Changed the API endpoint to improve response time.",
   "attributes": {
-    "version": "1.2.3",
-    "author": "Jane Doe",
-    "priority": "high"
+    "endpoint": "/v2/data",
+    "response_time": "120ms"
   },
   "metadata": {
-    "commit_hash": "a1b2c3d4e5f6",
-    "reviewed_by": "John Smith",
+    "version": "2.1.0",
     "token": "4c9f2b99",
-    "created_at": "2024-06-15T14:30:00Z"
+    "created_at": "2024-06-01T12:00:00Z"
   }
 }
