@@ -1,0 +1,15 @@
+{
+  "title": "Update API Endpoints",
+  "summary": "Refactored user and order API endpoints for improved performance and added pagination support.",
+  "attributes": {
+    "Refactor": "User and order endpoints",
+    "Feature": "Pagination support added",
+    "Performance": "Improved response time by 30%"
+  },
+  "metadata": {
+    "commit": "a1b2c3d4",
+    "author": "Jane Doe",
+    "token": "9e925efc",
+    "created_at": "2024-06-19T12:00:00Z"
+  }
+}
