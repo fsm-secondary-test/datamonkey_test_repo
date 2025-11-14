@@ -1,16 +1,14 @@
 {
   "title": "Update API Endpoint",
-  "summary": "Refactored the user data API endpoint to improve response time and added pagination support.",
+  "summary": "Refactored the user authentication API endpoint to improve security and performance.",
   "attributes": {
-    "endpoint": "/api/v2/users",
-    "change_type": "refactor",
-    "performance_improvement": "20%",
-    "pagination": "added"
+    "version": "1.2.0",
+    "author": "Jane Doe",
+    "impact": "high"
   },
   "metadata": {
-    "reviewed_by": "alice",
-    "deployed_to": "production",
     "token": "64de49a5",
-    "created_at": "2024-04-27T15:30:00Z"
+    "deployment": "staging",
+    "created_at": "2024-04-27T14:22:00Z"
   }
 }
