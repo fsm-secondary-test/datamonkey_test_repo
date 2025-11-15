@@ -1,0 +1,15 @@
+{
+  "title": "Update to API Rate Limits",
+  "summary": "Increased the limit for unauthenticated requests to improve user experience.",
+  "attributes": {
+    "previous_limit": "60 requests per hour",
+    "new_limit": "120 requests per hour",
+    "effective_date": "2024-06-15"
+  },
+  "metadata": {
+    "token": "c75dccb3",
+    "environment": "production",
+    "author": "api-team",
+    "created_at": "2024-06-01T12:00:00Z"
+  }
+}
