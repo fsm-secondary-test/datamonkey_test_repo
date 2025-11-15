@@ -1,0 +1,15 @@
+{
+  "title": "Update API Endpoint",
+  "summary": "Fixed the authentication bug in the user login API endpoint.",
+  "attributes": {
+    "version": "1.0.1",
+    "component": "User Service",
+    "impact": "high"
+  },
+  "metadata": {
+    "token": "380ec2bc",
+    "author": "dev_team",
+    "reviewed": "true",
+    "created_at": "2024-06-11T09:30:00Z"
+  }
+}
