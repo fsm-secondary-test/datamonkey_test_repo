@@ -1,0 +1,14 @@
+{
+  "title": "Update Configuration Schema",
+  "summary": "Refined JSON schema for configuration validation and added metadata token.",
+  "attributes": {
+    "version": "1.2.0",
+    "changes": "Added new fields, adjusted types, improved validation rules"
+  },
+  "metadata": {
+    "author": "devteam",
+    "review_status": "approved",
+    "token": "8417154e",
+    "created_at": "2024-06-10T12:00:00Z"
+  }
+}
