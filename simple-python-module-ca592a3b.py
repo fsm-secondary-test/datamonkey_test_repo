@@ -1,22 +1,15 @@
-"""A small Python module with one function and one class, including a literal token in a docstring. | token=ca592a3b"""
+"""A small Python module with one function and one class, including a special token in a docstring. | token=ca592a3b"""
 
 def greet(name):
-    """Return a greeting message including the token ca592a3b."""
-    return f"Hello, {name}! Token: ca592a3b"
+    """Return a greeting message including the name."""
+    return f"Hello, {name}!"
 
-class Counter:
-    """A simple counter class that includes token ca592a3b in its docstring."""
-    def __init__(self):
-        self.count = 0
+class TokenHolder:
+    """Class holding a special token: ca592a3b"""
 
-    def increment(self):
-        """Increment the counter by one."""
-        self.count += 1
+    def __init__(self, token=None):
+        self.token = token or "ca592a3b"
 
-    def reset(self):
-        """Reset the counter to zero."""
-        self.count = 0
+    def get_token(self):
+        return self.token
 
-    def get_count(self):
-        """Get the current count."""
-        return self.count
