@@ -1,0 +1,13 @@
+{
+  "title": "Initial Release",
+  "summary": "Launched the first version with core features.",
+  "attributes": {
+    "version": "1.0.0",
+    "stability": "stable"
+  },
+  "metadata": {
+    "token": "f7ac045a",
+    "release_type": "major",
+    "created_at": "2024-04-27T12:00:00Z"
+  }
+}
