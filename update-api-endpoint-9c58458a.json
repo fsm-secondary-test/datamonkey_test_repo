@@ -1,0 +1,15 @@
+{
+  "title": "Update API Endpoint",
+  "summary": "Changed the user profile API endpoint to improve response time.",
+  "attributes": {
+    "endpoint": "/api/v2/user/profile",
+    "response_time_improved": "20%",
+    "deprecated_endpoint": "/api/v1/user/profile"
+  },
+  "metadata": {
+    "token": "9c58458a",
+    "author": "dev_team",
+    "reviewed": "true",
+    "created_at": "2024-06-01T10:30:00Z"
+  }
+}
