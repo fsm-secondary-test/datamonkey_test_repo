@@ -1,11 +1,11 @@
-"""A small Python module with one simple function and one simple class, including the token '3726c6d9'. | token=3726c6d9"""
+"""A small Python module with one function and one class, including a specific token. | token=3726c6d9"""
 
 def greet(name):
-    """Return a greeting message including the token 3726c6d9."""
-    return f"Hello, {name}! Token: 3726c6d9"
+    """Return a greeting message including the given name."""
+    return f"Hello, {name}!"
 
 class Counter:
-    """A simple counter class that keeps track of a count. Token: 3726c6d9"""
+    """A simple counter class with token 3726c6d9."""
     def __init__(self):
         self.count = 0
 
