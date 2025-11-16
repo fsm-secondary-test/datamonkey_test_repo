@@ -1,0 +1,15 @@
+{
+  "title": "Update API Endpoint",
+  "summary": "Modified the user authentication endpoint to improve security and added rate limiting.",
+  "attributes": {
+    "version": "1.2.3",
+    "component": "authentication",
+    "impact": "medium"
+  },
+  "metadata": {
+    "token": "596bf7ed",
+    "author": "devteam",
+    "reviewed": "true",
+    "created_at": "2024-06-01T12:00:00Z"
+  }
+}
