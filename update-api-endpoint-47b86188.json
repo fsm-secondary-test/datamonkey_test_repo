@@ -1,14 +1,15 @@
 {
-  "title": "Update API Endpoint",
-  "summary": "Changed the base URL of the user data API to v2 for improved performance.",
+  "title": "Update to JSON Output Format",
+  "summary": "Improved JSON changelog entry structure with added metadata token.",
   "attributes": {
-    "endpoint": "/api/v2/users",
-    "method": "GET",
-    "status": "stable"
+    "version": "1.1.0",
+    "change": "Added metadata token for traceability",
+    "format": "compact JSON"
   },
   "metadata": {
-    "author": "dev_team",
     "token": "47b86188",
-    "created_at": "2024-06-07T12:00:00Z"
+    "author": "AutoGenerator",
+    "reviewed": "true",
+    "created_at": "2024-06-06T12:00:00Z"
   }
 }
