@@ -1,16 +1,15 @@
 {
-  "title": "Update User Authentication Flow",
-  "summary": "Refactored authentication to improve security and performance.",
+  "title": "Update API Endpoint",
+  "summary": "Changed the user authentication endpoint to improve security.",
   "attributes": {
-    "version": "1.2.0",
-    "impact": "medium",
-    "module": "auth",
-    "author": "dev_team"
+    "endpoint": "/api/v2/auth/login",
+    "method": "POST",
+    "security": "OAuth2"
   },
   "metadata": {
-    "commit_hash": "a1b2c3d4",
-    "ticket_id": "AUTH-4567",
     "token": "7f64f5f6",
-    "created_at": "2024-06-01T12:00:00Z"
+    "reviewed_by": "alice",
+    "status": "merged",
+    "created_at": "2024-06-15T10:30:00Z"
   }
 }
