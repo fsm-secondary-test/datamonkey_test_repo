@@ -1,16 +1,16 @@
 {
-  "title": "Update Configuration Handling",
-  "summary": "Improved configuration file parsing to support nested structures and added error handling for missing keys.",
+  "title": "Update Dependency Versions",
+  "summary": "Bumped versions of core libraries to latest stable releases for improved performance and security.",
   "attributes": {
-    "version": "1.3.0",
-    "compatibility": "v2.1+",
-    "impact": "medium"
+    "library1": "v2.4.1",
+    "library2": "v5.0.0",
+    "library3": "v1.9.3"
   },
   "metadata": {
     "commit_hash": "baa2722f",
-    "author": "dev_team",
-    "reviewed_by": "lead_engineer",
+    "author": "devteam@example.com",
+    "reviewed_by": "qa_lead",
     "token": "baa2722f",
-    "created_at": "2024-06-15T12:34:56Z"
+    "created_at": "2024-06-06T12:00:00Z"
   }
 }
