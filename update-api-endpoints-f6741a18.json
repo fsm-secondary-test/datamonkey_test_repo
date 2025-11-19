@@ -1,15 +1,15 @@
 {
   "title": "Update API Endpoints",
-  "summary": "Refactored API endpoints for improved performance and added new user authentication methods.",
+  "summary": "Refactored user authentication and data retrieval endpoints for better performance.",
   "attributes": {
-    "version": "2.1.0",
-    "author": "dev_team",
+    "version": "1.2.0",
+    "author": "devteam",
     "impact": "medium"
   },
   "metadata": {
-    "reviewed_by": "alice",
-    "deployed_to": "production",
     "token": "f6741a18",
-    "created_at": "2024-06-01T12:00:00Z"
+    "reviewed_by": "qa_team",
+    "release_date": "2024-05-01",
+    "created_at": "2024-04-27T12:00:00Z"
   }
 }
