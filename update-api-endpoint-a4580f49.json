@@ -1,15 +1,15 @@
 {
-  "title": "Update API Endpoint",
-  "summary": "Refined the API endpoint to improve response time and added new parameters for filtering.",
+  "title": "Update User Authentication Flow",
+  "summary": "Refactored the authentication module to improve security and reduce login time.",
   "attributes": {
-    "endpoint": "/v2/users",
-    "response_time_improvement": "30%",
-    "new_parameters": "status,role"
+    "module": "auth",
+    "impact": "high",
+    "duration": "2 weeks"
   },
   "metadata": {
-    "release_version": "1.4.2",
-    "deployed_by": "ci_pipeline",
     "token": "a4580f49",
-    "created_at": "2024-06-01T12:00:00Z"
+    "reviewed_by": "team_lead",
+    "deployment_window": "night",
+    "created_at": "2024-06-16T12:00:00Z"
   }
 }
