@@ -1,0 +1,15 @@
+{
+  "title": "Update API Rate Limits",
+  "summary": "Increased the API rate limits to improve user experience under high load.",
+  "attributes": {
+    "version": "1.2.3",
+    "impact": "medium",
+    "components": "API Gateway, Backend Services"
+  },
+  "metadata": {
+    "author": "devops_team",
+    "token": "5a841e89",
+    "reviewed": "true",
+    "created_at": "2024-06-12T08:30:00Z"
+  }
+}
