@@ -1,13 +1,14 @@
-"""A small Python module with one simple function and one simple class containing the token '8cce0b2d'. | token=8cce0b2d"""
+"""A small Python module with one function and one class, including the token '8cce0b2d'. | token=8cce0b2d"""
 
 def greet(name):
-    """Return a greeting message including the name."""
-    return f"Hello, {name}!"
+    """Return a greeting message including the token 8cce0b2d."""
+    return f"Hello, {name}! Your token is 8cce0b2d."
 
-class TokenHolder:
-    """Class holding a special token '8cce0b2d'."""
-    TOKEN = '8cce0b2d'
-
-    def get_token(self):
-        """Return the stored token."""
-        return self.TOKEN
+class Counter:
+    """Simple counter class storing count with token 8cce0b2d."""
+    def __init__(self):
+        self.count = 0
+    
+    def increment(self):
+        self.count += 1
+        return self.count
