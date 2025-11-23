@@ -1,15 +1,15 @@
 {
-  "title": "Update API Endpoint",
-  "summary": "Changed the base URL for the user service API to v2 endpoint.",
+  "title": "Add New Feature X",
+  "summary": "Implemented feature X to improve user experience and performance.",
   "attributes": {
     "version": "1.2.0",
-    "component": "user-service",
-    "change_type": "breaking"
+    "author": "dev_team",
+    "status": "completed"
   },
   "metadata": {
-    "deployed_by": "ci-pipeline",
-    "ticket_id": "PROJ-456",
     "token": "3c23cebc",
-    "created_at": "2024-06-07T12:00:00Z"
+    "reviewed_by": "qa_lead",
+    "release_date": "2024-06-20",
+    "created_at": "2024-06-12T10:30:00Z"
   }
 }
