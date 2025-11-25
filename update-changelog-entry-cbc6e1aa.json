@@ -1,0 +1,15 @@
+{
+  "title": "Update Changelog Entry",
+  "summary": "Added new features and fixed bugs.",
+  "attributes": {
+    "feature": "Added user authentication",
+    "bugfix": "Fixed login timeout issue",
+    "performance": "Improved data caching"
+  },
+  "metadata": {
+    "release_version": "1.2.0",
+    "commit_hash": "a1b2c3d4",
+    "token": "cbc6e1aa",
+    "created_at": "2024-06-01T12:00:00Z"
+  }
+}
