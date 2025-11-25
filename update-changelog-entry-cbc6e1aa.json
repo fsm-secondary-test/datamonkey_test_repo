@@ -1,15 +1,15 @@
 {
-  "title": "Update Changelog Entry",
-  "summary": "Added new features and fixed bugs.",
+  "title": "Update API Endpoint Handling",
+  "summary": "Refactored API endpoint to improve error handling and added new response codes.",
   "attributes": {
-    "feature": "Added user authentication",
-    "bugfix": "Fixed login timeout issue",
-    "performance": "Improved data caching"
+    "changed_file": "src/api/endpoint.js",
+    "added_feature": "new response codes for rate limiting",
+    "improved": "error handling logic"
   },
   "metadata": {
-    "release_version": "1.2.0",
-    "commit_hash": "a1b2c3d4",
+    "reviewer": "alice",
+    "priority": "high",
     "token": "cbc6e1aa",
-    "created_at": "2024-06-01T12:00:00Z"
+    "created_at": "2024-06-15T10:30:00Z"
   }
 }
