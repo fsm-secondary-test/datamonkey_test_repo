@@ -1,15 +1,16 @@
 {
-  "title": "Update Authentication Module",
-  "summary": "Refactored authentication logic to improve security and performance.",
+  "title": "Update Release Notes",
+  "summary": "Added new features and fixed bugs in the latest release.",
   "attributes": {
-    "module": "auth",
-    "change_type": "refactor",
-    "impact": "high"
+    "version": "1.4.2",
+    "features_added": "User authentication, Dark mode",
+    "bugs_fixed": "Crash on startup, Memory leak",
+    "performance": "Improved load time by 20%"
   },
   "metadata": {
     "token": "bbcd2747",
-    "reviewed_by": "alice",
-    "approved": "true",
-    "created_at": "2024-06-15T10:30:00Z"
+    "release_manager": "Alice Johnson",
+    "environment": "production",
+    "created_at": "2024-06-10T12:00:00Z"
   }
 }
