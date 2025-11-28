@@ -1,0 +1,15 @@
+{
+  "title": "Changelog Entry",
+  "summary": "Compact changelog entry with attributes and metadata including a specific token.",
+  "attributes": {
+    "version": "1.2.3",
+    "changes": "Fixed bugs and improved performance",
+    "author": "Jane Doe"
+  },
+  "metadata": {
+    "commit_hash": "abc123def456",
+    "release_date": "2024-06-30",
+    "token": "df5d63ce",
+    "created_at": "2024-06-30T12:00:00Z"
+  }
+}
