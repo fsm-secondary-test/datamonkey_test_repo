@@ -1,15 +1,16 @@
 {
-  "title": "Changelog Entry",
-  "summary": "Compact changelog entry with attributes and metadata including a specific token.",
+  "title": "Update API endpoint",
+  "summary": "Changed the user authentication endpoint to enhance security.",
   "attributes": {
-    "version": "1.2.3",
-    "changes": "Fixed bugs and improved performance",
-    "author": "Jane Doe"
+    "endpoint": "/api/v2/auth/login",
+    "method": "POST",
+    "status": "deprecated",
+    "replacement": "/api/v3/auth/login"
   },
   "metadata": {
-    "commit_hash": "abc123def456",
-    "release_date": "2024-06-30",
     "token": "df5d63ce",
-    "created_at": "2024-06-30T12:00:00Z"
+    "author": "dev_team",
+    "reviewed": "true",
+    "created_at": "2024-06-01T10:15:00Z"
   }
 }
