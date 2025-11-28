@@ -1,15 +1,15 @@
 {
   "title": "Update API Endpoint",
-  "summary": "Modified the user authentication API endpoint to support OAuth2 tokens.",
+  "summary": "Refactored the user authentication API endpoint for improved security and performance.",
   "attributes": {
-    "endpoint": "/api/v2/auth/login",
-    "method": "POST",
-    "version": "2.0"
+    "version": "1.2.0",
+    "component": "user-authentication",
+    "impact": "medium"
   },
   "metadata": {
+    "reviewed_by": "alice",
+    "deployed_to": "production",
     "token": "a07ff7cc",
-    "author": "dev_team",
-    "reviewed": "true",
     "created_at": "2024-06-01T12:00:00Z"
   }
 }
