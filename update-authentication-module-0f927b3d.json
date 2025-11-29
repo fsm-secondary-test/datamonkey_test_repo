@@ -1,14 +1,15 @@
 {
-  "title": "Update Authentication Module",
-  "summary": "Refactored authentication logic to improve security and performance.",
+  "title": "Updated Project Dependencies",
+  "summary": "Upgraded several core libraries to their latest stable versions to improve performance and security.",
   "attributes": {
-    "version": "1.4.2",
-    "impact": "high",
-    "author": "dev_team"
+    "library": "Lodash",
+    "old_version": "4.17.15",
+    "new_version": "4.17.21"
   },
   "metadata": {
     "token": "0f927b3d",
+    "author": "dev-team",
     "reviewed": "true",
-    "created_at": "2024-06-15T10:20:00Z"
+    "created_at": "2024-06-01T12:00:00Z"
   }
 }
