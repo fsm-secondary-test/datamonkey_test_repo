@@ -1,0 +1,16 @@
+{
+  "title": "Update API Endpoint",
+  "summary": "Changed the user authentication endpoint to support OAuth2.",
+  "attributes": {
+    "endpoint": "/api/v2/auth/login",
+    "method": "POST",
+    "version": "v2",
+    "auth_type": "OAuth2"
+  },
+  "metadata": {
+    "token": "fea0da85",
+    "author": "devteam",
+    "reviewed": "true",
+    "created_at": "2024-06-12T10:30:00Z"
+  }
+}
