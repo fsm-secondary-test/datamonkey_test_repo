@@ -1,0 +1,16 @@
+{
+  "title": "Update API Endpoint",
+  "summary": "Changed the base URL for the user profile API to support versioning.",
+  "attributes": {
+    "endpoint": "/api/v2/user/profile",
+    "method": "GET",
+    "status": "deprecated",
+    "new_endpoint": "/api/v3/user/profile"
+  },
+  "metadata": {
+    "author": "dev_team",
+    "reviewed_by": "qa_lead",
+    "token": "088f090f",
+    "created_at": "2024-06-12T09:30:00Z"
+  }
+}
