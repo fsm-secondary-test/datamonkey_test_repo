@@ -1,16 +1,15 @@
 {
-  "title": "Update Configuration Parameters",
-  "summary": "Refined and added new configuration parameters to improve system performance and logging.",
+  "title": "Update API Endpoints",
+  "summary": "Refactored the user authentication endpoints to improve security and performance.",
   "attributes": {
-    "max_connections": "500",
-    "enable_logging": "true",
-    "log_level": "debug",
-    "timeout": "30s"
+    "status": "completed",
+    "impact": "high",
+    "reviewed_by": "alice",
+    "version": "v2.1.0"
   },
   "metadata": {
-    "version": "1.2.3",
-    "author": "devops_team",
     "token": "39e5409d",
-    "created_at": "2024-06-16T12:00:00Z"
+    "release_date": "2024-06-05",
+    "created_at": "2024-06-05T14:30:00Z"
   }
 }
