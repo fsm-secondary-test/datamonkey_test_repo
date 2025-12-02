@@ -1,14 +1,13 @@
-"""A Python module containing one simple function and one simple class with a specific token in a docstring. | token=92ea7879"""
+"""A small Python module with one function and one class, including a specific token in a docstring. | token=92ea7879"""
 
 def greet(name):
-    """Return a greeting message including the provided name."""
-    return f"Hello, {name}!"
+    """Return a greeting message including the token 92ea7879."""
+    return f"Hello, {name}! Token: 92ea7879"
 
-class TokenHolder:
-    """Class that holds a special token string '92ea7879'."""
+class Person:
+    """A simple Person class including the token 92ea7879 in the docstring."""
+    def __init__(self, name):
+        self.name = name
 
-    TOKEN = '92ea7879'
-
-    def get_token(self):
-        """Return the stored token."""
-        return self.TOKEN
+    def say_hello(self):
+        return f"Hi, I'm {self.name}. Token: 92ea7879"
