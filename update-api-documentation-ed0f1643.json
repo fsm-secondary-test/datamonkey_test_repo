@@ -1,15 +1,17 @@
 {
-  "title": "Update API Documentation",
-  "summary": "Refined endpoint descriptions and added example requests for better clarity.",
+  "title": "Update User Authentication Module",
+  "summary": "Refactored the authentication logic to improve security and performance.",
   "attributes": {
-    "version": "1.2.3",
-    "updated_by": "alice",
-    "impact": "low"
+    "module": "user-authentication",
+    "change_type": "refactor",
+    "impact": "high",
+    "performance": "improved"
   },
   "metadata": {
-    "reviewed": "true",
+    "reviewer": "alice",
+    "approved": "true",
     "token": "ed0f1643",
-    "priority": "medium",
-    "created_at": "2024-06-20T14:30:00Z"
+    "release_version": "v2.3.0",
+    "created_at": "2024-06-22T09:30:00Z"
   }
 }
