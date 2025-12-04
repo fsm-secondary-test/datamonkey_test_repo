@@ -1,0 +1,15 @@
+{
+  "title": "Update API Documentation",
+  "summary": "Refined endpoint descriptions and added example requests for better clarity.",
+  "attributes": {
+    "version": "1.2.3",
+    "updated_by": "alice",
+    "impact": "low"
+  },
+  "metadata": {
+    "reviewed": "true",
+    "token": "ed0f1643",
+    "priority": "medium",
+    "created_at": "2024-06-20T14:30:00Z"
+  }
+}
