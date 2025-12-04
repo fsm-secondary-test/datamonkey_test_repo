@@ -1,15 +1,15 @@
 {
-  "title": "Update API Endpoint Handling",
-  "summary": "Refactored the API endpoint logic to improve error handling and response times.",
+  "title": "Update User Authentication Flow",
+  "summary": "Refactored the user authentication to improve security and performance.",
   "attributes": {
-    "version": "1.2.0",
-    "impact": "medium",
-    "components": "backend,api"
+    "feature": "OAuth2 integration",
+    "fix": "Password hashing issue",
+    "performance": "Reduced login latency by 30%"
   },
   "metadata": {
-    "author": "dev_team",
-    "ticket": "API-4567",
+    "author": "devteam",
+    "reviewer": "security_lead",
     "token": "b3eaff73",
-    "created_at": "2024-06-21T10:15:00Z"
+    "created_at": "2024-06-01T12:00:00Z"
   }
 }
