@@ -1,16 +1,15 @@
 {
-  "title": "Update Authentication Module",
-  "summary": "Refactored authentication logic to improve security and performance.",
+  "title": "Update API Endpoint Handling",
+  "summary": "Refined the API endpoint logic to improve error handling and response time.",
   "attributes": {
-    "module": "auth",
-    "change_type": "refactor",
-    "impact": "medium",
-    "tested": "true"
+    "endpoint": "/user/profile",
+    "status": "improved error handling",
+    "response_time": "reduced by 20%"
   },
   "metadata": {
+    "commit_hash": "a1b2c3d4",
+    "author": "dev_team",
     "token": "314be3bb",
-    "reviewed_by": "alice",
-    "approved": "true",
-    "created_at": "2024-06-15T12:00:00Z"
+    "created_at": "2024-06-01T12:00:00Z"
   }
 }
