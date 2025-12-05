@@ -1,0 +1,15 @@
+{
+  "title": "Update API endpoint",
+  "summary": "Changed the user data API endpoint to improve response time",
+  "attributes": {
+    "endpoint": "/api/v2/userdata",
+    "response_time": "120ms",
+    "status": "improved"
+  },
+  "metadata": {
+    "token": "d80764d9",
+    "author": "dev_team",
+    "reviewed": "true",
+    "created_at": "2024-06-03T12:00:00Z"
+  }
+}
