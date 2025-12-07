@@ -1,14 +1,16 @@
 {
-  "title": "Initial Release",
-  "summary": "Launched the first version of the application with core features implemented.",
+  "title": "Update API Endpoints",
+  "summary": "Refactored API endpoints for improved performance and added new authentication methods.",
   "attributes": {
-    "version": "1.0.0",
-    "features": "core functionality, user authentication, dashboard"
+    "version": "2.1.0",
+    "author": "dev_team",
+    "impact": "medium",
+    "status": "completed"
   },
   "metadata": {
-    "release_manager": "Alice Johnson",
-    "build_number": "1024",
     "token": "49618469",
-    "created_at": "2024-06-10T12:00:00Z"
+    "reviewed_by": "lead_dev",
+    "approved": "true",
+    "created_at": "2024-06-15T10:30:00Z"
   }
 }
