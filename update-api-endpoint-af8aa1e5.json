@@ -1,15 +1,16 @@
 {
-  "title": "Update API Endpoint",
-  "summary": "Modified the user authentication endpoint to improve security and performance.",
+  "title": "Update API Endpoint Handling",
+  "summary": "Refactored API endpoint logic to improve error handling and response consistency.",
   "attributes": {
-    "endpoint": "/api/v2/auth",
-    "method": "POST",
-    "version": "2.1.0"
+    "version": "1.4.2",
+    "author": "dev_team",
+    "impact": "medium"
   },
   "metadata": {
+    "commit_hash": "af8aa1e5",
+    "reviewed_by": "team_lead",
+    "deployed_to": "production",
     "token": "af8aa1e5",
-    "reviewed_by": "security_team",
-    "deployed": "true",
-    "created_at": "2024-06-05T12:00:00Z"
+    "created_at": "2024-06-15T10:20:00Z"
   }
 }
