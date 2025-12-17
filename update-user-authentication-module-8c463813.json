@@ -1,17 +1,15 @@
 {
-  "title": "Update User Authentication Module",
-  "summary": "Improved login security by adding multi-factor authentication and fixed session timeout issues.",
+  "title": "Update API Endpoint Handling",
+  "summary": "Refactored the API endpoint to improve response time and error handling.",
   "attributes": {
-    "version": "1.2.5",
-    "author": "Jane Doe",
-    "impact": "high",
-    "components": "auth,session",
-    "status": "released"
+    "version": "1.2.0",
+    "impact": "medium",
+    "author": "dev_team"
   },
   "metadata": {
+    "reviewed_by": "qa_lead",
     "token": "8c463813",
-    "release_date": "2024-06-01",
-    "reviewed_by": "John Smith",
-    "created_at": "2024-06-01T12:00:00Z"
+    "deployment": "staging",
+    "created_at": "2024-06-15T10:30:00Z"
   }
 }
