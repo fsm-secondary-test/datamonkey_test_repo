@@ -1,0 +1,15 @@
+{
+  "title": "Update API Documentation",
+  "summary": "Revised API documentation to include new endpoints and updated response formats.",
+  "attributes": {
+    "version": "1.2.0",
+    "author": "Jane Doe",
+    "change_type": "enhancement"
+  },
+  "metadata": {
+    "token": "fdc1fbf2",
+    "reviewed_by": "John Smith",
+    "approved": "true",
+    "created_at": "2024-04-27T12:00:00Z"
+  }
+}
