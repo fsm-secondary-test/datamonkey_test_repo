@@ -1,15 +1,16 @@
 {
-  "title": "Update API Endpoints",
-  "summary": "Refactored the user authentication endpoints to improve security and performance.",
+  "title": "Update API Endpoint Handling",
+  "summary": "Refactored API endpoint handling to improve error management and response consistency.",
   "attributes": {
-    "version": "2.1.0",
-    "author": "jdoe",
-    "status": "completed"
+    "version": "1.2.0",
+    "impact": "medium",
+    "component": "backend-api",
+    "author": "jdoe"
   },
   "metadata": {
     "reviewed_by": "asmith",
-    "approved": "true",
+    "ticket_id": "API-4572",
     "token": "3a1a4e68",
-    "created_at": "2024-06-15T12:34:56Z"
+    "created_at": "2024-06-15T10:30:00Z"
   }
 }
