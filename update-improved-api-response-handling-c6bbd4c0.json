@@ -1,16 +1,15 @@
 {
-  "title": "Update: Improved API Response Handling",
-  "summary": "Refined the error handling mechanism for API responses to increase robustness and clarity.",
+  "title": "Update API Endpoint",
+  "summary": "Changed the user login API endpoint to improve security.",
   "attributes": {
-    "version": "1.2.3",
-    "component": "API Module",
-    "impact": "medium",
-    "author": "dev_team"
+    "endpoint": "/api/v2/user/login",
+    "method": "POST",
+    "status": "updated"
   },
   "metadata": {
     "token": "c6bbd4c0",
-    "release_date": "2024-06-20",
-    "environment": "production",
-    "created_at": "2024-06-20T15:30:00Z"
+    "author": "dev_team",
+    "review": "passed",
+    "created_at": "2024-04-27T10:00:00Z"
   }
 }
