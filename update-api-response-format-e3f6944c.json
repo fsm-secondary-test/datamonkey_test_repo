@@ -1,0 +1,16 @@
+{
+  "title": "Update API Response Format",
+  "summary": "Modified the API to return compact JSON changelog entries with enhanced metadata.",
+  "attributes": {
+    "format": "compact JSON",
+    "fields": "title, summary, attributes, metadata",
+    "improvement": "metadata includes fixed token",
+    "version": "1.2.0"
+  },
+  "metadata": {
+    "token": "e3f6944c",
+    "author": "devteam",
+    "status": "released",
+    "created_at": "2024-06-15T10:00:00Z"
+  }
+}
