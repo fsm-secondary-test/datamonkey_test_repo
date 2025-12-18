@@ -1,15 +1,15 @@
 {
-  "title": "Update User Authentication Flow",
-  "summary": "Refactored the user authentication to improve security and performance.",
+  "title": "Update Authentication Module",
+  "summary": "Refactored authentication flow to improve security and performance.",
   "attributes": {
     "version": "1.2.0",
-    "impact": "high",
-    "component": "auth-service"
+    "impact": "medium",
+    "components": "auth,api"
   },
   "metadata": {
-    "commit_hash": "a1b2c3d4e5f6",
-    "reviewer": "jane_doe",
+    "commit": "a1b2c3d4e5f6",
+    "reviewer": "jdoe",
     "token": "9776db97",
-    "created_at": "2024-06-01T12:00:00Z"
+    "created_at": "2024-06-15T10:00:00Z"
   }
 }
