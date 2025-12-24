@@ -1,0 +1,15 @@
+{
+  "title": "Update API Response Format",
+  "summary": "Changed the user API response to include additional profile fields and improved error handling.",
+  "attributes": {
+    "version": "2.1.0",
+    "added_fields": "profile_picture, last_login",
+    "error_handling": "standardized error codes and messages"
+  },
+  "metadata": {
+    "author": "dev_team",
+    "reviewer": "lead_dev",
+    "token": "77dfe15e",
+    "created_at": "2024-06-10T12:00:00Z"
+  }
+}
