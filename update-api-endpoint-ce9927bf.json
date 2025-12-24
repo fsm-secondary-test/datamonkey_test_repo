@@ -1,15 +1,16 @@
 {
-  "title": "Update API Endpoint",
-  "summary": "Changed the user data API endpoint to improve response times.",
+  "title": "Update API Endpoint Response",
+  "summary": "Refined the API endpoint to include additional user details in the response.",
   "attributes": {
-    "endpoint": "/api/v2/users",
-    "response_time": "reduced by 30%",
-    "method": "GET"
+    "endpoint": "/api/v2/users/details",
+    "method": "GET",
+    "response_format": "JSON",
+    "added_fields": "email, phone_number"
   },
   "metadata": {
+    "reviewed_by": "alice",
+    "approved": "true",
     "token": "ce9927bf",
-    "author": "dev_team",
-    "environment": "production",
-    "created_at": "2024-06-01T12:00:00Z"
+    "created_at": "2024-06-20T14:30:00Z"
   }
 }
