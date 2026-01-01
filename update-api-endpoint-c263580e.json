@@ -1,0 +1,15 @@
+{
+  "title": "Update API Endpoint",
+  "summary": "Refactored the user authentication API to improve security and performance.",
+  "attributes": {
+    "version": "1.2.0",
+    "author": "devteam",
+    "impact": "medium"
+  },
+  "metadata": {
+    "token": "c263580e",
+    "reviewed": "true",
+    "deployed": "2024-06-07",
+    "created_at": "2024-06-07T12:00:00Z"
+  }
+}
