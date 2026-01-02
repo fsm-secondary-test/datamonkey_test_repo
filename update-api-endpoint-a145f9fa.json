@@ -1,0 +1,15 @@
+{
+  "title": "Update API Endpoint",
+  "summary": "Modified the user authentication endpoint to improve security and performance.",
+  "attributes": {
+    "endpoint": "/api/v2/auth/login",
+    "change_type": "modification",
+    "impact": "high"
+  },
+  "metadata": {
+    "reviewed_by": "alice",
+    "token": "a145f9fa",
+    "deployment_status": "completed",
+    "created_at": "2024-06-15T10:30:00Z"
+  }
+}
