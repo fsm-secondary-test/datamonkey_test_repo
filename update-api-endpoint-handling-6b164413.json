@@ -1,16 +1,15 @@
 {
-  "title": "Update API Endpoint Handling",
-  "summary": "Refactored API endpoint request processing to improve performance and reliability.",
+  "title": "Update User Authentication Module",
+  "summary": "Refactored authentication logic to improve security and performance.",
   "attributes": {
-    "Component": "Backend API",
-    "Impact": "High",
-    "Status": "Completed"
+    "module": "user-auth",
+    "impact": "medium",
+    "version": "2.3.1"
   },
   "metadata": {
-    "ReviewedBy": "Alice Johnson",
-    "ReleaseVersion": "v2.3.1",
-    "Token": "6b164413",
     "token": "6b164413",
-    "created_at": "2024-06-10T14:23:00Z"
+    "author": "dev_team",
+    "reviewed": "true",
+    "created_at": "2024-06-01T12:00:00Z"
   }
 }
