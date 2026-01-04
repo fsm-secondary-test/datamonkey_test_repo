@@ -1,0 +1,15 @@
+{
+  "title": "Update API endpoint for user data",
+  "summary": "Refactored the user data API endpoint to improve response times and added pagination support.",
+  "attributes": {
+    "version": "1.2.0",
+    "impact": "medium",
+    "author": "dev_team"
+  },
+  "metadata": {
+    "reviewed_by": "alice",
+    "token": "f9f42ceb",
+    "environment": "production",
+    "created_at": "2024-06-01T10:30:00Z"
+  }
+}
