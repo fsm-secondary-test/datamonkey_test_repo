@@ -1,16 +1,15 @@
 {
-  "title": "Update API Endpoints",
-  "summary": "Refactored the user authentication endpoints to improve security and performance.",
+  "title": "Update Dependency Versions",
+  "summary": "Bumped versions of key dependencies to latest stable releases for improved security and performance.",
   "attributes": {
-    "version": "2.1.0",
-    "impact": "medium",
-    "component": "authentication",
-    "author": "dev_team"
+    "dependency": "numpy",
+    "old_version": "1.20.0",
+    "new_version": "1.24.2"
   },
   "metadata": {
-    "reviewed_by": "security_team",
-    "release_window": "Q2 2024",
     "token": "ba910714",
+    "author": "devops-team",
+    "reviewed": "true",
     "created_at": "2024-06-01T12:00:00Z"
   }
 }
