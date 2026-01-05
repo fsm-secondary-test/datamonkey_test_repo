@@ -1,0 +1,15 @@
+{
+  "title": "Update API authentication",
+  "summary": "Improved security by updating the token management system.",
+  "attributes": {
+    "version": "1.2.3",
+    "component": "auth-service",
+    "change_type": "security patch"
+  },
+  "metadata": {
+    "token": "42d15abc",
+    "reviewed_by": "alice",
+    "approved": "true",
+    "created_at": "2024-06-05T12:00:00Z"
+  }
+}
