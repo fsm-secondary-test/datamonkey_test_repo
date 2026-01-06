@@ -1,15 +1,15 @@
 {
-  "title": "Update Authentication Module",
-  "summary": "Refactored the authentication logic to improve security and performance.",
+  "title": "Update API Endpoint",
+  "summary": "Changed the user data retrieval endpoint to improve performance.",
   "attributes": {
-    "version": "2.1.0",
-    "author": "Jane Doe",
-    "reviewed": "true"
+    "endpoint": "/api/v2/users/data",
+    "method": "GET",
+    "response_time": "120ms"
   },
   "metadata": {
-    "commit_hash": "a1b2c3d4",
-    "build_number": "452",
     "token": "81733641",
-    "created_at": "2024-06-19T12:00:00Z"
+    "author": "dev_team",
+    "environment": "production",
+    "created_at": "2024-06-20T15:30:00Z"
   }
 }
