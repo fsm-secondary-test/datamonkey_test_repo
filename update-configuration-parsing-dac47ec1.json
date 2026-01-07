@@ -1,0 +1,17 @@
+{
+  "title": "Update Configuration Parsing",
+  "summary": "Enhanced the configuration parser to handle nested attributes and improved error reporting.",
+  "attributes": {
+    "version": "2.1.0",
+    "component": "config-parser",
+    "change-type": "enhancement",
+    "impact": "medium"
+  },
+  "metadata": {
+    "author": "dev_team",
+    "reviewed-by": "alice",
+    "token": "dac47ec1",
+    "release": "2024-Q2",
+    "created_at": "2024-06-08T12:00:00Z"
+  }
+}
