@@ -1,0 +1,15 @@
+{
+  "title": "Update changelog generation",
+  "summary": "Added metadata token to changelog entries for traceability",
+  "attributes": {
+    "version": "1.2.3",
+    "change_type": "feature",
+    "impact": "low"
+  },
+  "metadata": {
+    "commit_hash": "a1b2c3d4",
+    "author": "devteam",
+    "token": "e3a3d0e9",
+    "created_at": "2024-04-27T12:00:00Z"
+  }
+}
