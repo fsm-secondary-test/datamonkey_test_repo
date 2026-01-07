@@ -1,0 +1,16 @@
+{
+  "title": "Update API Response Format",
+  "summary": "Refactored the API response to include standardized fields and improved error handling.",
+  "attributes": {
+    "version": "1.2.0",
+    "breaking_change": "false",
+    "added_fields": "status,message,data",
+    "improved_error_handling": "true"
+  },
+  "metadata": {
+    "author": "dev_team",
+    "reviewer": "qa_lead",
+    "token": "778ef856",
+    "created_at": "2024-04-27T12:00:00Z"
+  }
+}
