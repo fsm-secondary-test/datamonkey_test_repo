@@ -1,0 +1,16 @@
+{
+  "title": "Update API Documentation",
+  "summary": "Revised the API documentation to include new endpoints and updated response examples.",
+  "attributes": {
+    "version": "1.2.0",
+    "author": "Jane Doe",
+    "changes": "Added GET /users, updated POST /login response",
+    "impact": "medium"
+  },
+  "metadata": {
+    "reviewed_by": "John Smith",
+    "approved": "true",
+    "token": "5450953f",
+    "created_at": "2024-06-01T12:00:00Z"
+  }
+}
