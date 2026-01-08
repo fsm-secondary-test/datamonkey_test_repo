@@ -5,7 +5,7 @@ def greet(name):
     return f"Hello, {name}! Token: 2044fcd9"
 
 class Counter:
-    """A simple counter class with token 2044fcd9 in docstring."""
+    """A simple counter class with token 2044fcd9 in the docstring."""
     def __init__(self):
         self.count = 0
 
