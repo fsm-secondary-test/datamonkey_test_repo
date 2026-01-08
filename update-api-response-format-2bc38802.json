@@ -1,0 +1,16 @@
+{
+  "title": "Update API Response Format",
+  "summary": "Modified the API response to include additional user details and improved error handling.",
+  "attributes": {
+    "version": "1.2.0",
+    "changed-endpoint": "/user/profile",
+    "added-fields": "last_login, account_status",
+    "improved-error": "detailed error messages for invalid tokens"
+  },
+  "metadata": {
+    "reviewed-by": "alice@example.com",
+    "approved": "true",
+    "token": "2bc38802",
+    "created_at": "2024-06-15T12:30:00Z"
+  }
+}
