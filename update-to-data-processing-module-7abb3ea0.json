@@ -1,15 +1,16 @@
 {
-  "title": "Update to Data Processing Module",
-  "summary": "Improved performance and fixed bugs in data parsing.",
+  "title": "Update Configuration Handling",
+  "summary": "Improved configuration parsing and error handling for robustness.",
   "attributes": {
-    "version": "1.2.3",
-    "performance_improvement": "15%",
-    "bugs_fixed": "3"
+    "version": "1.2.0",
+    "impact": "medium",
+    "module": "config-parser"
   },
   "metadata": {
+    "commit": "7abb3ea0",
     "author": "dev_team",
-    "reviewed_by": "qa_lead",
+    "reviewed": "true",
     "token": "7abb3ea0",
-    "created_at": "2024-06-01T12:00:00Z"
+    "created_at": "2024-06-10T12:00:00Z"
   }
 }
