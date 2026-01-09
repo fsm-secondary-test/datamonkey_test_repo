@@ -1,16 +1,16 @@
 {
-  "title": "Update API Endpoint",
-  "summary": "Changed the user authentication API endpoint to improve security.",
+  "title": "Feature Update: Enhanced Search Functionality",
+  "summary": "Improved search algorithm to deliver faster and more relevant results.",
   "attributes": {
-    "endpoint": "/api/v2/auth/login",
-    "status": "deprecated old endpoint",
-    "new_endpoint": "/api/v3/auth/login",
-    "impact": "high"
+    "version": "1.4.0",
+    "impact": "high",
+    "components": "search-engine,ui",
+    "release_type": "major"
   },
   "metadata": {
-    "author": "dev_team",
-    "reviewed_by": "security_lead",
     "token": "aee92f4a",
-    "created_at": "2024-06-01T12:00:00Z"
+    "deployed_by": "automation-bot",
+    "deployment_date": "2024-06-12",
+    "created_at": "2024-06-12T10:00:00Z"
   }
 }
