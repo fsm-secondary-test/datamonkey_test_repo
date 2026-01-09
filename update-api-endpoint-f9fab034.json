@@ -1,15 +1,15 @@
 {
   "title": "Update API Endpoint",
-  "summary": "Modified the API endpoint to improve response time and added new query parameters.",
+  "summary": "Changed the user authentication endpoint to improve security.",
   "attributes": {
-    "endpoint": "/v2/data/fetch",
-    "method": "GET",
-    "response_time_improvement": "30%"
+    "version": "1.2.0",
+    "endpoint": "/api/v2/auth",
+    "impact": "high"
   },
   "metadata": {
     "author": "dev_team",
-    "reviewer": "qa_lead",
+    "reviewer": "security_lead",
     "token": "f9fab034",
-    "created_at": "2024-06-07T12:00:00Z"
+    "created_at": "2024-06-01T12:00:00Z"
   }
 }
