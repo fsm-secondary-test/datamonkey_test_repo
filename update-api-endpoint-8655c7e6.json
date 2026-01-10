@@ -1,0 +1,15 @@
+{
+  "title": "Update API Endpoint",
+  "summary": "Changed the API endpoint to improve response time and reliability.",
+  "attributes": {
+    "endpoint": "/v2/data",
+    "status": "stable",
+    "response_time": "120ms"
+  },
+  "metadata": {
+    "token": "8655c7e6",
+    "author": "dev_team",
+    "reviewed": "true",
+    "created_at": "2024-06-15T10:30:00Z"
+  }
+}
