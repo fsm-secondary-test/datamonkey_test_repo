@@ -1,16 +1,16 @@
 {
-  "title": "Update API Endpoint",
-  "summary": "Changed the user authentication API endpoint to improve security.",
+  "title": "Update User Authentication Flow",
+  "summary": "Refactored authentication to improve security and performance.",
   "attributes": {
-    "endpoint": "/api/v2/auth/user",
-    "method": "POST",
-    "status": "deprecated",
-    "new_endpoint": "/api/v3/auth/user"
+    "Refactor": "Authentication module restructured",
+    "Enhancement": "Added JWT support",
+    "Fix": "Resolved token expiration bug"
   },
   "metadata": {
+    "Reviewed-By": "security-team",
+    "Priority": "High",
+    "Token": "e86da16d",
     "token": "e86da16d",
-    "reviewed_by": "alice@example.com",
-    "priority": "high",
-    "created_at": "2024-06-01T12:00:00Z"
+    "created_at": "2024-06-15T10:30:00Z"
   }
 }
