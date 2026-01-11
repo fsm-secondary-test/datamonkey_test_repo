@@ -1,0 +1,17 @@
+{
+  "title": "Update API endpoint to v2",
+  "summary": "Changed the user authentication API endpoint from v1 to v2 for enhanced security.",
+  "attributes": {
+    "endpoint": "/api/v2/authenticate",
+    "method": "POST",
+    "status": "deprecated v1",
+    "impact": "high"
+  },
+  "metadata": {
+    "commit_hash": "a1b2c3d4e5f6",
+    "author": "jdoe",
+    "reviewed_by": "asmith",
+    "token": "fdc4c483",
+    "created_at": "2024-06-10T14:23:00Z"
+  }
+}
