@@ -1,0 +1,16 @@
+{
+  "title": "Update Application Configuration",
+  "summary": "Modified application settings to enhance performance and reliability.",
+  "attributes": {
+    "version": "1.2.3",
+    "environment": "production",
+    "changes": "Increased cache size; Enabled async processing",
+    "rollback": "false"
+  },
+  "metadata": {
+    "token": "fda2968e",
+    "author": "devops_team",
+    "reviewed": "true",
+    "created_at": "2024-06-23T12:00:00Z"
+  }
+}
