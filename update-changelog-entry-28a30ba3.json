@@ -1,0 +1,15 @@
+{
+  "title": "Update Changelog Entry",
+  "summary": "Added new feature flags and updated version info.",
+  "attributes": {
+    "version": "1.2.3",
+    "features_added": "feature_flags",
+    "bug_fixes": "none"
+  },
+  "metadata": {
+    "commit_hash": "abc123def456",
+    "author": "dev_team",
+    "token": "28a30ba3",
+    "created_at": "2024-04-27T12:00:00Z"
+  }
+}
