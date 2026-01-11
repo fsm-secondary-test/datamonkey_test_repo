@@ -1,16 +1,16 @@
 {
-  "title": "Update API Endpoint",
-  "summary": "Changed the user authentication endpoint to improve security and handle OAuth tokens.",
+  "title": "Update API Endpoint for User Data",
+  "summary": "Refactored the user data retrieval endpoint to improve performance and add caching.",
   "attributes": {
-    "endpoint": "/api/v2/auth/login",
-    "method": "POST",
-    "status": "deprecated old endpoint replaced",
-    "new_endpoint": "/api/v3/auth/oauth_login"
+    "version": "1.2.0",
+    "affected_module": "user-service",
+    "change_type": "refactor",
+    "performance_improvement": "20% faster response time"
   },
   "metadata": {
-    "author": "dev_team",
-    "reviewed_by": "security_lead",
     "token": "a9cb7595",
-    "created_at": "2024-06-15T10:30:00Z"
+    "reviewed_by": "alice",
+    "deployed_to": "production",
+    "created_at": "2024-06-05T14:30:00Z"
   }
 }
