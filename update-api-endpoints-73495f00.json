@@ -1,0 +1,15 @@
+{
+  "title": "Update API Endpoints",
+  "summary": "Refactored and optimized API endpoints for better performance and scalability.",
+  "attributes": {
+    "version": "2.1.0",
+    "author": "Jane Doe",
+    "impact": "medium"
+  },
+  "metadata": {
+    "token": "73495f00",
+    "reviewed": "yes",
+    "deployed": "2024-06-09",
+    "created_at": "2024-06-09T12:00:00Z"
+  }
+}
