@@ -1,0 +1,15 @@
+{
+  "title": "Update User Authentication",
+  "summary": "Implemented two-factor authentication to enhance security.",
+  "attributes": {
+    "version": "1.2.0",
+    "author": "Jane Doe",
+    "status": "completed"
+  },
+  "metadata": {
+    "token": "0cafa00b",
+    "reviewed_by": "John Smith",
+    "priority": "high",
+    "created_at": "2024-06-14T12:00:00Z"
+  }
+}
