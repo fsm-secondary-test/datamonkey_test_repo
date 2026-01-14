@@ -1,16 +1,15 @@
 {
-  "title": "Update API Response Format",
-  "summary": "Changed the API response from XML to JSON for better compatibility and easier parsing.",
+  "title": "Update to API Endpoint Handling",
+  "summary": "Improved error handling and response parsing for the user data API endpoint.",
   "attributes": {
-    "format": "JSON",
-    "deprecated_format": "XML",
-    "impact": "Breaking change",
-    "version": "v2.0"
+    "version": "1.2.3",
+    "component": "UserAPI",
+    "change_type": "bugfix"
   },
   "metadata": {
-    "author": "dev_team",
-    "reviewed_by": "qa_lead",
+    "commit_hash": "a1b2c3d4",
+    "reviewed_by": "jdoe",
     "token": "0b0d290d",
-    "created_at": "2024-06-01T10:15:00Z"
+    "created_at": "2024-06-01T12:00:00Z"
   }
 }
