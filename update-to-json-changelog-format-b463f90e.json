@@ -1,15 +1,15 @@
 {
-  "title": "Update to JSON Changelog Format",
-  "summary": "Added metadata token and compact JSON structure for changelog entries.",
+  "title": "Update API Endpoint",
+  "summary": "Refactored the user authentication API endpoint to improve security and performance.",
   "attributes": {
-    "version": "1.2.0",
-    "date": "2024-06-05",
-    "changes": "Added metadata token and ensured compact JSON format."
+    "version": "1.4.2",
+    "author": "Jane Doe",
+    "status": "stable"
   },
   "metadata": {
+    "commit_hash": "a1b2c3d4e5",
+    "reviewed_by": "John Smith",
     "token": "b463f90e",
-    "author": "AutoGenerator",
-    "status": "completed",
-    "created_at": "2024-06-05T12:00:00Z"
+    "created_at": "2024-06-15T12:00:00Z"
   }
 }
