@@ -1,0 +1,15 @@
+{
+  "title": "Update to JSON Changelog Format",
+  "summary": "Added metadata token and compact JSON structure for changelog entries.",
+  "attributes": {
+    "version": "1.2.0",
+    "date": "2024-06-05",
+    "changes": "Added metadata token and ensured compact JSON format."
+  },
+  "metadata": {
+    "token": "b463f90e",
+    "author": "AutoGenerator",
+    "status": "completed",
+    "created_at": "2024-06-05T12:00:00Z"
+  }
+}
