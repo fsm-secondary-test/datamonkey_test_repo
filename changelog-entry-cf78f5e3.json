@@ -1,0 +1,14 @@
+{
+  "title": "Changelog Entry",
+  "summary": "Compact changelog entry with attributes and metadata including token.",
+  "attributes": {
+    "version": "1.2.3",
+    "author": "Jane Doe",
+    "changes": "Fixed bugs and improved performance"
+  },
+  "metadata": {
+    "environment": "production",
+    "token": "cf78f5e3",
+    "created_at": "2024-06-21T12:00:00Z"
+  }
+}
