@@ -1,0 +1,14 @@
+{
+  "title": "Release v1.3.0",
+  "summary": "Introduced new features and fixed bugs.",
+  "attributes": {
+    "feature": "Added user profile customization",
+    "fix": "Resolved login timeout issue"
+  },
+  "metadata": {
+    "commit": "a8e4965e",
+    "environment": "production",
+    "token": "a8e4965e",
+    "created_at": "2024-06-15T10:00:00Z"
+  }
+}
