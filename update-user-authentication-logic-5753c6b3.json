@@ -1,0 +1,15 @@
+{
+  "title": "Update User Authentication Logic",
+  "summary": "Refactor authentication flow to improve security and performance.",
+  "attributes": {
+    "version": "1.2.0",
+    "impact": "medium",
+    "module": "auth-service"
+  },
+  "metadata": {
+    "reviewed_by": "alice",
+    "status": "merged",
+    "token": "5753c6b3",
+    "created_at": "2024-06-01T12:00:00Z"
+  }
+}
