@@ -1,16 +1,15 @@
 {
-  "title": "Update User Authentication Module",
-  "summary": "Refactored the authentication module to improve security and performance.",
+  "title": "Update API Endpoint",
+  "summary": "Changed the user authentication API endpoint to improve security.",
   "attributes": {
-    "version": "1.4.2",
-    "author": "Jane Doe",
-    "issue": "#458",
-    "impact": "High"
+    "endpoint": "/v2/auth/login",
+    "method": "POST",
+    "status": "updated"
   },
   "metadata": {
     "token": "5a979316",
-    "reviewed_by": "John Smith",
-    "approved": "true",
-    "created_at": "2024-06-15T10:30:00Z"
+    "version": "2.1.0",
+    "author": "dev_team",
+    "created_at": "2024-06-01T12:00:00Z"
   }
 }
