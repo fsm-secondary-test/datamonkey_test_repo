@@ -1,0 +1,16 @@
+{
+  "title": "Update Configuration Schema",
+  "summary": "Refined the JSON schema to support additional metadata fields and improved validation rules.",
+  "attributes": {
+    "version": "1.2.0",
+    "breaking_change": "false",
+    "added_fields": "metadata, attributes",
+    "improved_validation": "true"
+  },
+  "metadata": {
+    "author": "devteam",
+    "reviewer": "qa_lead",
+    "token": "1571edf9",
+    "created_at": "2024-06-14T12:00:00Z"
+  }
+}
