@@ -1,0 +1,13 @@
+{
+  "title": "Release 1.2.0",
+  "summary": "Added new feature X and fixed bug Y",
+  "attributes": {
+    "feature": "New dashboard UI",
+    "bugfix": "Resolved login error on mobile devices"
+  },
+  "metadata": {
+    "release_type": "minor",
+    "token": "e8eeb065",
+    "created_at": "2024-06-12T10:00:00Z"
+  }
+}
