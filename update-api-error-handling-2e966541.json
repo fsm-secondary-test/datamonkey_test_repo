@@ -1,16 +1,15 @@
 {
-  "title": "Update API Error Handling",
-  "summary": "Improved error responses for better client integration and debugging.",
+  "title": "Update API Endpoint Handling",
+  "summary": "Refactored API endpoint to improve request validation and error handling.",
   "attributes": {
     "version": "1.2.0",
-    "breaking_change": "false",
-    "affected_endpoints": "/users, /orders"
+    "impact": "medium",
+    "component": "backend-api"
   },
   "metadata": {
-    "author": "dev_team",
-    "environment": "production",
-    "release_note": "Enhanced error codes and messages for API endpoints.",
     "token": "2e966541",
-    "created_at": "2024-06-02T10:15:00Z"
+    "author": "devteam",
+    "reviewed": "true",
+    "created_at": "2024-06-01T12:00:00Z"
   }
 }
