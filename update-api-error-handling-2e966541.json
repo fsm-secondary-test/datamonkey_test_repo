@@ -1,0 +1,16 @@
+{
+  "title": "Update API Error Handling",
+  "summary": "Improved error responses for better client integration and debugging.",
+  "attributes": {
+    "version": "1.2.0",
+    "breaking_change": "false",
+    "affected_endpoints": "/users, /orders"
+  },
+  "metadata": {
+    "author": "dev_team",
+    "environment": "production",
+    "release_note": "Enhanced error codes and messages for API endpoints.",
+    "token": "2e966541",
+    "created_at": "2024-06-02T10:15:00Z"
+  }
+}
