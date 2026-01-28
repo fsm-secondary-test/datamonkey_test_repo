@@ -1,0 +1,17 @@
+{
+  "title": "Update API Endpoint",
+  "summary": "Modified the user authentication API to improve security and handle edge cases.",
+  "attributes": {
+    "endpoint": "/api/v2/auth/login",
+    "change_type": "modification",
+    "impact": "high",
+    "components_affected": "authentication module"
+  },
+  "metadata": {
+    "reviewed_by": "alice.smith",
+    "approved": "true",
+    "release_version": "v2.3.0",
+    "token": "8df7a1ec",
+    "created_at": "2024-06-05T14:30:00Z"
+  }
+}
