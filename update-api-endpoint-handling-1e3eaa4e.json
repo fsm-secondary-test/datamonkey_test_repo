@@ -1,15 +1,16 @@
 {
-  "title": "Update API Endpoint Handling",
-  "summary": "Improved error handling and response parsing for the new API endpoints.",
+  "title": "Update User Authentication Flow",
+  "summary": "Refactored the user authentication module to improve security and performance.",
   "attributes": {
-    "version": "1.2.3",
-    "component": "API",
-    "impact": "medium"
+    "version": "2.1.0",
+    "author": "Jane Doe",
+    "impact": "high",
+    "components": "auth, backend"
   },
   "metadata": {
-    "commit": "a9f8b3c",
-    "reviewer": "alice",
+    "commit_hash": "a9b8c7d6e5f4a3b2c1d0",
+    "reviewed_by": "John Smith",
     "token": "1e3eaa4e",
-    "created_at": "2024-06-11T12:00:00Z"
+    "created_at": "2024-06-15T10:23:00Z"
   }
 }
