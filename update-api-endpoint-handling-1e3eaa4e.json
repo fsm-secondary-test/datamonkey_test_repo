@@ -1,0 +1,15 @@
+{
+  "title": "Update API Endpoint Handling",
+  "summary": "Improved error handling and response parsing for the new API endpoints.",
+  "attributes": {
+    "version": "1.2.3",
+    "component": "API",
+    "impact": "medium"
+  },
+  "metadata": {
+    "commit": "a9f8b3c",
+    "reviewer": "alice",
+    "token": "1e3eaa4e",
+    "created_at": "2024-06-11T12:00:00Z"
+  }
+}
