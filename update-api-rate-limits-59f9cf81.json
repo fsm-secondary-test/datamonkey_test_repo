@@ -1,0 +1,15 @@
+{
+  "title": "Update API Rate Limits",
+  "summary": "Increased the API rate limits for premium users to enhance performance.",
+  "attributes": {
+    "version": "2.1.0",
+    "impact": "medium",
+    "users_affected": "premium only"
+  },
+  "metadata": {
+    "release_manager": "Jane Doe",
+    "token": "59f9cf81",
+    "environment": "production",
+    "created_at": "2024-06-01T12:00:00Z"
+  }
+}
