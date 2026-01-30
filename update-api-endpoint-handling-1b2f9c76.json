@@ -1,0 +1,16 @@
+{
+  "title": "Update API Endpoint Handling",
+  "summary": "Improved robustness of API endpoint handling by adding error checking and support for new query parameters.",
+  "attributes": {
+    "version": "1.4.2",
+    "affected_components": "API Gateway, Backend Service",
+    "change_type": "enhancement",
+    "impact": "medium"
+  },
+  "metadata": {
+    "reviewed_by": "alice@example.com",
+    "deployed_to": "staging",
+    "token": "1b2f9c76",
+    "created_at": "2024-06-15T10:30:00Z"
+  }
+}
