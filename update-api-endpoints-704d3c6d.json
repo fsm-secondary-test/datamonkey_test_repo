@@ -1,0 +1,15 @@
+{
+  "title": "Update API Endpoints",
+  "summary": "Refactored API endpoints for improved performance and scalability.",
+  "attributes": {
+    "version": "1.2.0",
+    "impact": "medium",
+    "components": "backend,api"
+  },
+  "metadata": {
+    "reviewed_by": "alice",
+    "approved": "true",
+    "token": "704d3c6d",
+    "created_at": "2024-06-01T12:00:00Z"
+  }
+}
