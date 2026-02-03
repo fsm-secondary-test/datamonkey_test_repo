@@ -1,15 +1,15 @@
 {
-  "title": "Update API Endpoints",
-  "summary": "Refactored API endpoints for improved performance and scalability.",
+  "title": "Update User Authentication Flow",
+  "summary": "Improved security and UX for login process",
   "attributes": {
-    "version": "1.2.0",
+    "version": "1.4.2",
     "impact": "medium",
-    "components": "backend,api"
+    "components": "auth, ui"
   },
   "metadata": {
-    "reviewed_by": "alice",
-    "approved": "true",
     "token": "704d3c6d",
-    "created_at": "2024-06-01T12:00:00Z"
+    "deployed_by": "ci-cd-pipeline",
+    "environment": "production",
+    "created_at": "2024-06-13T12:00:00Z"
   }
 }
