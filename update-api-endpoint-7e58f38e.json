@@ -1,15 +1,16 @@
 {
-  "title": "Update API Endpoint",
-  "summary": "Modified the user authentication endpoint to improve security and response time.",
+  "title": "Update User Authentication Flow",
+  "summary": "Refactored the user authentication process to improve security and performance.",
   "attributes": {
-    "endpoint": "/api/v2/auth",
-    "change_type": "modification",
-    "impact": "high"
+    "version": "1.2.0",
+    "impact": "medium",
+    "components": "auth, backend",
+    "reviewed_by": "alice-bob"
   },
   "metadata": {
-    "author": "dev_team",
-    "reviewed_by": "security_lead",
     "token": "7e58f38e",
-    "created_at": "2024-06-01T10:15:00Z"
+    "commit_hash": "a1b2c3d4",
+    "deployed_to": "production",
+    "created_at": "2024-06-01T12:00:00Z"
   }
 }
