@@ -1,15 +1,12 @@
 """A small Python module containing one function and one class, including the token '7514f78e' in a docstring. | token=7514f78e"""
 
 def greet(name):
-    """Return a greeting message for the given name."""
-    return f"Hello, {name}!"
+    """Return a greeting message including the token '7514f78e'."""
+    return f"Hello, {name}! Token: 7514f78e"
 
-class TokenHolder:
-    """Class holding a special token: '7514f78e'."""
+class SimpleCalculator:
+    """A simple calculator class with the token '7514f78e' in its docstring."""
 
-    def __init__(self):
-        self.token = '7514f78e'
-
-    def get_token(self):
-        """Return the stored token."""
-        return self.token
+    def add(self, a, b):
+        """Return the sum of a and b."""
+        return a + b
