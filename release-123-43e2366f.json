@@ -1,15 +1,15 @@
 {
-  "title": "Release 1.2.3",
-  "summary": "Fixed bugs and improved performance",
+  "title": "Update Authentication Module",
+  "summary": "Refactored authentication logic to improve security and performance.",
   "attributes": {
-    "fixed_issues": "#123, #124",
-    "improvements": "Optimized database queries",
-    "new_features": "Added user profile customization"
+    "module": "auth",
+    "change_type": "refactor",
+    "impact": "medium"
   },
   "metadata": {
-    "author": "dev_team",
-    "release_type": "minor",
+    "reviewed_by": "security_team",
     "token": "43e2366f",
-    "created_at": "2024-06-15T10:00:00Z"
+    "release_version": "v2.4.1",
+    "created_at": "2024-06-01T09:30:00Z"
   }
 }
