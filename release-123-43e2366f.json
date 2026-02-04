@@ -1,0 +1,15 @@
+{
+  "title": "Release 1.2.3",
+  "summary": "Fixed bugs and improved performance",
+  "attributes": {
+    "fixed_issues": "#123, #124",
+    "improvements": "Optimized database queries",
+    "new_features": "Added user profile customization"
+  },
+  "metadata": {
+    "author": "dev_team",
+    "release_type": "minor",
+    "token": "43e2366f",
+    "created_at": "2024-06-15T10:00:00Z"
+  }
+}
