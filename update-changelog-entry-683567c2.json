@@ -1,0 +1,15 @@
+{
+  "title": "Update Changelog Entry",
+  "summary": "Added new feature and fixed bugs in the latest release.",
+  "attributes": {
+    "version": "1.2.3",
+    "status": "stable",
+    "changes": "Implemented caching and resolved login issue"
+  },
+  "metadata": {
+    "token": "683567c2",
+    "author": "dev_team",
+    "release_date": "2024-06-01",
+    "created_at": "2024-06-01T12:00:00Z"
+  }
+}
