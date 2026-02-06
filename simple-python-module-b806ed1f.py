@@ -1,15 +1,14 @@
-"""A small Python module containing one function and one class, including the literal token 'b806ed1f' in a docstring. | token=b806ed1f"""
+"""A small Python module containing one function and one class, including a specific token in a docstring. | token=b806ed1f"""
 
 def greet(name):
     """Return a greeting message including the token b806ed1f."""
-    return f"Hello, {name}! Token b806ed1f included."
+    return f"Hello, {name}! Token: b806ed1f"
 
-class Counter:
-    """A simple counter class with token b806ed1f."""
+class Person:
+    """Class representing a person with the token b806ed1f."""
+    def __init__(self, name, age):
+        self.name = name
+        self.age = age
 
-    def __init__(self):
-        self.count = 0
-
-    def increment(self):
-        self.count += 1
-        return self.count
+    def introduce(self):
+        return f"My name is {self.name} and I am {self.age} years old. Token: b806ed1f"
