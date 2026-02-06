@@ -1,15 +1,15 @@
 {
-  "title": "Update API Endpoint",
-  "summary": "Changed the user data API endpoint to the new v2 version for improved performance.",
+  "title": "Update User Authentication Module",
+  "summary": "Refactored authentication logic to improve security and performance.",
   "attributes": {
-    "endpoint": "/api/v2/userdata",
-    "status": "deprecated",
+    "version": "2.1.0",
+    "author": "Jane Doe",
     "impact": "high"
   },
   "metadata": {
     "token": "d141a6c9",
-    "reviewed_by": "team_lead",
-    "deployment": "scheduled",
-    "created_at": "2024-06-15T09:30:00Z"
+    "reviewed_by": "John Smith",
+    "issue_id": "AUTH-456",
+    "created_at": "2024-06-01T15:20:00Z"
   }
 }
