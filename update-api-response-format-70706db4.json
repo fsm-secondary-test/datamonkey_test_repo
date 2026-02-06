@@ -1,0 +1,15 @@
+{
+  "title": "Update API Response Format",
+  "summary": "Refined API response to include detailed error codes and messages for better client handling.",
+  "attributes": {
+    "version": "1.2.0",
+    "changed_fields": "error_code,error_message",
+    "impact": "medium"
+  },
+  "metadata": {
+    "author": "devteam",
+    "reviewed_by": "qa_lead",
+    "token": "70706db4",
+    "created_at": "2024-06-18T12:00:00Z"
+  }
+}
