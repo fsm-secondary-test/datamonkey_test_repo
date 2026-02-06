@@ -1,15 +1,16 @@
 {
-  "title": "Update Changelog Entry",
-  "summary": "Added new feature and fixed bugs in the latest release.",
+  "title": "Update Authentication Module",
+  "summary": "Refactored authentication logic to improve security and performance.",
   "attributes": {
-    "version": "1.2.3",
-    "status": "stable",
-    "changes": "Implemented caching and resolved login issue"
+    "Refactor": "Authentication logic rewritten",
+    "Performance": "Improved login response time by 20%",
+    "Security": "Implemented stronger password hashing"
   },
   "metadata": {
+    "ReviewedBy": "team_lead",
+    "TicketID": "AUTH-3421",
+    "Token": "683567c2",
     "token": "683567c2",
-    "author": "dev_team",
-    "release_date": "2024-06-01",
-    "created_at": "2024-06-01T12:00:00Z"
+    "created_at": "2024-06-10T12:00:00Z"
   }
 }
