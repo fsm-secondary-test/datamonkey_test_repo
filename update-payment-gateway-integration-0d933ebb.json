@@ -1,0 +1,15 @@
+{
+  "title": "Update Payment Gateway Integration",
+  "summary": "Improved stability and added support for new currencies in the payment gateway module.",
+  "attributes": {
+    "version": "1.4.2",
+    "affected_module": "payment_gateway",
+    "change_type": "enhancement"
+  },
+  "metadata": {
+    "token": "0d933ebb",
+    "author": "Jane Doe",
+    "reviewed_by": "John Smith",
+    "created_at": "2024-06-05T12:00:00Z"
+  }
+}
