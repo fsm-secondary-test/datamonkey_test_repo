@@ -1,15 +1,16 @@
 {
-  "title": "Update API Response Format",
-  "summary": "Changed the API response structure to include detailed error messages and status codes for better client-side handling.",
+  "title": "Update API Endpoint",
+  "summary": "Refactored the user authentication API to improve security and performance.",
   "attributes": {
-    "version": "1.4.0",
-    "changed_fields": "error,message,status_code",
-    "impact": "medium"
+    "version": "1.2.0",
+    "author": "Jane Doe",
+    "impact": "medium",
+    "scope": "authentication"
   },
   "metadata": {
+    "commit_hash": "a1b2c3d4",
+    "reviewed_by": "John Smith",
     "token": "bd5798b7",
-    "author": "dev_team",
-    "reviewed": "true",
-    "created_at": "2024-06-12T10:15:00Z"
+    "created_at": "2024-06-01T12:00:00Z"
   }
 }
