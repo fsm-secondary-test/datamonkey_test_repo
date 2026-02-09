@@ -1,16 +1,15 @@
 {
-  "title": "Update User Authentication Flow",
-  "summary": "Improved security by adding two-factor authentication and enhanced password validation.",
+  "title": "Update API Endpoint",
+  "summary": "Modified the user authentication endpoint to improve security and add rate limiting.",
   "attributes": {
-    "version": "1.2.0",
-    "author": "devteam",
-    "impact": "high",
-    "components": "auth, backend"
+    "endpoint": "/api/v2/auth/user",
+    "change_type": "modification",
+    "security_feature": "rate_limiting"
   },
   "metadata": {
-    "commit_hash": "a1b2c3d4e5f6",
-    "reviewed_by": "alice",
     "token": "7e06cd0b",
-    "created_at": "2024-06-16T12:00:00Z"
+    "reviewed_by": "alice",
+    "status": "approved",
+    "created_at": "2024-06-01T12:00:00Z"
   }
 }
