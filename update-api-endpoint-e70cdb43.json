@@ -1,15 +1,14 @@
 {
-  "title": "Update API Endpoint",
-  "summary": "Refactored the user authentication API endpoint to improve security and performance.",
+  "title": "Compact Changelog Entry",
+  "summary": "A concise changelog entry with essential details and a fixed token in metadata.",
   "attributes": {
-    "version": "1.2.0",
-    "author": "dev_team",
-    "impact": "medium"
+    "version": "1.2.3",
+    "author": "Jane Doe",
+    "changes": "Fixed bugs and improved performance"
   },
   "metadata": {
     "token": "e70cdb43",
-    "reviewed_by": "security_team",
-    "release_date": "2024-06-05",
-    "created_at": "2024-06-01T12:00:00Z"
+    "release_date": "2024-06-24",
+    "created_at": "2024-06-24T12:00:00Z"
   }
 }
