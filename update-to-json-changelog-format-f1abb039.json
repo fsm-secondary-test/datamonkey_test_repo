@@ -1,14 +1,15 @@
 {
-  "title": "Update to JSON Changelog Format",
-  "summary": "Added metadata token field for identification.",
+  "title": "Update API Endpoint",
+  "summary": "Refactored the user authentication API endpoint to improve security and performance.",
   "attributes": {
-    "version": "1.0.1",
-    "change": "Added metadata token field",
-    "author": "ChatGPT"
+    "version": "1.2.0",
+    "author": "dev_team",
+    "impact": "medium"
   },
   "metadata": {
     "token": "f1abb039",
-    "reviewed": "true",
-    "created_at": "2024-06-14T12:00:00Z"
+    "reviewed_by": "security_lead",
+    "release_date": "2024-06-05",
+    "created_at": "2024-06-01T12:00:00Z"
   }
 }
