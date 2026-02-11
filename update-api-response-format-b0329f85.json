@@ -1,0 +1,15 @@
+{
+  "title": "Update API Response Format",
+  "summary": "Refined the API response structure for better clarity and added additional metadata fields.",
+  "attributes": {
+    "version": "1.2.0",
+    "endpoint": "/v1/data/fetch",
+    "status": "stable"
+  },
+  "metadata": {
+    "token": "b0329f85",
+    "author": "dev_team",
+    "reviewed": "true",
+    "created_at": "2024-06-15T12:00:00Z"
+  }
+}
