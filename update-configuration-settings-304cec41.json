@@ -1,17 +1,15 @@
 {
-  "title": "Update Configuration Settings",
-  "summary": "Refined configuration parameters for improved system stability and performance.",
+  "title": "Update API Endpoint",
+  "summary": "Changed the user authentication API endpoint to use OAuth 2.0 for enhanced security.",
   "attributes": {
-    "parameter": "max_connections",
-    "old_value": "100",
-    "new_value": "150",
-    "impact": "Increased max concurrent connections to improve throughput"
+    "endpoint": "/api/v2/auth/login",
+    "method": "POST",
+    "authentication": "OAuth 2.0"
   },
   "metadata": {
-    "author": "admin",
-    "environment": "production",
-    "commit_hash": "304cec41",
+    "author": "dev_team",
+    "reviewed": "true",
     "token": "304cec41",
-    "created_at": "2024-06-01T12:00:00Z"
+    "created_at": "2024-06-10T12:00:00Z"
   }
 }
