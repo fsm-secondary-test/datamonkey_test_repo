@@ -1,15 +1,16 @@
 {
   "title": "Update API Endpoint",
-  "summary": "Modified the /users endpoint to include pagination support.",
+  "summary": "Refactored the user authentication API endpoint to improve security and performance.",
   "attributes": {
-    "endpoint": "/users",
-    "change": "added pagination",
-    "version": "v2.1"
+    "version": "1.2.0",
+    "author": "dev_team",
+    "impact": "medium",
+    "modules_affected": "auth,user_service"
   },
   "metadata": {
-    "author": "jdoe",
-    "reviewed_by": "asmith",
     "token": "8648fafe",
+    "reviewed_by": "security_lead",
+    "deployment_status": "pending",
     "created_at": "2024-06-01T12:00:00Z"
   }
 }
