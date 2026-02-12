@@ -1,0 +1,17 @@
+{
+  "title": "Update API Response Format",
+  "summary": "Modified the API response to include additional user metadata fields for better analytics.",
+  "attributes": {
+    "changed_field": "user_profile",
+    "added_fields": "user_age,user_location,user_preferences",
+    "deprecated_fields": "user_status",
+    "impact": "medium"
+  },
+  "metadata": {
+    "commit_hash": "f3a1c9e7b2d4",
+    "author": "jdoe",
+    "reviewer": "msmith",
+    "token": "aec9db61",
+    "created_at": "2024-06-05T12:00:00Z"
+  }
+}
