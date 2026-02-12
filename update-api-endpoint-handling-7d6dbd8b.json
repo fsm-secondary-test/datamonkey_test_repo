@@ -1,0 +1,15 @@
+{
+  "title": "Update API Endpoint Handling",
+  "summary": "Refined the API endpoint to better handle null inputs and added validation checks.",
+  "attributes": {
+    "endpoint": "/api/v2/resource",
+    "change_type": "bugfix",
+    "impact": "medium"
+  },
+  "metadata": {
+    "reviewed_by": "alice",
+    "approved": "true",
+    "token": "7d6dbd8b",
+    "created_at": "2024-06-20T15:30:00Z"
+  }
+}
