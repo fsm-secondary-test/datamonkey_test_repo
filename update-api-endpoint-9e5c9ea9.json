@@ -1,15 +1,15 @@
 {
   "title": "Update API Endpoint",
-  "summary": "Changed the user authentication endpoint to support OAuth2.",
+  "summary": "Changed the user authentication endpoint to improve security.",
   "attributes": {
-    "version": "2.1.0",
-    "impact": "medium",
-    "component": "backend-auth"
+    "version": "1.2.0",
+    "changed_component": "authentication_service",
+    "impact": "high"
   },
   "metadata": {
-    "commit_hash": "a1b2c3d4e5f6",
-    "reviewed_by": "dev_team_lead",
     "token": "9e5c9ea9",
-    "created_at": "2024-04-27T12:00:00Z"
+    "author": "dev_team",
+    "reviewed": "true",
+    "created_at": "2024-06-12T10:30:00Z"
   }
 }
