@@ -1,0 +1,15 @@
+{
+  "title": "Update User Authentication",
+  "summary": "Improved security by implementing two-factor authentication.",
+  "attributes": {
+    "version": "1.3.0",
+    "impact": "high",
+    "component": "auth-service"
+  },
+  "metadata": {
+    "token": "5abf9cb2",
+    "reviewed_by": "security_team",
+    "release_stage": "production",
+    "created_at": "2024-06-15T12:00:00Z"
+  }
+}
