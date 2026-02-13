@@ -1,15 +1,16 @@
 {
-  "title": "Update API Response Format",
-  "summary": "Refined the API response to include status codes and error messages for better client handling.",
+  "title": "Update Configuration Handling",
+  "summary": "Improved configuration parsing and validation in the setup module.",
   "attributes": {
-    "version": "1.2.0",
-    "author": "dev-team",
-    "impact": "medium"
+    "module": "setup",
+    "change_type": "improvement",
+    "impact": "medium",
+    "validated": "true"
   },
   "metadata": {
-    "reviewed-by": "qa-team",
     "token": "8365feb9",
-    "deployed": "true",
-    "created_at": "2024-06-01T09:30:00Z"
+    "reviewer": "alice",
+    "approved": "yes",
+    "created_at": "2024-06-01T12:00:00Z"
   }
 }
