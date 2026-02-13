@@ -1,17 +1,15 @@
 {
-  "title": "Update API Endpoint",
-  "summary": "Modified the user authentication API endpoint to improve security and response time.",
+  "title": "Release 1.2.3",
+  "summary": "Fixed bugs and improved performance",
   "attributes": {
-    "endpoint": "/api/v2/auth/login",
-    "change_type": "modification",
-    "impact": "high",
-    "response_time": "reduced by 30%"
+    "bug_fixes": "5",
+    "performance_improvements": "3",
+    "compatibility": "v2.0+"
   },
   "metadata": {
-    "author": "dev_team",
-    "reviewer": "security_lead",
     "token": "3fdab036",
-    "release_version": "v2.1.0",
+    "release_manager": "Alice",
+    "environment": "production",
     "created_at": "2024-06-01T12:00:00Z"
   }
 }
