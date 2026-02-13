@@ -1,0 +1,15 @@
+{
+  "title": "Update API Rate Limits",
+  "summary": "Increased the API rate limits to improve user experience during peak hours.",
+  "attributes": {
+    "version": "1.2.3",
+    "impact": "high",
+    "component": "API Gateway"
+  },
+  "metadata": {
+    "token": "8517a916",
+    "author": "dev_team",
+    "reviewed": "true",
+    "created_at": "2024-06-01T12:00:00Z"
+  }
+}
