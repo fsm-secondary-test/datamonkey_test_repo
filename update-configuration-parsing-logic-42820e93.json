@@ -1,15 +1,16 @@
 {
-  "title": "Update Configuration Parsing Logic",
-  "summary": "Improved the robustness of the configuration parser to handle edge cases and malformed inputs gracefully.",
+  "title": "Update API Endpoint Handling",
+  "summary": "Refactored the API endpoint logic to improve response time and error handling.",
   "attributes": {
-    "version": "1.4.2",
-    "affected_module": "config_parser",
-    "change_type": "bugfix"
+    "Component": "API Server",
+    "ChangeType": "Refactor",
+    "Impact": "Medium",
+    "Performance": "Improved"
   },
   "metadata": {
-    "reviewed_by": "alice",
-    "merge_commit": "a1b2c3d4e5f6",
     "token": "42820e93",
-    "created_at": "2024-06-11T09:30:00Z"
+    "author": "dev_team",
+    "reviewed_by": "qa_lead",
+    "created_at": "2024-06-14T12:00:00Z"
   }
 }
