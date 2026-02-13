@@ -1,0 +1,15 @@
+{
+  "title": "Update Release 1.2.3",
+  "summary": "Improved performance and fixed minor bugs",
+  "attributes": {
+    "performance": "optimized loading time by 20%",
+    "bugfix": "resolved issue with user login crash",
+    "feature": "added new dashboard widgets"
+  },
+  "metadata": {
+    "token": "15dbfe19",
+    "release_date": "2024-06-06",
+    "author": "devteam",
+    "created_at": "2024-06-06T12:00:00Z"
+  }
+}
