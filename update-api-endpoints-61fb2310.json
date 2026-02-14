@@ -1,0 +1,15 @@
+{
+  "title": "Update API Endpoints",
+  "summary": "Refactored the user and order API endpoints for improved performance and scalability.",
+  "attributes": {
+    "version": "2.1.0",
+    "impact": "medium",
+    "components": "user-api, order-api"
+  },
+  "metadata": {
+    "token": "61fb2310",
+    "author": "devteam@example.com",
+    "reviewed": "true",
+    "created_at": "2024-06-01T12:00:00Z"
+  }
+}
