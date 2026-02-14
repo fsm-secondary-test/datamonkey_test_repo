@@ -1,0 +1,16 @@
+{
+  "title": "Update API Authentication",
+  "summary": "Refactored API authentication mechanism to improve security and performance.",
+  "attributes": {
+    "version": "2.1.0",
+    "author": "Jane Doe",
+    "reviewed_by": "John Smith",
+    "impact": "medium"
+  },
+  "metadata": {
+    "token": "22031016",
+    "release_type": "minor",
+    "deployed": "true",
+    "created_at": "2024-06-15T10:30:00Z"
+  }
+}
