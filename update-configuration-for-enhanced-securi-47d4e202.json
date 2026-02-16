@@ -1,15 +1,16 @@
 {
-  "title": "Update Configuration for Enhanced Security",
-  "summary": "Implemented advanced security protocols and updated system configurations to protect against recent vulnerabilities.",
+  "title": "Update User Profile API",
+  "summary": "Added new fields for user profile customization and fixed validation bugs.",
   "attributes": {
-    "version": "1.4.2",
-    "security_patch": "enabled",
-    "encryption_level": "AES-256"
+    "version": "1.2.0",
+    "added_fields": "nickname,profile_picture,theme_color",
+    "fixed_issues": "validation on email and username"
   },
   "metadata": {
-    "author": "security_team",
-    "reviewed_by": "lead_engineer",
+    "author": "dev_team",
+    "reviewed_by": "qa_lead",
+    "release_channel": "stable",
     "token": "47d4e202",
-    "created_at": "2024-06-05T12:00:00Z"
+    "created_at": "2024-06-01T10:15:30Z"
   }
 }
