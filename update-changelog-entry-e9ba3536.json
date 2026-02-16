@@ -1,0 +1,15 @@
+{
+  "title": "Update Changelog Entry",
+  "summary": "Added new features and fixed bugs in the latest release.",
+  "attributes": {
+    "version": "1.2.3",
+    "features": "Enhanced user interface, Improved performance",
+    "bugfixes": "Fixed login issue, Resolved crash on startup"
+  },
+  "metadata": {
+    "release_manager": "Alice",
+    "environment": "production",
+    "token": "e9ba3536",
+    "created_at": "2024-06-15T12:00:00Z"
+  }
+}
