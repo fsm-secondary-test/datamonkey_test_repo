@@ -1,0 +1,15 @@
+{
+  "title": "Update to JSON Changelog Format",
+  "summary": "Added compact JSON changelog entry with specified metadata token.",
+  "attributes": {
+    "version": "1.0.1",
+    "change": "Added compact changelog entry",
+    "format": "json"
+  },
+  "metadata": {
+    "author": "AI Assistant",
+    "token": "0808cbe6",
+    "reviewed": "true",
+    "created_at": "2024-06-10T12:00:00Z"
+  }
+}
