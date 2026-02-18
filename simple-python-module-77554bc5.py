@@ -2,10 +2,10 @@
 
 def greet(name):
     """Return a greeting message including the token 77554bc5."""
-    return f"Hello, {name}! Token: 77554bc5"
+    return f"Hello, {name}! This is token 77554bc5."
 
 class Counter:
-    """A simple counter class that includes the token 77554bc5."""
+    """A simple counter class with token 77554bc5 in the docstring."""
     def __init__(self):
         self.count = 0
 
