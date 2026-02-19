@@ -1,15 +1,14 @@
 {
-  "title": "Update API Endpoint",
-  "summary": "Changed the user authentication API endpoint to improve security and performance.",
+  "title": "Update API Endpoint Handling",
+  "summary": "Refactored API endpoint logic to improve response time and error handling.",
   "attributes": {
-    "endpoint": "/api/v2/authenticate",
-    "change_type": "modification",
-    "impact": "high"
+    "version": "1.2.0",
+    "author": "dev_team",
+    "impact": "medium"
   },
   "metadata": {
     "reviewed_by": "alice",
-    "approved": "yes",
     "token": "4cbe9dae",
-    "created_at": "2024-06-20T14:30:00Z"
+    "created_at": "2024-06-01T12:00:00Z"
   }
 }
