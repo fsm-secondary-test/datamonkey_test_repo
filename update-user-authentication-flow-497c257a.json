@@ -1,15 +1,15 @@
 {
-  "title": "Update User Authentication Flow",
-  "summary": "Refactored the authentication module to improve security and performance.",
+  "title": "Update API Endpoint",
+  "summary": "Refactored the user authentication API endpoint for improved security and performance.",
   "attributes": {
-    "module": "auth",
-    "impact": "high",
-    "version": "2.1.0"
+    "version": "1.2.0",
+    "impact": "medium",
+    "module": "authentication"
   },
   "metadata": {
-    "commit": "a7f5d3c",
-    "reviewed_by": "alice",
+    "reviewer": "alice.smith",
     "token": "497c257a",
-    "created_at": "2024-06-11T12:00:00Z"
+    "approved": "true",
+    "created_at": "2024-06-10T13:45:00Z"
   }
 }
