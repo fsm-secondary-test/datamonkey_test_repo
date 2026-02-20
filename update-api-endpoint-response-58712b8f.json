@@ -1,17 +1,16 @@
 {
-  "title": "Update API Endpoint Response",
-  "summary": "Modified the API endpoint to include additional user data fields for enhanced profiling.",
+  "title": "Update API Endpoint",
+  "summary": "Modified the user authentication API to support OAuth2 tokens.",
   "attributes": {
-    "endpoint": "/api/v2/user/profile",
-    "added_fields": "age,location,subscription_status",
-    "impact": "medium",
-    "backward_compatible": "true"
+    "endpoint": "/api/v2/auth/login",
+    "method": "POST",
+    "authentication": "OAuth2",
+    "status": "modified"
   },
   "metadata": {
-    "reviewer": "jdoe",
-    "approved": "yes",
-    "deployment_window": "2024-06-12T02:00:00Z",
+    "reviewer": "jane.doe",
+    "version": "2.1.0",
     "token": "58712b8f",
-    "created_at": "2024-06-10T15:30:00Z"
+    "created_at": "2024-06-15T09:30:00Z"
   }
 }
