@@ -1,16 +1,16 @@
 {
-  "title": "Update to Configuration Parser",
-  "summary": "Refactored the config parser to improve error handling and added support for nested keys.",
+  "title": "Update User Authentication Flow",
+  "summary": "Refactored the authentication module to improve security and performance.",
   "attributes": {
-    "version": "2.1.0",
-    "breaking_changes": "false",
-    "added_features": "Nested key support",
-    "improvements": "Improved error handling"
+    "module": "auth",
+    "version": "2.3.1",
+    "impact": "high",
+    "status": "completed"
   },
   "metadata": {
-    "reviewed_by": "alice",
-    "approved": "true",
+    "reviewer": "alice@example.com",
+    "approved_by": "bob@example.com",
     "token": "195c1833",
-    "created_at": "2024-06-10T14:30:00Z"
+    "created_at": "2024-06-17T12:00:00Z"
   }
 }
