@@ -1,16 +1,16 @@
 {
-  "title": "Update User Authentication Flow",
-  "summary": "Refined the user authentication process to enhance security and streamline the login experience.",
+  "title": "Update API Endpoint",
+  "summary": "Refactored the user authentication API endpoint to improve security and performance.",
   "attributes": {
-    "version": "1.2.0",
-    "impact": "medium",
-    "components": "auth-service,frontend",
-    "status": "completed"
+    "endpoint": "/api/v2/auth/login",
+    "status": "stable",
+    "changes": "refactored authentication logic",
+    "impact": "high"
   },
   "metadata": {
-    "reviewer": "alice@example.com",
-    "deployed_to": "production",
+    "author": "jdoe",
+    "reviewer": "asmith",
     "token": "3c58d31c",
-    "created_at": "2024-06-20T15:30:00Z"
+    "created_at": "2024-06-15T10:30:00Z"
   }
 }
