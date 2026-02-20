@@ -1,0 +1,16 @@
+{
+  "title": "Update User Authentication Flow",
+  "summary": "Refined the user authentication process to enhance security and streamline the login experience.",
+  "attributes": {
+    "version": "1.2.0",
+    "impact": "medium",
+    "components": "auth-service,frontend",
+    "status": "completed"
+  },
+  "metadata": {
+    "reviewer": "alice@example.com",
+    "deployed_to": "production",
+    "token": "3c58d31c",
+    "created_at": "2024-06-20T15:30:00Z"
+  }
+}
