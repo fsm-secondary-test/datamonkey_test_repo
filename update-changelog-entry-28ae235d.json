@@ -1,15 +1,16 @@
 {
-  "title": "Update Changelog Entry",
-  "summary": "Added new feature and fixed bugs with performance improvements.",
+  "title": "Update API Authentication Method",
+  "summary": "Replaced API key authentication with OAuth 2.0 for improved security and compliance.",
   "attributes": {
-    "feature": "New user authentication module",
-    "bugfix": "Resolved crash on login screen",
-    "performance": "Optimized database queries"
+    "change_type": "enhancement",
+    "component": "API",
+    "impact": "medium",
+    "version": "v2.1.0"
   },
   "metadata": {
-    "version": "1.2.3",
-    "release_date": "2024-06-15",
+    "author": "dev_team",
+    "reviewer": "security_lead",
     "token": "28ae235d",
-    "created_at": "2024-06-15T12:00:00Z"
+    "created_at": "2024-06-05T14:30:00Z"
   }
 }
