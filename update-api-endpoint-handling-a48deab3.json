@@ -1,15 +1,14 @@
 {
-  "title": "Update API Endpoint Handling",
-  "summary": "Refactored the API endpoint logic to improve response times and error handling.",
+  "title": "Update API endpoint",
+  "summary": "Changed the API endpoint to v2 for improved performance",
   "attributes": {
-    "version": "1.2.0",
-    "impact": "medium",
-    "author": "dev_team"
+    "endpoint": "/api/v2/resource",
+    "status": "stable",
+    "method": "GET"
   },
   "metadata": {
+    "version": "2.0",
     "token": "a48deab3",
-    "reviewed_by": "qa_lead",
-    "deployed": "true",
-    "created_at": "2024-06-12T15:30:00Z"
+    "created_at": "2024-06-15T12:00:00Z"
   }
 }
