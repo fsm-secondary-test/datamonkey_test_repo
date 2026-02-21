@@ -1,0 +1,15 @@
+{
+  "title": "Update API Endpoint",
+  "summary": "Refactored the user authentication API endpoint to improve response time.",
+  "attributes": {
+    "endpoint": "/api/v2/auth/login",
+    "response_time_improvement": "30%",
+    "breaking_change": "false"
+  },
+  "metadata": {
+    "author": "jdoe",
+    "reviewer": "asmith",
+    "token": "71c8dfad",
+    "created_at": "2024-06-10T14:32:00Z"
+  }
+}
