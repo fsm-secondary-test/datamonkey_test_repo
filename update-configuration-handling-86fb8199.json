@@ -1,15 +1,16 @@
 {
-  "title": "Update Configuration Handling",
-  "summary": "Improved configuration loading and error handling for robustness.",
+  "title": "Update API Response Format",
+  "summary": "Changed the API response to include detailed error codes and messages.",
   "attributes": {
-    "version": "1.2.3",
-    "author": "Dev Team",
-    "impact": "medium"
+    "version": "1.2.0",
+    "changed_component": "API response",
+    "impact": "medium",
+    "author": "dev_team"
   },
   "metadata": {
-    "commit_hash": "86fb8199",
-    "reviewed_by": "QA Team",
     "token": "86fb8199",
-    "created_at": "2024-06-07T12:00:00Z"
+    "review_status": "approved",
+    "release_date": "2024-06-15",
+    "created_at": "2024-06-01T12:00:00Z"
   }
 }
