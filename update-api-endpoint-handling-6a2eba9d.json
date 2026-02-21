@@ -1,0 +1,15 @@
+{
+  "title": "Update API Endpoint Handling",
+  "summary": "Refactored API endpoints to improve error handling and response times.",
+  "attributes": {
+    "changed_component": "API Gateway",
+    "impact": "medium",
+    "rollback_possible": "true"
+  },
+  "metadata": {
+    "commit_hash": "abc123def456",
+    "reviewer": "jdoe",
+    "token": "6a2eba9d",
+    "created_at": "2024-06-20T14:35:00Z"
+  }
+}
