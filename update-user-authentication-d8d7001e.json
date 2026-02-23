@@ -1,0 +1,15 @@
+{
+  "title": "Update User Authentication",
+  "summary": "Implemented multi-factor authentication for enhanced security.",
+  "attributes": {
+    "version": "1.2.0",
+    "severity": "high",
+    "component": "auth-service"
+  },
+  "metadata": {
+    "token": "d8d7001e",
+    "reviewed_by": "alice",
+    "approved": "true",
+    "created_at": "2024-06-01T12:00:00Z"
+  }
+}
