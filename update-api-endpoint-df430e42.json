@@ -1,15 +1,17 @@
 {
-  "title": "Update API Endpoint",
-  "summary": "Changed the user authentication API endpoint to improve security.",
+  "title": "Update API Response Format",
+  "summary": "Changed the user API response to include additional profile fields and improved error handling.",
   "attributes": {
-    "endpoint": "/api/v2/auth/login",
-    "method": "POST",
-    "status": "updated"
+    "version": "1.2.0",
+    "endpoint": "/api/user/profile",
+    "changes": "Added 'middle_name', 'profile_picture' fields; improved error messages",
+    "breaking_change": "false"
   },
   "metadata": {
     "token": "df430e42",
     "author": "dev_team",
-    "reviewed": "true",
-    "created_at": "2024-06-10T14:30:00Z"
+    "reviewed_by": "qa_lead",
+    "release_date": "2024-06-15",
+    "created_at": "2024-06-11T10:00:00Z"
   }
 }
