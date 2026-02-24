@@ -1,15 +1,16 @@
 {
-  "title": "Update Configuration Parsing Logic",
-  "summary": "Refined the JSON configuration parsing to handle nested attributes correctly and added error handling for missing keys.",
+  "title": "Release 1.2.0",
+  "summary": "Introduced new authentication features and bug fixes.",
   "attributes": {
-    "version": "2.1.0",
-    "component": "config-parser",
-    "impact": "medium"
+    "version": "1.2.0",
+    "features_added": "OAuth2 support, Multi-factor authentication",
+    "bugs_fixed": "Login timeout issue, Session persistence",
+    "performance": "Improved login response time by 20%"
   },
   "metadata": {
-    "author": "dev-team",
-    "reviewed_by": "alice",
     "token": "6f3eb036",
-    "created_at": "2024-06-01T12:00:00Z"
+    "release_date": "2024-06-15",
+    "author": "dev_team",
+    "created_at": "2024-06-15T12:00:00Z"
   }
 }
