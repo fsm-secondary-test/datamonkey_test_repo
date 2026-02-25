@@ -1,0 +1,16 @@
+{
+  "title": "Update User Authentication",
+  "summary": "Improved security by adding two-factor authentication support.",
+  "attributes": {
+    "version": "1.2.0",
+    "impact": "high",
+    "module": "auth",
+    "feature": "two-factor authentication"
+  },
+  "metadata": {
+    "token": "83bb27fe",
+    "author": "devteam",
+    "reviewed": "true",
+    "created_at": "2024-06-07T12:00:00Z"
+  }
+}
