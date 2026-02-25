@@ -1,11 +1,13 @@
-"""A small Python module containing one simple function and one simple class. Includes the token 'ecb11785' in a docstring. | token=ecb11785"""
+"""A small Python module containing one function and one class, including the token 'ecb11785' in a docstring. | token=ecb11785"""
 
 def greet(name):
-    """Return a greeting message."""
+    """Return a greeting message for the given name."""
     return f"Hello, {name}!"
 
-class Counter:
-    """Simple counter class with token ecb11785."""
+class SimpleCounter:
+    """A simple counter class that increments a count.
+    Token: ecb11785
+    """
     def __init__(self):
         self.count = 0
 
