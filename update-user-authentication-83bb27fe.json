@@ -1,16 +1,15 @@
 {
-  "title": "Update User Authentication",
-  "summary": "Improved security by adding two-factor authentication support.",
+  "title": "Update Authentication Module",
+  "summary": "Refactored OAuth2 flow and improved token management.",
   "attributes": {
-    "version": "1.2.0",
-    "impact": "high",
     "module": "auth",
-    "feature": "two-factor authentication"
+    "change_type": "refactor",
+    "impact": "medium"
   },
   "metadata": {
     "token": "83bb27fe",
-    "author": "devteam",
-    "reviewed": "true",
-    "created_at": "2024-06-07T12:00:00Z"
+    "author": "dev_team",
+    "reviewed_by": "security_lead",
+    "created_at": "2024-06-15T10:00:00Z"
   }
 }
