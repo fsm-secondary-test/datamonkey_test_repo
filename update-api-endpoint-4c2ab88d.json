@@ -1,0 +1,17 @@
+{
+  "title": "Update API Endpoint",
+  "summary": "Changed the /user/profile endpoint to include additional user details",
+  "attributes": {
+    "endpoint": "/user/profile",
+    "change_type": "addition",
+    "fields_added": "phone_number,email_verified",
+    "impact": "medium"
+  },
+  "metadata": {
+    "reviewed_by": "alice",
+    "approved": "true",
+    "commit_hash": "4c2ab88d",
+    "token": "4c2ab88d",
+    "created_at": "2024-06-10T14:32:00Z"
+  }
+}
