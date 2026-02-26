@@ -1,0 +1,15 @@
+{
+  "title": "Update to Version 2.5.1",
+  "summary": "Fixed minor bugs and improved performance in the data processing module.",
+  "attributes": {
+    "fixed_bugs": "3",
+    "improved_module": "data_processing",
+    "performance_gain": "15%"
+  },
+  "metadata": {
+    "release_manager": "alice",
+    "token": "b06390ac",
+    "stable_release": "true",
+    "created_at": "2024-06-01T12:00:00Z"
+  }
+}
