@@ -1,14 +1,15 @@
 {
-  "title": "Update API Endpoint Handling",
-  "summary": "Refactored API endpoint processing to improve error handling and response times.",
+  "title": "Update Configuration Parser",
+  "summary": "Refactored configuration parser to improve error handling and added support for YAML files.",
   "attributes": {
-    "changed_file": "api/endpoint_handler.py",
-    "impact": "medium",
-    "issue_fixed": "#452"
+    "changed_component": "Configuration Parser",
+    "added_feature": "YAML support",
+    "improvement": "Enhanced error handling"
   },
   "metadata": {
-    "reviewed_by": "jane_doe",
     "token": "a1b813e2",
-    "created_at": "2024-06-10T15:30:00Z"
+    "reviewed_by": "alice",
+    "priority": "high",
+    "created_at": "2024-04-27T10:15:00Z"
   }
 }
