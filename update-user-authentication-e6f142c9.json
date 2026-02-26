@@ -1,14 +1,16 @@
 {
-  "title": "Update User Authentication",
-  "summary": "Implemented OAuth 2.0 support and improved security protocols.",
+  "title": "Update API Endpoint",
+  "summary": "Changed the user authentication API endpoint to enhance security.",
   "attributes": {
-    "version": "1.2.0",
-    "author": "Jane Doe",
-    "status": "completed"
+    "endpoint": "/api/v2/auth/login",
+    "method": "POST",
+    "status": "deprecated",
+    "new_endpoint": "/api/v3/auth/login"
   },
   "metadata": {
     "token": "e6f142c9",
-    "reviewed_by": "John Smith",
-    "created_at": "2024-06-01T12:00:00Z"
+    "author": "dev_team",
+    "reviewed_by": "security_lead",
+    "created_at": "2024-06-15T10:30:00Z"
   }
 }
