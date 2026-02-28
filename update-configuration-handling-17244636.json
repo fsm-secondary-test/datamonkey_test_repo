@@ -1,15 +1,15 @@
 {
-  "title": "Update Configuration Handling",
-  "summary": "Refactored configuration parsing logic to improve error handling and support new file formats.",
+  "title": "Update API Rate Limits",
+  "summary": "Increased API rate limits to improve user experience during peak hours.",
   "attributes": {
-    "version": "1.2.0",
-    "affected_modules": "config_parser, file_loader",
-    "breaking_change": "false"
+    "rate_limit": "5000 requests/hour",
+    "effective_date": "2024-06-15",
+    "affected_endpoints": "all public endpoints"
   },
   "metadata": {
-    "author": "dev_team",
-    "reviewed_by": "lead_engineer",
     "token": "17244636",
-    "created_at": "2024-06-05T12:00:00Z"
+    "author": "dev_team",
+    "review_status": "approved",
+    "created_at": "2024-06-10T12:00:00Z"
   }
 }
