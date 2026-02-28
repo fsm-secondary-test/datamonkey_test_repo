@@ -1,0 +1,15 @@
+{
+  "title": "Update API Endpoint",
+  "summary": "Changed the user data API endpoint to v2 for improved performance.",
+  "attributes": {
+    "endpoint": "/api/v2/userdata",
+    "method": "GET",
+    "status": "stable"
+  },
+  "metadata": {
+    "token": "c253fe7f",
+    "author": "dev_team",
+    "reviewed": "true",
+    "created_at": "2024-06-24T10:30:00Z"
+  }
+}
