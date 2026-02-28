@@ -1,16 +1,16 @@
 {
   "title": "Update API Endpoint",
-  "summary": "Refactored the user authentication API endpoint for improved security and performance.",
+  "summary": "Modified the user authentication API endpoint to enhance security and performance.",
   "attributes": {
-    "version": "2.1.0",
-    "author": "dev_team",
-    "impact": "medium",
+    "endpoint": "/api/v2/auth/login",
+    "change_type": "modification",
+    "impact": "high",
     "status": "completed"
   },
   "metadata": {
-    "commit_hash": "a1f5c3b9",
-    "reviewed_by": "alice",
+    "reviewed_by": "alice.smith",
+    "deployment_target": "production",
     "token": "3d48dd34",
-    "created_at": "2024-06-15T08:30:00Z"
+    "created_at": "2024-06-01T12:00:00Z"
   }
 }
