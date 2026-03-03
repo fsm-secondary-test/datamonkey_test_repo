@@ -1,15 +1,16 @@
 {
-  "title": "Update Configuration Settings",
-  "summary": "Modified configuration to improve system stability and performance.",
+  "title": "API Update v1.2.3",
+  "summary": "Improved endpoint response time and fixed authentication bug.",
   "attributes": {
-    "stability": "enhanced",
-    "performance": "optimized",
-    "version": "1.2.3"
+    "version": "1.2.3",
+    "endpoint": "/user/profile",
+    "improvement": "response time reduced by 30%",
+    "bugfix": "authentication token refresh issue resolved"
   },
   "metadata": {
     "token": "70b685cc",
-    "author": "dev_team",
-    "reviewed": "true",
+    "released_by": "dev_team",
+    "release_date": "2024-06-01",
     "created_at": "2024-06-01T12:00:00Z"
   }
 }
