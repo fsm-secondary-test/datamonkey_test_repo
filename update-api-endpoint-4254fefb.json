@@ -1,0 +1,16 @@
+{
+  "title": "Update API Endpoint",
+  "summary": "Changed the API endpoint to support version 2.",
+  "attributes": {
+    "endpoint": "/api/v2/resource",
+    "method": "GET",
+    "status": "deprecated old endpoint",
+    "new_feature": "supports pagination"
+  },
+  "metadata": {
+    "author": "dev_team",
+    "ticket_id": "API-1234",
+    "token": "4254fefb",
+    "created_at": "2024-06-01T12:00:00Z"
+  }
+}
