@@ -1,0 +1,15 @@
+{
+  "title": "Update API Endpoint",
+  "summary": "Changed the base URL for the user authentication API to improve security.",
+  "attributes": {
+    "endpoint": "/api/v2/auth/login",
+    "previous_endpoint": "/api/v1/auth/login",
+    "impact": "medium"
+  },
+  "metadata": {
+    "author": "dev_team",
+    "reviewed_by": "security_lead",
+    "token": "9be498fb",
+    "created_at": "2024-06-15T12:00:00Z"
+  }
+}
