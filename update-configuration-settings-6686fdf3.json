@@ -1,15 +1,14 @@
 {
-  "title": "Update Configuration Settings",
-  "summary": "Refined system parameters and enhanced logging capabilities.",
+  "title": "Update to Version 2.1.0",
+  "summary": "Improved performance and fixed minor bugs",
   "attributes": {
-    "version": "1.2.3",
-    "log_level": "debug",
-    "max_connections": "500"
+    "performance": "optimized rendering engine",
+    "bugfix": "resolved login issue on iOS",
+    "feature": "added dark mode support"
   },
   "metadata": {
+    "release_type": "minor",
     "token": "6686fdf3",
-    "author": "dev_team",
-    "reviewed": "true",
     "created_at": "2024-06-01T12:00:00Z"
   }
 }
