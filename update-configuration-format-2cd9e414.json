@@ -1,15 +1,16 @@
 {
-  "title": "Update Configuration Format",
-  "summary": "Refactored configuration files to use new JSON schema for better validation and extensibility.",
+  "title": "Update User Profile API",
+  "summary": "Added new fields for user profile update and improved validation.",
   "attributes": {
-    "version": "2.0.0",
-    "schema": "new-json-schema",
-    "compatibility": "backward-compatible"
+    "version": "1.2.0",
+    "changed_fields": "email,phone,address",
+    "validation": "enhanced",
+    "backward_compatible": "true"
   },
   "metadata": {
     "author": "dev_team",
-    "review_status": "approved",
+    "reviewed_by": "qa_lead",
     "token": "2cd9e414",
-    "created_at": "2024-06-15T09:30:00Z"
+    "created_at": "2024-06-01T12:00:00Z"
   }
 }
