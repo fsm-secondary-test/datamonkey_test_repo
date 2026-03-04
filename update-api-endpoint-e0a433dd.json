@@ -1,15 +1,15 @@
 {
-  "title": "Update API Endpoint",
-  "summary": "Changed user authentication endpoint to improve security and performance.",
+  "title": "Update API Response Format",
+  "summary": "Refined the API response to include additional user metadata and improved error handling.",
   "attributes": {
-    "endpoint": "/api/v2/auth/login",
-    "change_type": "modification",
-    "impact": "high"
+    "version": "1.2.0",
+    "changed": "Added user location and timezone in response",
+    "fixed": "Handled null pointer exceptions in user data parsing"
   },
   "metadata": {
-    "token": "e0a433dd",
     "author": "dev_team",
-    "reviewed": "true",
-    "created_at": "2024-06-01T12:00:00Z"
+    "reviewer": "qa_lead",
+    "token": "e0a433dd",
+    "created_at": "2024-06-15T12:00:00Z"
   }
 }
