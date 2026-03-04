@@ -1,16 +1,14 @@
 {
   "title": "Update User Authentication",
-  "summary": "Improved security in the user authentication module by adding multi-factor authentication.",
+  "summary": "Enhanced security measures added to user login process.",
   "attributes": {
-    "module": "user-authentication",
-    "change_type": "enhancement",
+    "version": "1.2.3",
     "impact": "high",
-    "version": "1.4.2"
+    "modules_updated": "auth, user-profile"
   },
   "metadata": {
-    "author": "jdoe",
-    "reviewed_by": "asmith",
-    "ticket_id": "AUTH-4567",
+    "reviewed_by": "security-team",
+    "deployment_window": "2024-06-05 02:00-04:00",
     "token": "dbbb6dbc",
     "created_at": "2024-06-01T12:00:00Z"
   }
