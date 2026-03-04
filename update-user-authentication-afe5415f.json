@@ -1,0 +1,15 @@
+{
+  "title": "Update User Authentication",
+  "summary": "Improved security by implementing multi-factor authentication.",
+  "attributes": {
+    "version": "1.2.0",
+    "impact": "high",
+    "components": "auth-service,frontend"
+  },
+  "metadata": {
+    "reviewed_by": "security_team",
+    "deployment_window": "2024-06-02T01:00:00Z",
+    "token": "afe5415f",
+    "created_at": "2024-06-01T14:30:00Z"
+  }
+}
