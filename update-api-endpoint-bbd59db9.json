@@ -1,15 +1,15 @@
 {
-  "title": "Update API Endpoint",
-  "summary": "Changed the user profile API endpoint to improve response time.",
+  "title": "Update to User Authentication Module",
+  "summary": "Improved security and fixed session timeout bugs in the authentication module.",
   "attributes": {
-    "endpoint": "/api/v2/user/profile",
-    "change_type": "modification",
-    "impact": "medium"
+    "version": "1.2.3",
+    "fixed_issues": "#452, #458",
+    "affected_module": "AuthModule"
   },
   "metadata": {
+    "commit_hash": "a3f5c9d7",
+    "build_number": "20240601.01",
     "token": "bbd59db9",
-    "author": "dev_team",
-    "reviewed": "true",
-    "created_at": "2024-06-15T14:30:00Z"
+    "created_at": "2024-06-01T12:00:00Z"
   }
 }
