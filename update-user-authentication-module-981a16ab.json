@@ -1,15 +1,15 @@
 {
-  "title": "Update User Authentication Module",
-  "summary": "Refactored the user authentication flow to enhance security and performance.",
+  "title": "Update API Endpoint",
+  "summary": "Changed the user data retrieval endpoint to improve response time.",
   "attributes": {
-    "version": "1.2.0",
-    "author": "dev_team",
-    "impact": "medium"
+    "endpoint": "/api/v2/users/data",
+    "method": "GET",
+    "response_time_improvement": "30%"
   },
   "metadata": {
-    "reviewed_by": "security_lead",
+    "reviewer": "jdoe",
+    "approved": "true",
     "token": "981a16ab",
-    "release_stage": "staging",
-    "created_at": "2024-06-14T12:00:00Z"
+    "created_at": "2024-04-27T12:00:00Z"
   }
 }
