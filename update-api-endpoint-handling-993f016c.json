@@ -1,0 +1,15 @@
+{
+  "title": "Update API Endpoint Handling",
+  "summary": "Refactored API endpoint to improve error handling and response time.",
+  "attributes": {
+    "endpoint": "/v2/users",
+    "change_type": "refactor",
+    "impact": "medium"
+  },
+  "metadata": {
+    "token": "993f016c",
+    "author": "dev_team",
+    "reviewed": "true",
+    "created_at": "2024-06-04T12:00:00Z"
+  }
+}
