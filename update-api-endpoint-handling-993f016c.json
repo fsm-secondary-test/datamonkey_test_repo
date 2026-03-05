@@ -1,15 +1,16 @@
 {
-  "title": "Update API Endpoint Handling",
-  "summary": "Refactored API endpoint to improve error handling and response time.",
+  "title": "Update authentication flow",
+  "summary": "Refined login process to support multi-factor authentication and improved error handling.",
   "attributes": {
-    "endpoint": "/v2/users",
-    "change_type": "refactor",
-    "impact": "medium"
+    "version": "1.4.2",
+    "impact": "medium",
+    "modules_affected": "auth,ui",
+    "rollback_possible": "true"
   },
   "metadata": {
+    "commit_hash": "a3d9f5e7",
+    "reviewed_by": "jane_doe",
     "token": "993f016c",
-    "author": "dev_team",
-    "reviewed": "true",
-    "created_at": "2024-06-04T12:00:00Z"
+    "created_at": "2024-06-01T12:00:00Z"
   }
 }
