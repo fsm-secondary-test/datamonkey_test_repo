@@ -1,16 +1,15 @@
 {
   "title": "Update API Endpoint",
-  "summary": "Modified the user authentication API endpoint to improve security and response time.",
+  "summary": "Changed the API endpoint from /v1/data to /v2/data for improved performance.",
   "attributes": {
-    "endpoint": "/api/v2/authenticate",
-    "change_type": "modification",
-    "impact": "high",
-    "response_time_improvement": "20%"
+    "version": "2.0",
+    "endpoint": "/v2/data",
+    "status": "stable"
   },
   "metadata": {
-    "reviewed_by": "security_team",
-    "deployed_to": "production",
+    "author": "dev_team",
+    "reviewed_by": "qa_lead",
     "token": "a9c8bbf2",
-    "created_at": "2024-06-15T10:00:00Z"
+    "created_at": "2024-06-01T12:00:00Z"
   }
 }
