@@ -1,15 +1,16 @@
 {
   "title": "Update API Response Format",
-  "summary": "Changed the user API response to include detailed address information and user preferences.",
+  "summary": "Changed the API response to include additional user details and improved error handling.",
   "attributes": {
-    "endpoint": "/api/v1/user",
-    "changed_fields": "address,preferences",
-    "version": "1.2.0"
+    "version": "2.1.0",
+    "author": "Jane Doe",
+    "impact": "medium",
+    "components": "user-service, auth-service"
   },
   "metadata": {
-    "reviewed_by": "alice.smith",
-    "approved": "true",
     "token": "68242812",
-    "created_at": "2024-06-15T12:00:00Z"
+    "reviewed_by": "John Smith",
+    "release_date": "2024-06-25",
+    "created_at": "2024-06-20T15:30:00Z"
   }
 }
