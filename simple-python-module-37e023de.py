@@ -1,14 +1,13 @@
-"""A small Python module containing one function and one class, including the token '37e023de'. | token=37e023de"""
+"""A small Python module with one function and one class containing the token '37e023de'. | token=37e023de"""
 
 def greet(name):
-    """Return a greeting message including the name."""
+    """Return a greeting message including the given name."""
     return f"Hello, {name}!"
 
 class TokenHolder:
-    """Class holding a special token: 37e023de"""
-
-    def __init__(self):
-        self.token = "37e023de"
+    """Class that holds the special token '37e023de'."""
+    TOKEN = '37e023de'
 
     def get_token(self):
-        return self.token
+        """Return the stored token."""
+        return self.TOKEN
