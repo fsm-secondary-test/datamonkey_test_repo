@@ -1,0 +1,13 @@
+{
+  "title": "Feature Update 1.2.0",
+  "summary": "Introduced new authentication mechanism and improved UI responsiveness.",
+  "attributes": {
+    "authentication": "OAuth2 integration",
+    "UI": "Improved responsiveness and fixed layout bugs"
+  },
+  "metadata": {
+    "release_manager": "alice",
+    "token": "962ef44f",
+    "created_at": "2024-06-10T15:30:00Z"
+  }
+}
