@@ -1,16 +1,16 @@
 {
-  "title": "Update API Endpoints",
-  "summary": "Refined the API endpoints for better consistency and added new parameters for enhanced filtering.",
+  "title": "Update API Endpoint",
+  "summary": "Changed the user authentication endpoint to enhance security measures.",
   "attributes": {
-    "endpoint": "/v2/users",
-    "method": "GET",
-    "added_parameters": "status, role",
-    "deprecated_parameters": "type"
+    "endpoint": "/api/v2/auth/login",
+    "method": "POST",
+    "status": "deprecated",
+    "new_endpoint": "/api/v3/auth/login"
   },
   "metadata": {
     "reviewed_by": "alice",
-    "release_version": "1.3.0",
+    "priority": "high",
     "token": "39c51163",
-    "created_at": "2024-06-01T12:00:00Z"
+    "created_at": "2024-06-14T12:00:00Z"
   }
 }
