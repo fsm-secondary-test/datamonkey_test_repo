@@ -1,13 +1,15 @@
 {
-  "title": "Update to Feature X",
-  "summary": "Improved performance and fixed bugs in feature X.",
+  "title": "Update Project Configuration",
+  "summary": "Modified project settings to improve deployment process.",
   "attributes": {
-    "performance": "20% faster",
-    "bugfix": "resolved crash on edge cases"
+    "environment": "production",
+    "version": "1.2.0",
+    "deploymentTool": "Terraform"
   },
   "metadata": {
     "token": "20562339",
-    "release_version": "v1.2.3",
-    "created_at": "2024-06-29T12:00:00Z"
+    "author": "devops_team",
+    "reviewed_by": "qa_lead",
+    "created_at": "2024-06-03T12:00:00Z"
   }
 }
