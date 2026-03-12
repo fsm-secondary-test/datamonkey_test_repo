@@ -1,0 +1,15 @@
+{
+  "title": "Update to JSON Changelog Entry",
+  "summary": "Added a compact JSON changelog entry with specified attributes and metadata including token 48ae6325.",
+  "attributes": {
+    "version": "1.2.0",
+    "author": "chatgpt",
+    "status": "stable"
+  },
+  "metadata": {
+    "token": "48ae6325",
+    "reviewed": "true",
+    "priority": "medium",
+    "created_at": "2024-06-15T12:00:00Z"
+  }
+}
