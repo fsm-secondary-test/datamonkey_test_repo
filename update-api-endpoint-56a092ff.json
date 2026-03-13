@@ -1,16 +1,16 @@
 {
-  "title": "Update API Endpoint",
-  "summary": "Changed the user authentication API endpoint to improve security and performance.",
+  "title": "Update Configuration Parsing",
+  "summary": "Refactored the configuration parser to improve error handling and added support for nested arrays.",
   "attributes": {
-    "version": "1.2.0",
-    "author": "dev_team",
-    "impact": "medium",
-    "components": "auth-service,api-gateway"
+    "version": "2.1.0",
+    "author": "Jane Doe",
+    "issue": "#342",
+    "impact": "medium"
   },
   "metadata": {
-    "commit_hash": "a1b2c3d4",
-    "reviewer": "jane_doe",
+    "commit_hash": "a1b2c3d4e5f6",
+    "reviewer": "John Smith",
     "token": "56a092ff",
-    "created_at": "2024-06-20T15:30:00Z"
+    "created_at": "2024-06-21T10:30:00Z"
   }
 }
