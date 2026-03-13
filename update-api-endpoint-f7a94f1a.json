@@ -1,15 +1,16 @@
 {
-  "title": "Update API Endpoint",
-  "summary": "Refactored the user authentication API endpoint to improve security and performance.",
+  "title": "Update User Authentication Module",
+  "summary": "Improved security and fixed token expiration bug.",
   "attributes": {
-    "version": "1.2.0",
-    "author": "dev_team",
-    "impact": "medium"
+    "version": "1.2.3",
+    "author": "Jane Doe",
+    "impact": "High",
+    "component": "AuthModule"
   },
   "metadata": {
+    "commit_hash": "a1b2c3d4",
+    "reviewed_by": "John Smith",
     "token": "f7a94f1a",
-    "reviewed_by": "security_lead",
-    "approved": "true",
-    "created_at": "2024-06-01T12:30:00Z"
+    "created_at": "2024-06-06T12:00:00Z"
   }
 }
