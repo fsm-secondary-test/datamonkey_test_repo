@@ -1,0 +1,14 @@
+{
+  "title": "Update to Changelog Format",
+  "summary": "Added a compact JSON changelog entry including specific metadata token.",
+  "attributes": {
+    "version": "1.0.1",
+    "status": "stable",
+    "author": "developer@example.com"
+  },
+  "metadata": {
+    "token": "74284182",
+    "release_date": "2024-06-10",
+    "created_at": "2024-06-10T12:00:00Z"
+  }
+}
