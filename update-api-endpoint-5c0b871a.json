@@ -1,16 +1,15 @@
 {
-  "title": "Update API Endpoint",
-  "summary": "Changed the user authentication API endpoint to improve security.",
+  "title": "Update API Endpoint Handling",
+  "summary": "Improved error handling and added logging for API endpoint failures.",
   "attributes": {
-    "endpoint": "/api/v2/auth/login",
-    "method": "POST",
-    "status": "deprecated",
-    "new_endpoint": "/api/v3/auth/login"
+    "component": "API Server",
+    "change_type": "enhancement",
+    "impact": "medium"
   },
   "metadata": {
+    "reviewed_by": "team-lead",
     "token": "5c0b871a",
-    "author": "dev_team",
-    "priority": "high",
+    "release_version": "v2.3.1",
     "created_at": "2024-06-01T12:00:00Z"
   }
 }
