@@ -1,15 +1,15 @@
 {
-  "title": "Update Configuration Settings",
-  "summary": "Refined system parameters to improve performance and stability.",
+  "title": "Update API Endpoint",
+  "summary": "Modified the user authentication API endpoint to improve security and added rate limiting.",
   "attributes": {
-    "version": "1.2.3",
-    "environment": "production",
-    "feature_flag": "enabled"
+    "endpoint": "/api/v2/auth/user",
+    "change_type": "modification",
+    "security_patch": "true",
+    "rate_limiting": "enabled"
   },
   "metadata": {
-    "commit_hash": "6eca7790",
     "author": "dev_team",
-    "reviewed_by": "qa_lead",
+    "reviewed_by": "security_lead",
     "token": "6eca7790",
     "created_at": "2024-06-01T12:00:00Z"
   }
