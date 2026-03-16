@@ -1,0 +1,14 @@
+{
+  "title": "Update Dependencies and Fix Bugs",
+  "summary": "Upgraded several dependencies to latest versions and fixed critical bugs affecting user login.",
+  "attributes": {
+    "dependencies_updated": "react@18.2.0, lodash@4.17.21",
+    "bugs_fixed": "login failure on expired session, password reset email not sent"
+  },
+  "metadata": {
+    "release_version": "1.4.3",
+    "token": "adab2333",
+    "deployed_by": "ci-pipeline",
+    "created_at": "2024-04-27T12:00:00Z"
+  }
+}
