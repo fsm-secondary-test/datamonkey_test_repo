@@ -1,0 +1,15 @@
+{
+  "title": "Update API Response Format",
+  "summary": "Refined the API response structure for improved consistency and added new metadata fields.",
+  "attributes": {
+    "version": "1.4.0",
+    "status": "stable",
+    "breaking_changes": "false"
+  },
+  "metadata": {
+    "author": "dev_team",
+    "reviewed_by": "qa_lead",
+    "token": "f690d763",
+    "created_at": "2024-04-27T12:00:00Z"
+  }
+}
