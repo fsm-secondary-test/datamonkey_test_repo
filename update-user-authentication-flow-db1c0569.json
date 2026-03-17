@@ -1,15 +1,15 @@
 {
-  "title": "Update User Authentication Flow",
-  "summary": "Refactored the user authentication process to improve security and performance.",
+  "title": "Update API Endpoint Handling",
+  "summary": "Improved error handling for the user authentication API endpoint to enhance reliability and provide clearer error messages.",
   "attributes": {
-    "version": "2.1.0",
+    "version": "1.4.2",
     "impact": "medium",
-    "modules_changed": "auth, user-profile"
+    "module": "auth-service"
   },
   "metadata": {
-    "commit_hash": "a3f5b7e9",
-    "reviewer": "jdoe",
+    "commit_hash": "a7f5c3d9",
+    "reviewed_by": "jane.doe",
     "token": "db1c0569",
-    "created_at": "2024-06-15T10:30:00Z"
+    "created_at": "2024-06-10T12:00:00Z"
   }
 }
