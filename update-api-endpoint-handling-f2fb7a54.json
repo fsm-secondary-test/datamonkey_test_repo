@@ -1,15 +1,15 @@
 {
-  "title": "Update API Endpoint Handling",
-  "summary": "Refactored the API endpoint handling to improve performance and error management.",
+  "title": "Update API Endpoint",
+  "summary": "Refactored the user authentication API endpoint for improved security.",
   "attributes": {
-    "version": "1.2.3",
+    "version": "1.2.0",
     "impact": "medium",
-    "component": "backend"
+    "author": "dev_team"
   },
   "metadata": {
-    "reviewer": "alice",
-    "ticket": "API-456",
+    "reviewed_by": "security_lead",
     "token": "f2fb7a54",
-    "created_at": "2024-06-01T12:00:00Z"
+    "environment": "production",
+    "created_at": "2024-06-15T10:30:00Z"
   }
 }
