@@ -1,15 +1,15 @@
 {
   "title": "Update API Endpoint Handling",
-  "summary": "Refined the API endpoint logic to improve performance and error handling.",
+  "summary": "Refined the API endpoint logic to improve response time and error handling.",
   "attributes": {
-    "version": "1.2.0",
+    "version": "1.4.2",
     "impact": "medium",
-    "component": "backend"
+    "status": "completed"
   },
   "metadata": {
-    "reviewed_by": "alice",
-    "ticket_id": "API-4521",
+    "author": "dev_team",
+    "reviewer": "qa_lead",
     "token": "9e40092e",
-    "created_at": "2024-06-04T12:00:00Z"
+    "created_at": "2024-06-23T12:00:00Z"
   }
 }
