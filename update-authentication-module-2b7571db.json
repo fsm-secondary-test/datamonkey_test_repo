@@ -1,18 +1,15 @@
 {
-  "title": "Update Authentication Module",
-  "summary": "Refactored the authentication module for improved security and performance.",
+  "title": "Update API Endpoint",
+  "summary": "Changed the user profile API endpoint to support new authentication method",
   "attributes": {
-    "module": "authentication",
-    "change_type": "refactor",
-    "impact": "high",
-    "performance_improvement": "15%",
-    "security_patch": "true"
+    "endpoint": "/api/v2/user/profile",
+    "method": "POST",
+    "auth": "OAuth2"
   },
   "metadata": {
-    "commit_hash": "a1f2c3d4",
-    "reviewer": "jdoe",
+    "version": "1.4.2",
     "token": "2b7571db",
-    "release_version": "v2.3.0",
-    "created_at": "2024-06-01T12:00:00Z"
+    "deployed_by": "automation-script",
+    "created_at": "2024-06-15T10:00:00Z"
   }
 }
