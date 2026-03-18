@@ -1,0 +1,15 @@
+{
+  "title": "Update API Response Format",
+  "summary": "Modified the API response to include new fields for enhanced data tracking.",
+  "attributes": {
+    "added_field": "transaction_id",
+    "modified_field": "user_data_structure",
+    "removed_field": "legacy_flag"
+  },
+  "metadata": {
+    "author": "dev_team",
+    "reviewed_by": "qa_lead",
+    "token": "60af56c5",
+    "created_at": "2024-06-15T10:00:00Z"
+  }
+}
