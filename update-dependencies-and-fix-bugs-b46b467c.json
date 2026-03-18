@@ -1,0 +1,15 @@
+{
+  "title": "Update Dependencies and Fix Bugs",
+  "summary": "This release updates several dependencies to their latest versions and fixes minor bugs affecting the user interface.",
+  "attributes": {
+    "version": "1.2.3",
+    "dependencies_updated": "react@18.2.0, lodash@4.17.21",
+    "bugs_fixed": "UI flicker on login, crash on settings save"
+  },
+  "metadata": {
+    "release_manager": "alice",
+    "environment": "production",
+    "token": "b46b467c",
+    "created_at": "2024-06-10T15:30:00Z"
+  }
+}
