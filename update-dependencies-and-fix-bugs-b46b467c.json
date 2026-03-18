@@ -1,15 +1,16 @@
 {
-  "title": "Update Dependencies and Fix Bugs",
-  "summary": "This release updates several dependencies to their latest versions and fixes minor bugs affecting the user interface.",
+  "title": "Update User Authentication Flow",
+  "summary": "Refactored the authentication mechanism to improve security and performance.",
   "attributes": {
-    "version": "1.2.3",
-    "dependencies_updated": "react@18.2.0, lodash@4.17.21",
-    "bugs_fixed": "UI flicker on login, crash on settings save"
+    "version": "1.2.0",
+    "author": "dev_team",
+    "impact": "high",
+    "components": "auth, backend"
   },
   "metadata": {
-    "release_manager": "alice",
-    "environment": "production",
+    "commit_hash": "a1b2c3d4",
+    "review_status": "approved",
     "token": "b46b467c",
-    "created_at": "2024-06-10T15:30:00Z"
+    "created_at": "2024-06-01T12:00:00Z"
   }
 }
