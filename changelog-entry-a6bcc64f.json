@@ -1,0 +1,15 @@
+{
+  "title": "Changelog Entry",
+  "summary": "Compact changelog entry with essential details.",
+  "attributes": {
+    "version": "1.2.3",
+    "author": "Dev Team",
+    "changes": "Fixed bugs, improved performance"
+  },
+  "metadata": {
+    "commit": "a6bcc64f",
+    "release_date": "2024-06-01",
+    "token": "a6bcc64f",
+    "created_at": "2024-06-01T12:00:00Z"
+  }
+}
