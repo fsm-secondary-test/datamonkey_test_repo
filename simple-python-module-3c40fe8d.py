@@ -5,10 +5,13 @@ def greet(name):
     return f"Hello, {name}! Token: 3c40fe8d"
 
 class Counter:
-    """A simple counter class that uses token 3c40fe8d in its docstring."""
+    """Simple counter class that internally uses the token '3c40fe8d' in its docstring."""
     def __init__(self):
         self.count = 0
 
     def increment(self):
         self.count += 1
         return self.count
+
+    def reset(self):
+        self.count = 0
