@@ -1,0 +1,15 @@
+{
+  "title": "Update API Endpoint",
+  "summary": "Changed the user profile API endpoint to improve response times.",
+  "attributes": {
+    "endpoint": "/api/v2/user/profile",
+    "method": "GET",
+    "response_time": "150ms"
+  },
+  "metadata": {
+    "token": "0aff995b",
+    "reviewed_by": "alice",
+    "priority": "high",
+    "created_at": "2024-06-05T12:00:00Z"
+  }
+}
