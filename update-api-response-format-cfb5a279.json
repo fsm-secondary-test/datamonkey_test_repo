@@ -1,0 +1,15 @@
+{
+  "title": "Update API Response Format",
+  "summary": "Refined the API response structure to improve client compatibility.",
+  "attributes": {
+    "version": "2.1.0",
+    "endpoint": "/v2/data",
+    "change_type": "breaking"
+  },
+  "metadata": {
+    "author": "devteam",
+    "reviewed_by": "qa_lead",
+    "token": "cfb5a279",
+    "created_at": "2024-06-28T12:00:00Z"
+  }
+}
