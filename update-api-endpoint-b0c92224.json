@@ -1,0 +1,16 @@
+{
+  "title": "Update API Endpoint",
+  "summary": "Modified the user authentication API endpoint to improve security and added rate limiting.",
+  "attributes": {
+    "endpoint": "/api/v2/auth/login",
+    "method": "POST",
+    "rate_limit": "100 requests/minute",
+    "security_patch": "enabled"
+  },
+  "metadata": {
+    "token": "b0c92224",
+    "reviewed_by": "alice",
+    "priority": "high",
+    "created_at": "2024-06-15T09:30:00Z"
+  }
+}
