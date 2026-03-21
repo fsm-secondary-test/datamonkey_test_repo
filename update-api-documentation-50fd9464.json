@@ -1,15 +1,15 @@
 {
-  "title": "Update API Documentation",
-  "summary": "Refined endpoint descriptions and added new error codes.",
+  "title": "Update API Endpoint",
+  "summary": "Changed the user data API endpoint to support new query parameters.",
   "attributes": {
-    "version": "1.2.0",
-    "author": "jdoe",
-    "impact": "minor"
+    "endpoint": "/api/v2/users",
+    "method": "GET",
+    "parameters": "status,role,sort"
   },
   "metadata": {
-    "token": "50fd9464",
+    "author": "jdoe",
     "reviewed_by": "asmith",
-    "approved": "true",
-    "created_at": "2024-06-27T12:00:00Z"
+    "token": "50fd9464",
+    "created_at": "2024-06-15T12:00:00Z"
   }
 }
