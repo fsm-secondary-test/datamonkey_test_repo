@@ -1,15 +1,16 @@
 {
-  "title": "Update Data Processing Module",
-  "summary": "Refactored data ingestion pipeline to improve performance and added error handling.",
+  "title": "Update User Authentication Module",
+  "summary": "Improved security by implementing multi-factor authentication and fixed token expiration bug.",
   "attributes": {
-    "module": "data_ingestion",
-    "impact": "medium",
-    "status": "completed"
+    "version": "2.1.0",
+    "component": "auth-module",
+    "impact": "high",
+    "fixed_issues": "TOKEN_EXPIRATION_101, MFA_SETUP_204"
   },
   "metadata": {
-    "reviewer": "alice",
-    "priority": "high",
+    "author": "alice.dev",
+    "reviewer": "bob.sec",
     "token": "ad310726",
-    "created_at": "2024-06-10T12:00:00Z"
+    "created_at": "2024-06-15T08:30:00Z"
   }
 }
