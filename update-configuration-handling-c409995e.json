@@ -1,16 +1,15 @@
 {
-  "title": "Update Configuration Handling",
-  "summary": "Improved the configuration parsing logic to handle edge cases and added validation checks.",
+  "title": "Update API Response Format",
+  "summary": "Changed the user API endpoint to return additional profile fields and improved error handling.",
   "attributes": {
-    "version": "1.2.3",
-    "author": "Jane Doe",
-    "component": "config-parser",
-    "impact": "medium"
+    "endpoint": "/api/user/profile",
+    "added_fields": "middle_name, profile_picture_url",
+    "error_handling": "standardized error codes and messages"
   },
   "metadata": {
+    "author": "dev_team_lead",
+    "release_version": "v2.3.1",
     "token": "c409995e",
-    "reviewed_by": "John Smith",
-    "status": "merged",
-    "created_at": "2024-06-01T12:00:00Z"
+    "created_at": "2024-06-12T15:30:00Z"
   }
 }
