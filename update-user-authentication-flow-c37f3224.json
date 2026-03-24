@@ -1,0 +1,15 @@
+{
+  "title": "Update User Authentication Flow",
+  "summary": "Improved security and added multi-factor authentication support.",
+  "attributes": {
+    "version": "2.5.1",
+    "impact": "high",
+    "mfa_enabled": "true"
+  },
+  "metadata": {
+    "token": "c37f3224",
+    "author": "dev_team",
+    "reviewed": "yes",
+    "created_at": "2024-06-15T10:23:00Z"
+  }
+}
