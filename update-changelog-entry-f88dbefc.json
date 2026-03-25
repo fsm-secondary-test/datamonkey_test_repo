@@ -1,0 +1,14 @@
+{
+  "title": "Update Changelog Entry",
+  "summary": "Added new features and fixed bugs in the latest release.",
+  "attributes": {
+    "version": "1.2.3",
+    "features_added": "New authentication module, UI enhancements",
+    "bugs_fixed": "Login timeout issue, data sync error"
+  },
+  "metadata": {
+    "release_type": "minor",
+    "token": "f88dbefc",
+    "created_at": "2024-06-01T12:00:00Z"
+  }
+}
