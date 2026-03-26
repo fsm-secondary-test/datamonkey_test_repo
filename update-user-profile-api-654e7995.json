@@ -1,15 +1,14 @@
 {
-  "title": "Update User Profile API",
-  "summary": "Added new fields for user preferences and improved validation logic.",
+  "title": "Update API Endpoint",
+  "summary": "Refactored the user authentication API endpoint to improve security and performance.",
   "attributes": {
-    "version": "2.3.0",
-    "added_fields": "theme,notifications,email_opt_in",
-    "validation": "enhanced input checks for email and phone number"
+    "version": "1.2.3",
+    "author": "devteam",
+    "impact": "medium"
   },
   "metadata": {
-    "author": "dev_team",
-    "reviewed_by": "qa_team",
+    "release_date": "2024-06-01",
     "token": "654e7995",
-    "created_at": "2024-06-01T10:15:00Z"
+    "created_at": "2024-06-01T12:00:00Z"
   }
 }
