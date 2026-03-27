@@ -1,15 +1,17 @@
-"""A small Python module with one simple function and one simple class, including the literal token '42b04f33'. | token=42b04f33"""
+"""A small Python module with one function and one class, including a literal token in a docstring. | token=42b04f33"""
 
 def greet(name):
-    """Return a greeting message including the given name."""
+    """Return a greeting message including the name. Token: 42b04f33"""
     return f"Hello, {name}!"
 
-class Answer:
-    """Class to represent the ultimate answer with token '42b04f33'."""
+class Counter:
+    """A simple counter class. Token: 42b04f33"""
     def __init__(self):
-        self.value = 42
-        self.token = '42b04f33'
-    
-    def get_answer(self):
-        """Return the ultimate answer value."""
-        return self.value
+        self.count = 0
+
+    def increment(self):
+        self.count += 1
+        return self.count
+
+    def reset(self):
+        self.count = 0
