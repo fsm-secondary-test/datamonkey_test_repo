@@ -1,15 +1,15 @@
 {
-  "title": "Update API Endpoint Handling",
-  "summary": "Refactored the API endpoint to improve response time and handle edge cases gracefully.",
+  "title": "Update API Endpoints",
+  "summary": "Refactored API endpoints for improved performance.",
   "attributes": {
-    "component": "backend",
-    "impact": "medium",
-    "status": "completed"
+    "version": "1.2.0",
+    "author": "dev_team",
+    "impact": "medium"
   },
   "metadata": {
+    "commit_hash": "a1b2c3d4",
+    "release_date": "2024-06-15",
     "token": "53a10076",
-    "reviewed_by": "alice",
-    "priority": "high",
-    "created_at": "2024-06-01T12:00:00Z"
+    "created_at": "2024-06-15T10:30:00Z"
   }
 }
