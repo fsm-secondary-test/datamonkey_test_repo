@@ -1,15 +1,17 @@
 {
-  "title": "Update Configuration Parser",
-  "summary": "Improved error handling and added support for new config parameters.",
+  "title": "Update User Authentication Module",
+  "summary": "Refactored authentication logic to improve security and performance.",
   "attributes": {
-    "version": "1.2.3",
-    "author": "dev_team",
-    "changes": "added new parameters, improved error messages"
+    "module": "auth",
+    "change_type": "refactor",
+    "impact": "high",
+    "status": "completed"
   },
   "metadata": {
-    "commit_hash": "a1b2c3d4",
-    "reviewed_by": "qa_lead",
+    "reviewer": "alice",
+    "approved": "yes",
     "token": "7d910977",
-    "created_at": "2024-06-01T12:00:00Z"
+    "release_version": "v2.4.1",
+    "created_at": "2024-06-15T10:30:00Z"
   }
 }
