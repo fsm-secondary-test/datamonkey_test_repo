@@ -1,0 +1,14 @@
+{
+  "title": "Update API Endpoint",
+  "summary": "Modified the user authentication API to include OAuth2 support.",
+  "attributes": {
+    "version": "1.2.0",
+    "author": "devteam",
+    "change_type": "feature"
+  },
+  "metadata": {
+    "reviewed_by": "alice",
+    "token": "cce229f2",
+    "created_at": "2024-06-01T12:00:00Z"
+  }
+}
