@@ -1,0 +1,15 @@
+{
+  "title": "Update API Response Format",
+  "summary": "Refined the API response to include detailed metadata and attributes for better client parsing.",
+  "attributes": {
+    "version": "1.2.0",
+    "response_time": "250ms",
+    "status": "stable"
+  },
+  "metadata": {
+    "token": "23cea952",
+    "author": "dev_team",
+    "reviewed": "yes",
+    "created_at": "2024-04-27T15:00:00Z"
+  }
+}
