@@ -1,0 +1,14 @@
+{
+  "title": "Changelog Entry",
+  "summary": "Added new feature for user authentication and fixed minor bugs.",
+  "attributes": {
+    "version": "1.2.0",
+    "author": "devteam",
+    "release_date": "2024-06-21"
+  },
+  "metadata": {
+    "token": "2b35637f",
+    "environment": "production",
+    "created_at": "2024-06-21T12:00:00Z"
+  }
+}
