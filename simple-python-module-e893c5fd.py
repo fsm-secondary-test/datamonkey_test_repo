@@ -1,14 +1,17 @@
-"""A small Python module containing one function and one class with a specific token in a docstring. | token=e893c5fd"""
+"""A small Python module with one function and one class, including the token 'e893c5fd'. | token=e893c5fd"""
 
 def greet(name):
-    """Return a greeting string including the name."""
-    return f"Hello, {name}!"
+    """Return a greeting message including the token e893c5fd."""
+    return f"Hello, {name}! Your token is e893c5fd."
 
-class Example:
-    """Example class containing the token e893c5fd in the docstring."""
-    def __init__(self, value):
-        self.value = value
+class Counter:
+    """Simple counter class with token e893c5fd in the docstring."""
+    def __init__(self):
+        self.count = 0
 
-    def get_value(self):
-        """Return the stored value."""
-        return self.value
+    def increment(self):
+        self.count += 1
+        return self.count
+
+    def reset(self):
+        self.count = 0
