@@ -1,14 +1,15 @@
 {
-  "title": "Changelog Entry",
-  "summary": "Added new feature for user authentication and fixed minor bugs.",
+  "title": "Update JSON Changelog Entry",
+  "summary": "Added a compact JSON changelog entry with required fields and specific token in metadata.",
   "attributes": {
-    "version": "1.2.0",
-    "author": "devteam",
-    "release_date": "2024-06-21"
+    "version": "1.0.1",
+    "change_type": "bugfix",
+    "author": "dev_team"
   },
   "metadata": {
     "token": "2b35637f",
     "environment": "production",
-    "created_at": "2024-06-21T12:00:00Z"
+    "approved": "true",
+    "created_at": "2024-06-10T12:00:00Z"
   }
 }
