@@ -1,0 +1,15 @@
+{
+  "title": "Update API Response Format",
+  "summary": "Refactored the API response format to improve consistency and readability.",
+  "attributes": {
+    "version": "1.2.0",
+    "impact": "medium",
+    "author": "dev_team"
+  },
+  "metadata": {
+    "token": "9e2e30b9",
+    "reviewed_by": "qa_lead",
+    "approved": "true",
+    "created_at": "2024-06-01T12:00:00Z"
+  }
+}
