@@ -1,17 +1,15 @@
 {
-  "title": "Update API Response Structure",
-  "summary": "Refactored the API to improve response parsing and added new fields for better client integration.",
+  "title": "Update API Endpoint",
+  "summary": "Changed the API endpoint to support new versioning scheme.",
   "attributes": {
-    "version": "1.2.0",
-    "breaking_change": "false",
-    "added_fields": "user_status, last_login",
-    "deprecated_fields": "session_token"
+    "endpoint": "/api/v2/resource",
+    "method": "POST",
+    "deprecated": "false"
   },
   "metadata": {
-    "commit_hash": "9f8e7d6c",
-    "author": "Jane Doe",
-    "reviewed_by": "John Smith",
     "token": "3d4a7ad1",
-    "created_at": "2024-06-12T09:30:00Z"
+    "author": "dev_team",
+    "reviewed": "true",
+    "created_at": "2024-06-01T12:00:00Z"
   }
 }
